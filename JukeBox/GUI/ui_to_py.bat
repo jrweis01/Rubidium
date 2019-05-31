@@ -1,0 +1,1 @@
+Python C:\ProgramData\Anaconda2\Lib\site-packages\PyQt4\uic\pyuic.py qt_ui_form_deigner.ui > qt_ui_form_deigner.py
