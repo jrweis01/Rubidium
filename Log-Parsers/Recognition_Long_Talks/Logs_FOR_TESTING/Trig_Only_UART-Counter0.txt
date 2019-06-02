@@ -1,0 +1,627 @@
+Wed 04/07/2018 17:14:33.617 INFO - connecting to LabJack for results
+Wed 04/07/2018 17:14:33.618 INFO - Connecting to UART for results
+Wed 04/07/2018 17:14:33.707 INFO - LabJack will be checked every 0.5 seconds
+Wed 04/07/2018 17:14:33.709 INFO - Starting to play wav files...
+Wed 04/07/2018 17:14:33.710 INFO - 
+===========================================
+Test_type: Trigger_Only
+Test description: L_0dB_Headset_Car80_Noise_-23LUFS.wav vol: -24
+list of wavs: C:\AutomationEnvironment\lists\Alexa_Amazon_210_second-Half_-23LUFS_RIGHT.txt
+signal db is:  0
+asr delay time is: 1s
+Counter 0 Name: COM13
+Counter 1 Name: Counter0
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\ST_50.3.22_opt-3_UART_50.3.20_counter0_M-audio-30_(Tone-23LUFS_62dbSPL)_R-speaker-1.3__Car80-24_LEFT-RIGHT-Separated_Wed07-04-2018@17-14-30.76.txt C:\AutomationEnvironment\lists\Alexa_Amazon_210_second-Half_-23LUFS_RIGHT.txt C:\AutomationEnvironment\NoiseFiles\Noises_-23LUFS_LEFT\L_0dB_Headset_Car80_Noise_-23LUFS.wav 0 -24 3 1 lj-uart Trigger_Only "Alexa" "SNR" "COM13" "Counter0" "" ""
+-------------------------------------------
+Wed 04/07/2018 17:14:36.690 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5f7cb0ee63188a401cb1fd9e8dab9cff.wav
+Wed 04/07/2018 17:14:38.894 INFO - UART Recognized! - Trigger found, recognition counter : 10
+Wed 04/07/2018 17:14:39.341 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:14:41.180 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_987a02d8160ae8b402206c198ba3df79.wav
+Wed 04/07/2018 17:14:43.035 INFO - UART Recognized! - Trigger found, recognition counter : 11
+Wed 04/07/2018 17:14:43.473 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:14:45.117 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6d4e4d18398b3e0630ec152b87768776.wav
+Wed 04/07/2018 17:14:47.369 INFO - UART Recognized! - Trigger found, recognition counter : 12
+Wed 04/07/2018 17:14:47.608 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:14:49.875 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_deb823181cb12d25c75940b3c8566863.wav
+Wed 04/07/2018 17:14:51.608 INFO - UART Recognized! - Trigger found, recognition counter : 13
+Wed 04/07/2018 17:14:52.243 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:14:54.063 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_25a230b1a15e84df004db48cd2f27539.wav
+Wed 04/07/2018 17:14:56.486 INFO - UART Recognized! - Trigger found, recognition counter : 14
+Wed 04/07/2018 17:14:56.877 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:14:58.816 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_04938358a2711583f86e360c52fedd81.wav
+Wed 04/07/2018 17:15:00.579 INFO - UART Recognized! - Trigger found, recognition counter : 15
+Wed 04/07/2018 17:15:01.009 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:02.877 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6b827990621759b8df5313cfb2c557ee.wav
+Wed 04/07/2018 17:15:05.266 INFO - UART Recognized! - Trigger found, recognition counter : 16
+Wed 04/07/2018 17:15:05.664 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:07.709 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_4716b82ee855daa8c91c31841c9c450f.wav
+Wed 04/07/2018 17:15:09.743 INFO - UART Recognized! - Trigger found, recognition counter : 17
+Wed 04/07/2018 17:15:10.293 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:12.217 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_cf45f373217c9565a0d9ec71cb5a1647.wav
+Wed 04/07/2018 17:15:14.286 INFO - UART Recognized! - Trigger found, recognition counter : 18
+Wed 04/07/2018 17:15:14.930 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:16.598 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_b478313af3bb71e8367f1cb11b31cdb6.wav
+Wed 04/07/2018 17:15:18.732 INFO - UART Recognized! - Trigger found, recognition counter : 19
+Wed 04/07/2018 17:15:19.085 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:20.973 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_72135106d7f3867c02ae5ea45ec1ca2d.wav
+Wed 04/07/2018 17:15:22.858 INFO - UART Recognized! - Trigger found, recognition counter : 20
+Wed 04/07/2018 17:15:23.217 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:25.482 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_02efd67d1d6a35bd25fb596439ded717.wav
+Wed 04/07/2018 17:15:27.177 INFO - UART Recognized! - Trigger found, recognition counter : 21
+Wed 04/07/2018 17:15:27.345 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:29.859 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_13c035440189ac33923dc7017849d036.wav
+Wed 04/07/2018 17:15:31.941 INFO - UART Recognized! - Trigger found, recognition counter : 22
+Wed 04/07/2018 17:15:32.490 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:34.243 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9a70ae2b1b301dcae5b8307a4d2a4969.wav
+Wed 04/07/2018 17:15:36.052 INFO - UART Recognized! - Trigger found, recognition counter : 23
+Wed 04/07/2018 17:15:36.622 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:38.694 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1aa697025f9cb58d8f9830e7f379d7bb.wav
+Wed 04/07/2018 17:15:40.786 INFO - UART Recognized! - Trigger found, recognition counter : 24
+Wed 04/07/2018 17:15:41.259 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:43.404 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_656f0e8959915be1335c843f6901b3e2.wav
+Wed 04/07/2018 17:15:45.280 INFO - UART Recognized! - Trigger found, recognition counter : 25
+Wed 04/07/2018 17:15:45.891 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:47.844 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_53cab78d7e5f1240d91d71fff282037b.wav
+Wed 04/07/2018 17:15:50.529 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:15:52.480 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_dc5474e4996d89881cbb0a13e11e2157.wav
+Wed 04/07/2018 17:15:56.990 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f825fb5fb32630f204bbdf3baabf4600.wav
+Wed 04/07/2018 17:15:59.323 INFO - UART Recognized! - Trigger found, recognition counter : 26
+Wed 04/07/2018 17:15:59.727 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:01.687 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_26d323f258e5263723d704c0b34782bf.wav
+Wed 04/07/2018 17:16:03.706 INFO - UART Recognized! - Trigger found, recognition counter : 27
+Wed 04/07/2018 17:16:04.358 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:06.121 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d5045a0e39dadf4fd0dcea070e05c436.wav
+Wed 04/07/2018 17:16:08.039 INFO - UART Recognized! - Trigger found, recognition counter : 28
+Wed 04/07/2018 17:16:08.490 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:10.638 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d91234cb2b7d3c930afe55aed94b6732.wav
+Wed 04/07/2018 17:16:12.966 INFO - UART Recognized! - Trigger found, recognition counter : 29
+Wed 04/07/2018 17:16:13.650 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:15.076 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_15b8f0c67a0f9b8842a5920419bdda9a.wav
+Wed 04/07/2018 17:16:17.272 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:17.289 INFO - UART Recognized! - Trigger found, recognition counter : 30
+Wed 04/07/2018 17:16:19.454 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_2ad05bffa5d3695d7ea02e3daa6e0465.wav
+Wed 04/07/2018 17:16:21.492 INFO - UART Recognized! - Trigger found, recognition counter : 31
+Wed 04/07/2018 17:16:21.903 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:23.834 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_4c946c5af8a96b8de67992df31d94d2f.wav
+Wed 04/07/2018 17:16:26.082 INFO - UART Recognized! - Trigger found, recognition counter : 32
+Wed 04/07/2018 17:16:26.543 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:28.210 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7c0c79965f5adf773b65b67a7adc9307.wav
+Wed 04/07/2018 17:16:30.032 INFO - UART Recognized! - Trigger found, recognition counter : 33
+Wed 04/07/2018 17:16:30.170 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:32.838 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d7dcd09476a473cdf16575408114823b.wav
+Wed 04/07/2018 17:16:34.846 INFO - UART Recognized! - Trigger found, recognition counter : 34
+Wed 04/07/2018 17:16:35.311 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:37.266 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_13619648b9b1cbaccb45a6612c72ef4f.wav
+Wed 04/07/2018 17:16:39.038 INFO - UART Recognized! - Trigger found, recognition counter : 35
+Wed 04/07/2018 17:16:39.436 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:41.576 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_b0f21677076ca24d307d43ca3e1a153f.wav
+Wed 04/07/2018 17:16:43.723 INFO - UART Recognized! - Trigger found, recognition counter : 36
+Wed 04/07/2018 17:16:44.072 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:45.885 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_4155b669c24673afc74fb2acf5b6868a.wav
+Wed 04/07/2018 17:16:48.315 INFO - UART Recognized! - Trigger found, recognition counter : 37
+Wed 04/07/2018 17:16:48.713 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:50.573 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_74023e17791bf60f65375894afa88cf2.wav
+Wed 04/07/2018 17:16:52.921 INFO - UART Recognized! - Trigger found, recognition counter : 38
+Wed 04/07/2018 17:16:53.348 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:16:55.134 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9564e32bff1aff660cf47e10da2cfb72.wav
+Wed 04/07/2018 17:16:57.559 INFO - UART Recognized! - Trigger found, recognition counter : 39
+Wed 04/07/2018 17:16:57.982 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:00.013 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ce6ea777f44913e0b0b04d00bf54fd97.wav
+Wed 04/07/2018 17:17:02.358 INFO - UART Recognized! - Trigger found, recognition counter : 40
+Wed 04/07/2018 17:17:02.625 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:04.642 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e2442788e3e47b530b2cedc6255510b7.wav
+Wed 04/07/2018 17:17:09.411 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f0431402dc7fb9f6d3f57464299daec7.wav
+Wed 04/07/2018 17:17:13.980 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_41de7fc44c9b2548b7b63ad1deefe097.wav
+Wed 04/07/2018 17:17:15.857 INFO - UART Recognized! - Trigger found, recognition counter : 41
+Wed 04/07/2018 17:17:15.875 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:18.369 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_dd0938df7476778541654a2838a79ae7.wav
+Wed 04/07/2018 17:17:20.543 INFO - UART Recognized! - Trigger found, recognition counter : 42
+Wed 04/07/2018 17:17:21.015 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:22.858 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_61c4df8097b1e6a63ff105f45c4813fd.wav
+Wed 04/07/2018 17:17:25.022 INFO - UART Recognized! - Trigger found, recognition counter : 43
+Wed 04/07/2018 17:17:25.654 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:27.418 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_b0ec0c53c8704b96b4a4c8a057d1992f.wav
+Wed 04/07/2018 17:17:29.724 INFO - UART Recognized! - Trigger found, recognition counter : 44
+Wed 04/07/2018 17:17:29.779 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:31.789 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_95083afc385345035672a9c9ce4047b3.wav
+Wed 04/07/2018 17:17:33.786 INFO - UART Recognized! - Trigger found, recognition counter : 45
+Wed 04/07/2018 17:17:33.914 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:36.308 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ee3dfb2dfbe8f67f82f60f6461a64181.wav
+Wed 04/07/2018 17:17:38.506 INFO - UART Recognized! - Trigger found, recognition counter : 46
+Wed 04/07/2018 17:17:39.069 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:40.996 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6bd8af8ee60636a99216ffd5e82abc31.wav
+Wed 04/07/2018 17:17:43.321 INFO - UART Recognized! - Trigger found, recognition counter : 47
+Wed 04/07/2018 17:17:43.711 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:45.617 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d1ec90d1809c16f013abb23517ea8340.wav
+Wed 04/07/2018 17:17:47.878 INFO - UART Recognized! - Trigger found, recognition counter : 48
+Wed 04/07/2018 17:17:48.344 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:50.305 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_33d6782acbd966470a3438231926bcaf.wav
+Wed 04/07/2018 17:17:52.474 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:52.502 INFO - UART Recognized! - Trigger found, recognition counter : 49
+Wed 04/07/2018 17:17:54.743 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6114598ced97f36c8d9cc4ba3db44505.wav
+Wed 04/07/2018 17:17:56.947 INFO - UART Recognized! - Trigger found, recognition counter : 50
+Wed 04/07/2018 17:17:57.117 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:17:59.448 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c8cf244055f7bc24f4b4b0ff527d1fd7.wav
+Wed 04/07/2018 17:18:01.361 INFO - UART Recognized! - Trigger found, recognition counter : 51
+Wed 04/07/2018 17:18:01.756 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:03.953 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_abd585a65a6c46f99fb3aced67496deb.wav
+Wed 04/07/2018 17:18:06.351 INFO - UART Recognized! - Trigger found, recognition counter : 52
+Wed 04/07/2018 17:18:06.387 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:08.642 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_20674be638f2bdc5649cf898bae7677f.wav
+Wed 04/07/2018 17:18:10.591 INFO - UART Recognized! - Trigger found, recognition counter : 53
+Wed 04/07/2018 17:18:11.025 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:13.012 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_aee304e6b2831e80286a31c92cc84bd3.wav
+Wed 04/07/2018 17:18:15.036 INFO - UART Recognized! - Trigger found, recognition counter : 54
+Wed 04/07/2018 17:18:15.168 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:17.569 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_153d15a62436106d9e9a89b37a100984.wav
+Wed 04/07/2018 17:18:19.644 INFO - UART Recognized! - Trigger found, recognition counter : 55
+Wed 04/07/2018 17:18:19.806 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:22.190 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1cd292c59af712b7eed65a9a79a167bb.wav
+Wed 04/07/2018 17:18:24.506 INFO - UART Recognized! - Trigger found, recognition counter : 56
+Wed 04/07/2018 17:18:24.944 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:26.687 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a734904131d11013e0056a629e361123.wav
+Wed 04/07/2018 17:18:28.937 INFO - UART Recognized! - Trigger found, recognition counter : 57
+Wed 04/07/2018 17:18:29.078 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:31.188 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_70ab14e19d2be4f586138cdd6b6210c5.wav
+Wed 04/07/2018 17:18:33.223 INFO - UART Recognized! - Trigger found, recognition counter : 58
+Wed 04/07/2018 17:18:33.720 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:35.747 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_32dd29b293cac446e16f7e413399c0bf.wav
+Wed 04/07/2018 17:18:37.733 INFO - UART Recognized! - Trigger found, recognition counter : 59
+Wed 04/07/2018 17:18:38.359 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:40.247 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ce10ccff0b3077a4936f8ec72db49514.wav
+Wed 04/07/2018 17:18:42.309 INFO - UART Recognized! - Trigger found, recognition counter : 60
+Wed 04/07/2018 17:18:42.992 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:44.677 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_441e2e9871d5e7f86c7f7244b5e5a244.wav
+Wed 04/07/2018 17:18:46.499 INFO - UART Recognized! - Trigger found, recognition counter : 61
+Wed 04/07/2018 17:18:46.615 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:48.736 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_3ee785bedfb5d920b62c07ac74b5d7df.wav
+Wed 04/07/2018 17:18:50.417 INFO - UART Recognized! - Trigger found, recognition counter : 62
+Wed 04/07/2018 17:18:50.749 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:53.165 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5a6a231fa934d5305e690460aa2808a8.wav
+Wed 04/07/2018 17:18:55.328 INFO - UART Recognized! - Trigger found, recognition counter : 63
+Wed 04/07/2018 17:18:55.381 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:18:57.674 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6d78b060e964dd6b2d04b86f636ae791.wav
+Wed 04/07/2018 17:18:59.917 INFO - UART Recognized! - Trigger found, recognition counter : 64
+Wed 04/07/2018 17:19:00.013 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:02.295 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_b8ea3bd742af58a558f7c2dcda14edab.wav
+Wed 04/07/2018 17:19:04.555 INFO - UART Recognized! - Trigger found, recognition counter : 65
+Wed 04/07/2018 17:19:05.161 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:06.983 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c892a7172705a665d65f2e60ac47632e.wav
+Wed 04/07/2018 17:19:08.667 INFO - UART Recognized! - Trigger found, recognition counter : 66
+Wed 04/07/2018 17:19:09.295 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:11.163 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_728b33b2fbae231618ff4733232bcdbe.wav
+Wed 04/07/2018 17:19:13.131 INFO - UART Recognized! - Trigger found, recognition counter : 67
+Wed 04/07/2018 17:19:13.423 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:15.401 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_162686b08466fd7f6be94b9796778538.wav
+Wed 04/07/2018 17:19:17.368 INFO - UART Recognized! - Trigger found, recognition counter : 68
+Wed 04/07/2018 17:19:17.548 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:19.901 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f2914e2f0ca0b6dcb4047f5560acef67.wav
+Wed 04/07/2018 17:19:22.342 INFO - UART Recognized! - Trigger found, recognition counter : 69
+Wed 04/07/2018 17:19:22.697 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:24.651 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_261048c4b674b74271dcde031ab01ce8.wav
+Wed 04/07/2018 17:19:26.726 INFO - UART Recognized! - Trigger found, recognition counter : 70
+Wed 04/07/2018 17:19:26.831 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:29.089 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e13b739a41162e491101cf75f016f7f7.wav
+Wed 04/07/2018 17:19:31.348 INFO - UART Recognized! - Trigger found, recognition counter : 71
+Wed 04/07/2018 17:19:31.464 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:33.519 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ee15ac43246eae98567fe9cbcf571d97.wav
+Wed 04/07/2018 17:19:35.553 INFO - UART Recognized! - Trigger found, recognition counter : 72
+Wed 04/07/2018 17:19:36.102 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:37.947 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0e9dc1f9965569bae2e4c3356034c46f.wav
+Wed 04/07/2018 17:19:40.081 INFO - UART Recognized! - Trigger found, recognition counter : 73
+Wed 04/07/2018 17:19:40.236 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:42.457 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1c243b3921269a249ed6da56852fc45d.wav
+Wed 04/07/2018 17:19:44.479 INFO - UART Recognized! - Trigger found, recognition counter : 74
+Wed 04/07/2018 17:19:44.877 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:47.032 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_43d3598c3ae72ab166b76076ba921726.wav
+Wed 04/07/2018 17:19:48.941 INFO - UART Recognized! - Trigger found, recognition counter : 75
+Wed 04/07/2018 17:19:49.512 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:51.596 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a338c967f6127fadecd9dc8dd7d30fd1.wav
+Wed 04/07/2018 17:19:53.819 INFO - UART Recognized! - Trigger found, recognition counter : 76
+Wed 04/07/2018 17:19:54.144 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:19:56.104 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_28c18e6d3ea845db2b9ed96d885c383f.wav
+Wed 04/07/2018 17:19:58.091 INFO - UART Recognized! - Trigger found, recognition counter : 77
+Wed 04/07/2018 17:19:58.279 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:00.535 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7264ad98a8a80e6da95209add5d4cd6e.wav
+Wed 04/07/2018 17:20:02.538 INFO - UART Recognized! - Trigger found, recognition counter : 78
+Wed 04/07/2018 17:20:02.921 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:04.964 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9c0a74d02a2a4d8884cb78d1bb46049b.wav
+Wed 04/07/2018 17:20:07.176 INFO - UART Recognized! - Trigger found, recognition counter : 79
+Wed 04/07/2018 17:20:07.552 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:09.582 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_685ff18581a23e5f8879a2ddfc4071de.wav
+Wed 04/07/2018 17:20:11.526 INFO - UART Recognized! - Trigger found, recognition counter : 80
+Wed 04/07/2018 17:20:11.687 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:14.081 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1ea1533c60161e0a6130262d270b35b8.wav
+Wed 04/07/2018 17:20:15.957 INFO - UART Recognized! - Trigger found, recognition counter : 81
+Wed 04/07/2018 17:20:16.325 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:18.582 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a5e461a50e93536b04f161bb6ed33d2c.wav
+Wed 04/07/2018 17:20:20.457 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:20.772 INFO - UART Recognized! - Trigger found, recognition counter : 82
+Wed 04/07/2018 17:20:23.082 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c0a8829ce137b690ebfb4da37e07b1df.wav
+Wed 04/07/2018 17:20:25.490 INFO - UART Recognized! - Trigger found, recognition counter : 83
+Wed 04/07/2018 17:20:25.592 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:27.770 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_36a7ba8d559fc4358115fc513c2640f1.wav
+Wed 04/07/2018 17:20:32.069 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c0b689a344195ad21c72b5ba663be08a.wav
+Wed 04/07/2018 17:20:34.157 INFO - UART Recognized! - Trigger found, recognition counter : 84
+Wed 04/07/2018 17:20:34.790 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:36.698 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e2a809b4a1d5b7b2e7ec38ec5de10c70.wav
+Wed 04/07/2018 17:20:38.670 INFO - UART Recognized! - Trigger found, recognition counter : 85
+Wed 04/07/2018 17:20:38.928 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:40.878 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6e63e6cfa4efcccc18504944f817e2a4.wav
+Wed 04/07/2018 17:20:42.548 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:43.085 INFO - UART Recognized! - Trigger found, recognition counter : 86
+Wed 04/07/2018 17:20:45.453 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_05968478ca6179bea4315eb9c220a480.wav
+Wed 04/07/2018 17:20:47.594 INFO - UART Recognized! - Trigger found, recognition counter : 87
+Wed 04/07/2018 17:20:47.696 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:49.887 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6497255f20bf0f11926555a605499d00.wav
+Wed 04/07/2018 17:20:54.316 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9e7fa4385e1f7d549e25a89b528aa5ad.wav
+Wed 04/07/2018 17:20:56.456 INFO - UART Recognized! - Trigger found, recognition counter : 88
+Wed 04/07/2018 17:20:56.894 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:20:59.065 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e0013c9bfe725728ba3cf67b79f22326.wav
+Wed 04/07/2018 17:21:01.111 INFO - UART Recognized! - Trigger found, recognition counter : 89
+Wed 04/07/2018 17:21:01.526 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:03.686 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f8d520479f2759499d55615b540fb579.wav
+Wed 04/07/2018 17:21:06.006 INFO - UART Recognized! - Trigger found, recognition counter : 90
+Wed 04/07/2018 17:21:06.164 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:08.305 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_69d49bc8aaa6bb84bd36e882d870bfc4.wav
+Wed 04/07/2018 17:21:10.516 INFO - UART Recognized! - Trigger found, recognition counter : 91
+Wed 04/07/2018 17:21:10.806 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:12.805 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_74b422e16c2a16544327a325a9fc6d8e.wav
+Wed 04/07/2018 17:21:14.996 INFO - UART Recognized! - Trigger found, recognition counter : 92
+Wed 04/07/2018 17:21:15.443 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:17.305 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7f6ba575d4d82fbccbf4e5a8f5a97cbf.wav
+Wed 04/07/2018 17:21:21.815 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_67b517ced2af129fe8467e9ed6220ab8.wav
+Wed 04/07/2018 17:21:23.730 INFO - UART Recognized! - Trigger found, recognition counter : 93
+Wed 04/07/2018 17:21:24.128 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:26.255 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1b2d93b9ec44f356f6e222df711984ee.wav
+Wed 04/07/2018 17:21:28.256 INFO - UART Recognized! - Trigger found, recognition counter : 94
+Wed 04/07/2018 17:21:28.769 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:30.684 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_27354e10605046eee7309346c317dd38.wav
+Wed 04/07/2018 17:21:32.944 INFO - UART Recognized! - Trigger found, recognition counter : 95
+Wed 04/07/2018 17:21:33.404 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:35.253 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_8dddee1151c240aba4dc17020f75240a.wav
+Wed 04/07/2018 17:21:37.358 INFO - UART Recognized! - Trigger found, recognition counter : 96
+Wed 04/07/2018 17:21:37.529 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:39.753 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_604dff01fab0c214268b01140c1f17d3.wav
+Wed 04/07/2018 17:21:41.947 INFO - UART Recognized! - Trigger found, recognition counter : 97
+Wed 04/07/2018 17:21:42.171 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:44.252 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_679b5ceab2e8f2bd63cc611f211492d1.wav
+Wed 04/07/2018 17:21:46.493 INFO - UART Recognized! - Trigger found, recognition counter : 98
+Wed 04/07/2018 17:21:46.815 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:48.684 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_df162c75a6f921fd93614179ff3b0e20.wav
+Wed 04/07/2018 17:21:50.811 INFO - UART Recognized! - Trigger found, recognition counter : 99
+Wed 04/07/2018 17:21:50.947 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:53.184 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_081ee8a275a196da1d5a7d3d04abc494.wav
+Wed 04/07/2018 17:21:55.369 INFO - UART Recognized! - Trigger found, recognition counter : 100
+Wed 04/07/2018 17:21:55.578 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:21:57.872 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_bd72f8dc9adb6042f640768d4160f60f.wav
+Wed 04/07/2018 17:21:59.706 INFO - UART Recognized! - Trigger found, recognition counter : 101
+Wed 04/07/2018 17:21:59.726 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:02.433 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d4ffac37dead9d8844415d3be5ec06ce.wav
+Wed 04/07/2018 17:22:04.519 INFO - UART Recognized! - Trigger found, recognition counter : 102
+Wed 04/07/2018 17:22:04.861 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:07.052 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f9f826d3dc22a194a98b141284fa8ba3.wav
+Wed 04/07/2018 17:22:09.063 INFO - UART Recognized! - Trigger found, recognition counter : 103
+Wed 04/07/2018 17:22:09.492 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:11.671 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_b89ad1a6c9417f469607cdb2bdffdb49.wav
+Wed 04/07/2018 17:22:14.053 INFO - UART Recognized! - Trigger found, recognition counter : 104
+Wed 04/07/2018 17:22:14.125 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:16.371 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d04ed569b901d963cf25bdfe4626f782.wav
+Wed 04/07/2018 17:22:18.229 INFO - UART Recognized! - Trigger found, recognition counter : 105
+Wed 04/07/2018 17:22:18.263 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:20.351 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_508515c0b88d2d5013a38daf55a62cd2.wav
+Wed 04/07/2018 17:22:22.404 INFO - UART Recognized! - Trigger found, recognition counter : 106
+Wed 04/07/2018 17:22:22.898 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:24.730 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_04e72649a39b98188fa07357fe0b7758.wav
+Wed 04/07/2018 17:22:26.914 INFO - UART Recognized! - Trigger found, recognition counter : 107
+Wed 04/07/2018 17:22:27.529 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:29.292 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_3d9dcf625fac747716072d2a2e66d1d0.wav
+Wed 04/07/2018 17:22:31.362 INFO - UART Recognized! - Trigger found, recognition counter : 108
+Wed 04/07/2018 17:22:31.658 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:33.849 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_2490ccd19c7c8e26a7dc78eed95b3443.wav
+Wed 04/07/2018 17:22:36.112 INFO - UART Recognized! - Trigger found, recognition counter : 109
+Wed 04/07/2018 17:22:36.299 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:38.411 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7ba6d68a9ea784fb403026c9d5565c65.wav
+Wed 04/07/2018 17:22:40.256 INFO - UART Recognized! - Trigger found, recognition counter : 110
+Wed 04/07/2018 17:22:40.941 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:42.926 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_8c6cb80eaad7e2bb75a1ec0c3ec86165.wav
+Wed 04/07/2018 17:22:45.151 INFO - UART Recognized! - Trigger found, recognition counter : 111
+Wed 04/07/2018 17:22:45.573 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:47.230 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_937edb4d55495926bbd08194ed67d35d.wav
+Wed 04/07/2018 17:22:49.309 INFO - UART Recognized! - Trigger found, recognition counter : 112
+Wed 04/07/2018 17:22:49.703 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:51.470 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ff15205663f7cce21d76428ba1508d01.wav
+Wed 04/07/2018 17:22:53.661 INFO - UART Recognized! - Trigger found, recognition counter : 113
+Wed 04/07/2018 17:22:53.838 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:22:55.839 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_47423d0a4232f6a3db03498f7870a952.wav
+Wed 04/07/2018 17:22:57.723 INFO - UART Recognized! - Trigger found, recognition counter : 114
+Wed 04/07/2018 17:22:57.970 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:00.398 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d71f7df617b48ab607da0206dcaa6af2.wav
+Wed 04/07/2018 17:23:02.506 INFO - UART Recognized! - Trigger found, recognition counter : 115
+Wed 04/07/2018 17:23:03.105 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:04.900 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_11be54666a7ca3e04cb1bdc229972f12.wav
+Wed 04/07/2018 17:23:09.588 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_34df4c71eca000a1bb8b9894cd0ac644.wav
+Wed 04/07/2018 17:23:11.944 INFO - UART Recognized! - Trigger found, recognition counter : 116
+Wed 04/07/2018 17:23:12.305 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:14.279 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_554fa66c7ab758fdc682814cd9ffcac4.wav
+Wed 04/07/2018 17:23:16.678 INFO - UART Recognized! - Trigger found, recognition counter : 117
+Wed 04/07/2018 17:23:16.943 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:19.229 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0c260ca4d6a1f48d2d30b72ae221df73.wav
+Wed 04/07/2018 17:23:21.493 INFO - UART Recognized! - Trigger found, recognition counter : 118
+Wed 04/07/2018 17:23:22.078 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:23.848 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_22b9e4c86c7ea6a49d7f1cc70566e358.wav
+Wed 04/07/2018 17:23:26.003 INFO - UART Recognized! - Trigger found, recognition counter : 119
+Wed 04/07/2018 17:23:26.213 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:28.358 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_698d323e78ba710c02338c9061d29565.wav
+Wed 04/07/2018 17:23:30.483 INFO - UART Recognized! - Trigger found, recognition counter : 120
+Wed 04/07/2018 17:23:30.854 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:32.858 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9474be4ead22e9158b595b85115b765a.wav
+Wed 04/07/2018 17:23:35.121 INFO - UART Recognized! - Trigger found, recognition counter : 121
+Wed 04/07/2018 17:23:35.489 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:37.286 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7e031b11a77d4c61c551a0433ad11aab.wav
+Wed 04/07/2018 17:23:39.392 INFO - UART Recognized! - Trigger found, recognition counter : 122
+Wed 04/07/2018 17:23:39.614 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:41.657 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e481f842f2b8949c58fe58a740320678.wav
+Wed 04/07/2018 17:23:43.921 INFO - UART Recognized! - Trigger found, recognition counter : 123
+Wed 04/07/2018 17:23:44.253 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:46.165 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_87e47e0b3b60893c716d7171cdb20139.wav
+Wed 04/07/2018 17:23:48.305 INFO - UART Recognized! - Trigger found, recognition counter : 124
+Wed 04/07/2018 17:23:48.897 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:50.665 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_fae3b312f0e68afa8446d84336fc7b94.wav
+Wed 04/07/2018 17:23:52.911 INFO - UART Recognized! - Trigger found, recognition counter : 125
+Wed 04/07/2018 17:23:53.025 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:55.286 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_102e57b23f90f931487b86d6aa0121fd.wav
+Wed 04/07/2018 17:23:57.404 INFO - UART Recognized! - Trigger found, recognition counter : 126
+Wed 04/07/2018 17:23:57.655 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:23:59.717 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_70a5752ee237569ef25d3d3499529166.wav
+Wed 04/07/2018 17:24:01.788 INFO - UART Recognized! - Trigger found, recognition counter : 127
+Wed 04/07/2018 17:24:02.295 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:04.345 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7bd434e10b295cde65c87f6ca0132d91.wav
+Wed 04/07/2018 17:24:06.283 INFO - UART Recognized! - Trigger found, recognition counter : 128
+Wed 04/07/2018 17:24:06.937 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:08.966 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_4a686f1e5f70a64bb44a8a2b3c8fd66d.wav
+Wed 04/07/2018 17:24:10.907 INFO - UART Recognized! - Trigger found, recognition counter : 129
+Wed 04/07/2018 17:24:11.062 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:13.404 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c238b37e2e0ce14a0021ee578e6ad87d.wav
+Wed 04/07/2018 17:24:15.608 INFO - UART Recognized! - Trigger found, recognition counter : 130
+Wed 04/07/2018 17:24:16.207 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:18.094 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_fe6d319b00dc48a0bf76c76b58210cd1.wav
+Wed 04/07/2018 17:24:19.960 INFO - UART Recognized! - Trigger found, recognition counter : 131
+Wed 04/07/2018 17:24:20.342 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:22.595 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a68e0e3268467804fb257d8fa5e6940d.wav
+Wed 04/07/2018 17:24:24.486 INFO - UART Recognized! - Trigger found, recognition counter : 132
+Wed 04/07/2018 17:24:24.989 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:27.164 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ace6cda5f2d281ef401dbbf09480c086.wav
+Wed 04/07/2018 17:24:29.542 INFO - UART Recognized! - Trigger found, recognition counter : 133
+Wed 04/07/2018 17:24:29.622 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:31.785 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_bb777961dd1a8f94249596fd13ba846c.wav
+Wed 04/07/2018 17:24:34.101 INFO - UART Recognized! - Trigger found, recognition counter : 134
+Wed 04/07/2018 17:24:34.256 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:36.403 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_63a042568fb87a5bcb460f5a96709f4c.wav
+Wed 04/07/2018 17:24:38.483 INFO - UART Recognized! - Trigger found, recognition counter : 135
+Wed 04/07/2018 17:24:38.898 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:40.904 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_43231591052ae69375a6b8fab05df2b8.wav
+Wed 04/07/2018 17:24:43.042 INFO - UART Recognized! - Trigger found, recognition counter : 136
+Wed 04/07/2018 17:24:43.536 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:45.413 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1df41f13cd5ee277cb2649c802caf447.wav
+Wed 04/07/2018 17:24:47.697 INFO - UART Recognized! - Trigger found, recognition counter : 137
+Wed 04/07/2018 17:24:48.167 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:50.033 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d59b7e3e16c5d27d2e318a275a556a0c.wav
+Wed 04/07/2018 17:24:52.016 INFO - UART Recognized! - Trigger found, recognition counter : 138
+Wed 04/07/2018 17:24:52.309 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:54.602 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e30abab293b155c29ce2122e2c241547.wav
+Wed 04/07/2018 17:24:56.848 INFO - UART Recognized! - Trigger found, recognition counter : 139
+Wed 04/07/2018 17:24:57.457 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:24:59.161 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_213d5781db1671c34f4b5276acf2f27a.wav
+Wed 04/07/2018 17:25:01.438 INFO - UART Recognized! - Trigger found, recognition counter : 140
+Wed 04/07/2018 17:25:02.095 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:03.723 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_563cc33df526db4b7d2f540927b43aa0.wav
+Wed 04/07/2018 17:25:05.996 INFO - UART Recognized! - Trigger found, recognition counter : 141
+Wed 04/07/2018 17:25:06.220 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:08.413 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_40ea60ce0a90ae1f05aba7b2180c0c64.wav
+Wed 04/07/2018 17:25:10.395 INFO - UART Recognized! - Trigger found, recognition counter : 142
+Wed 04/07/2018 17:25:10.858 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:12.851 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_29bce25d0d0a2f0f863f0b18fbd33b2f.wav
+Wed 04/07/2018 17:25:14.779 INFO - UART Recognized! - Trigger found, recognition counter : 143
+Wed 04/07/2018 17:25:14.992 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:17.280 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_cc6291d39c98e146e3f3d1e44ce14073.wav
+Wed 04/07/2018 17:25:19.226 INFO - UART Recognized! - Trigger found, recognition counter : 144
+Wed 04/07/2018 17:25:19.628 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:21.710 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_142a5ad4567c3a026c593dade0aedf0e.wav
+Wed 04/07/2018 17:25:23.755 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:23.790 INFO - UART Recognized! - Trigger found, recognition counter : 145
+Wed 04/07/2018 17:25:26.332 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_66d87b5d40a3fdd2da00e5448a3d3fef.wav
+Wed 04/07/2018 17:25:28.440 INFO - UART Recognized! - Trigger found, recognition counter : 146
+Wed 04/07/2018 17:25:28.900 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:30.759 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6294292f6dc2211cd92198fa5b725f5a.wav
+Wed 04/07/2018 17:25:32.694 INFO - UART Recognized! - Trigger found, recognition counter : 147
+Wed 04/07/2018 17:25:33.033 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:35.381 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ec7fafc996941222f988aa84200958e3.wav
+Wed 04/07/2018 17:25:37.349 INFO - UART Recognized! - Trigger found, recognition counter : 148
+Wed 04/07/2018 17:25:37.671 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:39.750 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_4a513c2d39053e0337ceeb5b617ae198.wav
+Wed 04/07/2018 17:25:42.036 INFO - UART Recognized! - Trigger found, recognition counter : 149
+Wed 04/07/2018 17:25:42.302 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:44.250 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_39f2bc653d311604a7c15bca54922385.wav
+Wed 04/07/2018 17:25:46.339 INFO - UART Recognized! - Trigger found, recognition counter : 150
+Wed 04/07/2018 17:25:46.437 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:48.809 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_1da146f42e9c74d46f57acfe19560278.wav
+Wed 04/07/2018 17:25:50.835 INFO - UART Recognized! - Trigger found, recognition counter : 151
+Wed 04/07/2018 17:25:51.082 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:53.240 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_38c2d3f05966c57336aacf2fc9ab26c8.wav
+Wed 04/07/2018 17:25:55.329 INFO - UART Recognized! - Trigger found, recognition counter : 152
+Wed 04/07/2018 17:25:55.719 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:25:57.539 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_487661c4ce2368d7b290d406de7a58c5.wav
+Wed 04/07/2018 17:25:59.377 INFO - UART Recognized! - Trigger found, recognition counter : 153
+Wed 04/07/2018 17:25:59.844 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:01.529 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_6fcb861268f91c16bff734140b464df6.wav
+Wed 04/07/2018 17:26:03.470 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:03.489 INFO - UART Recognized! - Trigger found, recognition counter : 154
+Wed 04/07/2018 17:26:06.029 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_8687e1681bac6d7e8efcb5d8939bc2e0.wav
+Wed 04/07/2018 17:26:07.967 INFO - UART Recognized! - Trigger found, recognition counter : 155
+Wed 04/07/2018 17:26:08.111 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:10.528 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_eef563ba0561d4dfed82a35b418aac02.wav
+Wed 04/07/2018 17:26:12.349 INFO - UART Recognized! - Trigger found, recognition counter : 156
+Wed 04/07/2018 17:26:12.749 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:14.959 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_24bd3bc624fd61a7935c5cd5082dd7cc.wav
+Wed 04/07/2018 17:26:17.084 INFO - UART Recognized! - Trigger found, recognition counter : 157
+Wed 04/07/2018 17:26:17.380 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:19.388 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5548ece54563d0ae4919500015bbc119.wav
+Wed 04/07/2018 17:26:20.971 INFO - UART Recognized! - Trigger found, recognition counter : 158
+Wed 04/07/2018 17:26:21.513 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:23.507 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_2d47407d280fce5d6570b39cb1912396.wav
+Wed 04/07/2018 17:26:25.611 INFO - UART Recognized! - Trigger found, recognition counter : 159
+Wed 04/07/2018 17:26:26.154 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:28.068 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_59f5cfaf7aca1a25d0ad5e4601cbf90c.wav
+Wed 04/07/2018 17:26:30.138 INFO - UART Recognized! - Trigger found, recognition counter : 160
+Wed 04/07/2018 17:26:30.286 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:32.497 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d593fc60840e3d350a01338e45a4008f.wav
+Wed 04/07/2018 17:26:34.760 INFO - UART Recognized! - Trigger found, recognition counter : 161
+Wed 04/07/2018 17:26:34.917 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:37.246 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_8327b7180af53d47f089c3b9bcb203f5.wav
+Wed 04/07/2018 17:26:39.302 INFO - UART Recognized! - Trigger found, recognition counter : 162
+Wed 04/07/2018 17:26:39.562 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:41.877 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c67270f9bbb0d1aa576c7888b1f45596.wav
+Wed 04/07/2018 17:26:44.069 INFO - UART Recognized! - Trigger found, recognition counter : 163
+Wed 04/07/2018 17:26:44.710 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:46.437 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_889c0b4c25f2857b8696d8e3436239b6.wav
+Wed 04/07/2018 17:26:48.710 INFO - UART Recognized! - Trigger found, recognition counter : 164
+Wed 04/07/2018 17:26:48.836 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:50.996 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c15fb9529ab01314169dba231ccfcf09.wav
+Wed 04/07/2018 17:26:52.996 INFO - UART Recognized! - Trigger found, recognition counter : 165
+Wed 04/07/2018 17:26:53.473 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:26:55.516 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_ec20cb9609542f96166145875a58a26a.wav
+Wed 04/07/2018 17:26:57.811 INFO - UART Recognized! - Trigger found, recognition counter : 166
+Wed 04/07/2018 17:26:58.114 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:00.144 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0269bfb14d366c0fbb68a95f4193c3d2.wav
+Wed 04/07/2018 17:27:04.645 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_592b80f62df6e531177a9b7f2237ddce.wav
+Wed 04/07/2018 17:27:06.783 INFO - UART Recognized! - Trigger found, recognition counter : 167
+Wed 04/07/2018 17:27:07.315 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:09.145 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d7f26096f1098a6ea37c76e2c1925a06.wav
+Wed 04/07/2018 17:27:11.247 INFO - UART Recognized! - Trigger found, recognition counter : 168
+Wed 04/07/2018 17:27:11.450 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:13.842 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_79d2f85f03fe53e5d59043f9c43fdd45.wav
+Wed 04/07/2018 17:27:15.982 INFO - UART Recognized! - Trigger found, recognition counter : 169
+Wed 04/07/2018 17:27:16.092 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:18.344 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_277b5312d5a4651fe0a65f4824dd5d5b.wav
+Wed 04/07/2018 17:27:20.365 INFO - UART Recognized! - Trigger found, recognition counter : 170
+Wed 04/07/2018 17:27:20.733 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:22.845 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9941a7090431fec0c53502202fd8078f.wav
+Wed 04/07/2018 17:27:24.844 INFO - UART Recognized! - Trigger found, recognition counter : 171
+Wed 04/07/2018 17:27:25.364 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:27.154 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_affdd6d1650b0dd4cec53770501b8061.wav
+Wed 04/07/2018 17:27:29.515 INFO - UART Recognized! - Trigger found, recognition counter : 172
+Wed 04/07/2018 17:27:30.002 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:31.713 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_2f4042225f0bf61035d645888598f36f.wav
+Wed 04/07/2018 17:27:33.867 INFO - UART Recognized! - Trigger found, recognition counter : 173
+Wed 04/07/2018 17:27:34.144 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:36.144 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_88a0463e494383f76859e6ab4fa51b7d.wav
+Wed 04/07/2018 17:27:37.961 INFO - UART Recognized! - Trigger found, recognition counter : 174
+Wed 04/07/2018 17:27:38.279 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:40.644 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_056903f104e9239243c92ed6f5fe599c.wav
+Wed 04/07/2018 17:27:42.632 INFO - UART Recognized! - Trigger found, recognition counter : 175
+Wed 04/07/2018 17:27:42.913 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:45.013 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_569a7fa642851f24b922b7e324f1af77.wav
+Wed 04/07/2018 17:27:46.950 INFO - UART Recognized! - Trigger found, recognition counter : 176
+Wed 04/07/2018 17:27:49.443 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5042f07a487b1a1bc84d410869666918.wav
+Wed 04/07/2018 17:27:51.686 INFO - UART Recognized! - Trigger found, recognition counter : 177
+Wed 04/07/2018 17:27:52.128 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:54.012 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0909711241c03b8fd7156fab21bbe2d4.wav
+Wed 04/07/2018 17:27:56.358 INFO - UART Recognized! - Trigger found, recognition counter : 178
+Wed 04/07/2018 17:27:56.767 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:27:58.891 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_aef2aa003ad0ec97baff20bd3798ca8e.wav
+Wed 04/07/2018 17:28:01.125 INFO - UART Recognized! - Trigger found, recognition counter : 179
+Wed 04/07/2018 17:28:01.398 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:03.451 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_f15906fdde6b07e971558673663bf91a.wav
+Wed 04/07/2018 17:28:05.811 INFO - UART Recognized! - Trigger found, recognition counter : 180
+Wed 04/07/2018 17:28:06.036 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:08.391 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_d3bb06e7dca2c03c698848bc1b7aaa43.wav
+Wed 04/07/2018 17:28:10.625 INFO - UART Recognized! - Trigger found, recognition counter : 181
+Wed 04/07/2018 17:28:10.677 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:13.289 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_09f4a29c7b005b532ed1b25a368b3c6f.wav
+Wed 04/07/2018 17:28:15.505 INFO - UART Recognized! - Trigger found, recognition counter : 182
+Wed 04/07/2018 17:28:15.819 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:17.982 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_514ba240197e86c625add7d1beaa5b16.wav
+Wed 04/07/2018 17:28:19.999 INFO - UART Recognized! - Trigger found, recognition counter : 183
+Wed 04/07/2018 17:28:20.463 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:22.351 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_8dbecc781b7255aed56a19d94d307d1a.wav
+Wed 04/07/2018 17:28:24.319 INFO - UART Recognized! - Trigger found, recognition counter : 184
+Wed 04/07/2018 17:28:25.104 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:26.730 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_9ddd78decf1d5209451aa2dc1aefd443.wav
+Wed 04/07/2018 17:28:28.701 INFO - UART Recognized! - Trigger found, recognition counter : 185
+Wed 04/07/2018 17:28:29.240 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:31.124 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5659713bf0b3879e84d11dbff261005a.wav
+Wed 04/07/2018 17:28:33.260 INFO - UART Recognized! - Trigger found, recognition counter : 186
+Wed 04/07/2018 17:28:33.369 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:35.559 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0fd99129f28c744a8c792c3373a925ee.wav
+Wed 04/07/2018 17:28:37.611 INFO - UART Recognized! - Trigger found, recognition counter : 187
+Wed 04/07/2018 17:28:38.002 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:40.007 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7570275dd70061e36fd1d83f63bc4b45.wav
+Wed 04/07/2018 17:28:41.898 INFO - UART Recognized! - Trigger found, recognition counter : 188
+Wed 04/07/2018 17:28:42.134 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:44.127 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_97631a28c43ebe851d090bc17eba3da3.wav
+Wed 04/07/2018 17:28:46.282 INFO - UART Recognized! - Trigger found, recognition counter : 189
+Wed 04/07/2018 17:28:46.773 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:48.819 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_48a17899071d3d6d05e725e199bfe2ee.wav
+Wed 04/07/2018 17:28:51.081 INFO - UART Recognized! - Trigger found, recognition counter : 190
+Wed 04/07/2018 17:28:51.408 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:53.328 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_265ff559cc2fa1030c4d1dd5fe531899.wav
+Wed 04/07/2018 17:28:55.288 INFO - UART Recognized! - Trigger found, recognition counter : 191
+Wed 04/07/2018 17:28:55.535 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:28:57.697 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0719b5dca9cefdef01994c2038faaf90.wav
+Wed 04/07/2018 17:28:59.892 INFO - UART Recognized! - Trigger found, recognition counter : 192
+Wed 04/07/2018 17:29:00.176 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:02.198 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_c369805e656545c5fc3541c3ac6611ae.wav
+Wed 04/07/2018 17:29:04.388 INFO - UART Recognized! - Trigger found, recognition counter : 193
+Wed 04/07/2018 17:29:04.819 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:06.759 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_fea095ea0ed3925616a0f33cf7e25284.wav
+Wed 04/07/2018 17:29:08.756 INFO - UART Recognized! - Trigger found, recognition counter : 194
+Wed 04/07/2018 17:29:08.946 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:11.198 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0ba6cc4500deec44bbcbd0a2b97b105a.wav
+Wed 04/07/2018 17:29:13.378 INFO - UART Recognized! - Trigger found, recognition counter : 195
+Wed 04/07/2018 17:29:13.578 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:15.756 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_5d179c44499989ea3ce05d873637a3c5.wav
+Wed 04/07/2018 17:29:17.970 INFO - UART Recognized! - Trigger found, recognition counter : 196
+Wed 04/07/2018 17:29:18.217 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:20.203 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_eef5e48b325743722ab7b02f7ba1af18.wav
+Wed 04/07/2018 17:29:22.417 INFO - UART Recognized! - Trigger found, recognition counter : 197
+Wed 04/07/2018 17:29:22.858 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:24.767 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_fccd7d76b5cff06fff1a0ea33a6118ad.wav
+Wed 04/07/2018 17:29:26.848 INFO - UART Recognized! - Trigger found, recognition counter : 198
+Wed 04/07/2018 17:29:26.986 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:29.278 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_98e8ad0ef2a2eea2bc874e0c828fb2b3.wav
+Wed 04/07/2018 17:29:31.552 INFO - UART Recognized! - Trigger found, recognition counter : 199
+Wed 04/07/2018 17:29:32.141 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:34.026 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_37afee4256d1006d04e409bc1d432b9c.wav
+Wed 04/07/2018 17:29:36.237 INFO - UART Recognized! - Trigger found, recognition counter : 200
+Wed 04/07/2018 17:29:36.282 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:38.326 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a469227cd85460ba2f272015d0b6e0dd.wav
+Wed 04/07/2018 17:29:40.285 INFO - UART Recognized! - Trigger found, recognition counter : 201
+Wed 04/07/2018 17:29:40.408 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:42.956 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_7828a53c56e61af674bbe47022d6d93c.wav
+Wed 04/07/2018 17:29:45.243 INFO - UART Recognized! - Trigger found, recognition counter : 202
+Wed 04/07/2018 17:29:45.549 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:47.516 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_28b513bbb1130593e9270feca7959523.wav
+Wed 04/07/2018 17:29:49.658 INFO - UART Recognized! - Trigger found, recognition counter : 203
+Wed 04/07/2018 17:29:50.184 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:52.144 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_a2a0494bfce9e6a15efa2dccf29cff49.wav
+Wed 04/07/2018 17:29:54.296 INFO - UART Recognized! - Trigger found, recognition counter : 204
+Wed 04/07/2018 17:29:54.825 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:29:56.780 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_dd2ce5c9ac62f17c5b50432029f828e3.wav
+Wed 04/07/2018 17:29:58.921 INFO - UART Recognized! - Trigger found, recognition counter : 205
+Wed 04/07/2018 17:29:59.463 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:30:01.404 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_774dc43268eb99ecf6baff9d409f1704.wav
+Wed 04/07/2018 17:30:05.724 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_64473c4b1c509acb206d944ea5cf32fa.wav
+Wed 04/07/2018 17:30:07.717 INFO - UART Recognized! - Trigger found, recognition counter : 206
+Wed 04/07/2018 17:30:08.153 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:30:10.243 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_30e3ca4e34a9b56165932e168f646f71.wav
+Wed 04/07/2018 17:30:12.325 INFO - UART Recognized! - Trigger found, recognition counter : 207
+Wed 04/07/2018 17:30:12.793 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:30:14.825 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_0c77f0fabfac3fefa3f3cc4faeb57cf9.wav
+Wed 04/07/2018 17:30:16.868 INFO - UART Recognized! - Trigger found, recognition counter : 208
+Wed 04/07/2018 17:30:17.431 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 04/07/2018 17:30:19.382 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS_RIGHT\R_0dB_e2d4b100391a760a76b079ca59fa859d.wav
+Wed 04/07/2018 17:30:21.651 INFO - UART Recognized! - Trigger found, recognition counter : 209
+Wed 04/07/2018 17:30:22.068 INFO - counter 0, Recognized! - LJ- Trigger - 2

@@ -1,0 +1,616 @@
+Wed 07/03/2018 18:01:13.546 INFO - connecting to LabJack for results
+Wed 07/03/2018 18:01:13.546 INFO - Connecting to UART for results
+Wed 07/03/2018 18:01:13.595 INFO - Starting to play wav files...
+Wed 07/03/2018 18:01:13.596 INFO - 
+===========================================
+Test_type: TRIG
+Test description: Headset_Car80_Noise.wav vol: -20
+list of wavs: C:\AutomationEnvironment\lists\Alexa_Amazon_210_second-Half.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: COM14
+Counter 1 Name: ST-Release
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\st_Alexa_UART_50.3.7(Gain63)_counter0_50.3.7.1(Gain60)_counter1_50.3.6(Gain35)__Dynamic_Range_210-0_Wed03-07-2018@16-41-09.16.txt C:\AutomationEnvironment\lists\Alexa_Amazon_210_second-Half.txt C:\AutomationEnvironment\NoiseFiles\Headset_Car80_Noise.wav 0 -20 3 0 lj-uart TRIG "Alexa" "Dynamic_Range" "COM14" "ST-Release" "" ""
+-------------------------------------------
+Wed 07/03/2018 18:01:13.631 INFO - LabJack will be checked every 0.5 seconds
+Wed 07/03/2018 18:01:16.568 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\95dfe3a892b97b3f032c68d6d125ad06\5f7cb0ee63188a401cb1fd9e8dab9cff.wav
+Wed 07/03/2018 18:01:18.259 INFO - UART Recognized! - Trigger found, recognition counter : 246
+Wed 07/03/2018 18:01:18.826 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:21.088 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\95dfe3a892b97b3f032c68d6d125ad06\987a02d8160ae8b402206c198ba3df79.wav
+Wed 07/03/2018 18:01:22.779 INFO - UART Recognized! - Trigger found, recognition counter : 247
+Wed 07/03/2018 18:01:22.963 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:25.043 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\96246bf9d5cf9ae61d5a405623930e63\6d4e4d18398b3e0630ec152b87768776.wav
+Wed 07/03/2018 18:01:27.096 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:29.816 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\974bfa24efedcfded1b4dbf4dad303b1\deb823181cb12d25c75940b3c8566863.wav
+Wed 07/03/2018 18:01:31.437 INFO - UART Recognized! - Trigger found, recognition counter : 248
+Wed 07/03/2018 18:01:31.848 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:34.026 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\983f250207def86b4a79515bbc25c646\25a230b1a15e84df004db48cd2f27539.wav
+Wed 07/03/2018 18:01:35.509 INFO - UART Recognized! - Trigger found, recognition counter : 249
+Wed 07/03/2018 18:01:35.989 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:38.806 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\993b1466459abe605e66e56026fcb8ad\04938358a2711583f86e360c52fedd81.wav
+Wed 07/03/2018 18:01:40.378 INFO - UART Recognized! - Trigger found, recognition counter : 250
+Wed 07/03/2018 18:01:40.660 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:42.875 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\9a42334b3a362843f5cab571115bb26d\6b827990621759b8df5313cfb2c557ee.wav
+Wed 07/03/2018 18:01:45.151 INFO - UART Recognized! - Trigger found, recognition counter : 251
+Wed 07/03/2018 18:01:45.796 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:47.726 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\9aaeeecd4ff9ca37ad90cfa369ab41b1\4716b82ee855daa8c91c31841c9c450f.wav
+Wed 07/03/2018 18:01:49.575 INFO - UART Recognized! - Trigger found, recognition counter : 252
+Wed 07/03/2018 18:01:49.953 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:52.256 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a1383b3050a48d1db59e0b667455fd89\cf45f373217c9565a0d9ec71cb5a1647.wav
+Wed 07/03/2018 18:01:54.267 INFO - UART Recognized! - Trigger found, recognition counter : 253
+Wed 07/03/2018 18:01:54.598 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:01:56.665 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a35ed91231e5c1f26833d2fdf846a68e\b478313af3bb71e8367f1cb11b31cdb6.wav
+Wed 07/03/2018 18:01:58.565 INFO - UART Recognized! - Trigger found, recognition counter : 254
+Wed 07/03/2018 18:01:58.798 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:01.065 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a4df59c420fafc9022052fef47a47509\72135106d7f3867c02ae5ea45ec1ca2d.wav
+Wed 07/03/2018 18:02:02.844 INFO - UART Recognized! - Trigger found, recognition counter : 255
+Wed 07/03/2018 18:02:03.009 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:05.586 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a596df2ed515011ca2f58ac74a3c1c47\02efd67d1d6a35bd25fb596439ded717.wav
+Wed 07/03/2018 18:02:06.904 INFO - UART Recognized! - Trigger found, recognition counter : 256
+Wed 07/03/2018 18:02:07.338 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:09.984 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a596df2ed515011ca2f58ac74a3c1c47\13c035440189ac33923dc7017849d036.wav
+Wed 07/03/2018 18:02:11.295 INFO - UART Recognized! - Trigger found, recognition counter : 257
+Wed 07/03/2018 18:02:11.592 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:14.374 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a596df2ed515011ca2f58ac74a3c1c47\9a70ae2b1b301dcae5b8307a4d2a4969.wav
+Wed 07/03/2018 18:02:16.115 INFO - UART Recognized! - Trigger found, recognition counter : 258
+Wed 07/03/2018 18:02:16.232 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:18.835 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a5b0f58690b2a0814e5ae29375454f42\1aa697025f9cb58d8f9830e7f379d7bb.wav
+Wed 07/03/2018 18:02:20.823 INFO - UART Recognized! - Trigger found, recognition counter : 259
+Wed 07/03/2018 18:02:21.372 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:23.543 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\a9d161f42fee81813c950f64ed51fb12\656f0e8959915be1335c843f6901b3e2.wav
+Wed 07/03/2018 18:02:25.377 INFO - UART Recognized! - Trigger found, recognition counter : 260
+Wed 07/03/2018 18:02:25.509 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:27.993 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\abb748efac518a416d36dde21e7f4217\53cab78d7e5f1240d91d71fff282037b.wav
+Wed 07/03/2018 18:02:32.749 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\abb748efac518a416d36dde21e7f4217\dc5474e4996d89881cbb0a13e11e2157.wav
+Wed 07/03/2018 18:02:37.275 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ac9ef93bd093b76a74dec7e059a961b2\f825fb5fb32630f204bbdf3baabf4600.wav
+Wed 07/03/2018 18:02:39.378 INFO - UART Recognized! - Trigger found, recognition counter : 261
+Wed 07/03/2018 18:02:41.982 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\adab5baf11a9af79e473f942d1e07071\26d323f258e5263723d704c0b34782bf.wav
+Wed 07/03/2018 18:02:43.835 INFO - UART Recognized! - Trigger found, recognition counter : 262
+Wed 07/03/2018 18:02:43.908 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:46.433 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\adbeaede7a64d3a864e51019ef553dba\d5045a0e39dadf4fd0dcea070e05c436.wav
+Wed 07/03/2018 18:02:47.796 INFO - UART Recognized! - Trigger found, recognition counter : 263
+Wed 07/03/2018 18:02:48.223 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:50.951 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\adbeaede7a64d3a864e51019ef553dba\d91234cb2b7d3c930afe55aed94b6732.wav
+Wed 07/03/2018 18:02:52.559 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:52.934 INFO - UART Recognized! - Trigger found, recognition counter : 264
+Wed 07/03/2018 18:02:55.403 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ade5d8cb8a594ac6e67037fea74be2ca\15b8f0c67a0f9b8842a5920419bdda9a.wav
+Wed 07/03/2018 18:02:57.200 INFO - UART Recognized! - Trigger found, recognition counter : 265
+Wed 07/03/2018 18:02:57.694 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:02:59.790 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ade5d8cb8a594ac6e67037fea74be2ca\2ad05bffa5d3695d7ea02e3daa6e0465.wav
+Wed 07/03/2018 18:03:04.190 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ade5d8cb8a594ac6e67037fea74be2ca\4c946c5af8a96b8de67992df31d94d2f.wav
+Wed 07/03/2018 18:03:06.158 INFO - UART Recognized! - Trigger found, recognition counter : 266
+Wed 07/03/2018 18:03:06.611 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:08.582 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ade5d8cb8a594ac6e67037fea74be2ca\7c0c79965f5adf773b65b67a7adc9307.wav
+Wed 07/03/2018 18:03:09.961 INFO - UART Recognized! - Trigger found, recognition counter : 267
+Wed 07/03/2018 18:03:10.740 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:13.230 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ade5d8cb8a594ac6e67037fea74be2ca\d7dcd09476a473cdf16575408114823b.wav
+Wed 07/03/2018 18:03:15.181 INFO - UART Recognized! - Trigger found, recognition counter : 268
+Wed 07/03/2018 18:03:15.466 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:17.690 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\adeb8258a6d75e4d92b506d7dd12dda3\13619648b9b1cbaccb45a6612c72ef4f.wav
+Wed 07/03/2018 18:03:19.301 INFO - UART Recognized! - Trigger found, recognition counter : 269
+Wed 07/03/2018 18:03:19.687 INFO - counter 0, Trigger Reset,  - 514
+Wed 07/03/2018 18:03:20.273 INFO - counter 0, undefined value - LJ- - 1
+Wed 07/03/2018 18:03:22.013 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\adeb8258a6d75e4d92b506d7dd12dda3\b0f21677076ca24d307d43ca3e1a153f.wav
+Wed 07/03/2018 18:03:23.312 INFO - UART Recognized! - Trigger found, recognition counter : 270
+Wed 07/03/2018 18:03:23.901 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:26.348 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\4155b669c24673afc74fb2acf5b6868a.wav
+Wed 07/03/2018 18:03:28.566 INFO - UART Recognized! - Trigger found, recognition counter : 271
+Wed 07/03/2018 18:03:29.124 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:31.059 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\74023e17791bf60f65375894afa88cf2.wav
+Wed 07/03/2018 18:03:33.224 INFO - UART Recognized! - Trigger found, recognition counter : 272
+Wed 07/03/2018 18:03:33.380 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:35.648 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\9564e32bff1aff660cf47e10da2cfb72.wav
+Wed 07/03/2018 18:03:37.806 INFO - UART Recognized! - Trigger found, recognition counter : 273
+Wed 07/03/2018 18:03:38.095 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:40.549 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\ce6ea777f44913e0b0b04d00bf54fd97.wav
+Wed 07/03/2018 18:03:41.960 INFO - UART Recognized! - Trigger found, recognition counter : 274
+Wed 07/03/2018 18:03:42.736 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:45.210 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\e2442788e3e47b530b2cedc6255510b7.wav
+Wed 07/03/2018 18:03:49.989 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\af686c890ed901b257ba7946cb5e67aa\f0431402dc7fb9f6d3f57464299daec7.wav
+Wed 07/03/2018 18:03:51.983 INFO - UART Recognized! - Trigger found, recognition counter : 275
+Wed 07/03/2018 18:03:52.440 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:54.568 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b15162b623568551230b727990efa9a5\41de7fc44c9b2548b7b63ad1deefe097.wav
+Wed 07/03/2018 18:03:56.280 INFO - UART Recognized! - Trigger found, recognition counter : 276
+Wed 07/03/2018 18:03:56.746 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:03:58.967 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b15162b623568551230b727990efa9a5\dd0938df7476778541654a2838a79ae7.wav
+Wed 07/03/2018 18:04:00.384 INFO - UART Recognized! - Trigger found, recognition counter : 277
+Wed 07/03/2018 18:04:01.387 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:03.490 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b16a1efb5df513d396bd732a51864767\61c4df8097b1e6a63ff105f45c4813fd.wav
+Wed 07/03/2018 18:04:05.556 INFO - UART Recognized! - Trigger found, recognition counter : 278
+Wed 07/03/2018 18:04:06.101 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:08.078 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b1f53002e7bd64bc1363dd2b81a290c5\b0ec0c53c8704b96b4a4c8a057d1992f.wav
+Wed 07/03/2018 18:04:09.453 INFO - UART Recognized! - Trigger found, recognition counter : 279
+Wed 07/03/2018 18:04:10.322 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:12.466 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b2bf8ca37c0433bc2d364d372a31452a\95083afc385345035672a9c9ce4047b3.wav
+Wed 07/03/2018 18:04:14.292 INFO - UART Recognized! - Trigger found, recognition counter : 280
+Wed 07/03/2018 18:04:14.456 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:16.997 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b474cc6a8b20efc65051a23e0ad14185\ee3dfb2dfbe8f67f82f60f6461a64181.wav
+Wed 07/03/2018 18:04:18.414 INFO - UART Recognized! - Trigger found, recognition counter : 281
+Wed 07/03/2018 18:04:18.586 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:21.823 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b576956a90242c78183cf3dcb2f5b63e\6bd8af8ee60636a99216ffd5e82abc31.wav
+Wed 07/03/2018 18:04:23.779 INFO - UART Recognized! - Trigger found, recognition counter : 282
+Wed 07/03/2018 18:04:24.325 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:26.467 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b620c42a7e4512dc47eaf138d0337581\d1ec90d1809c16f013abb23517ea8340.wav
+Wed 07/03/2018 18:04:28.677 INFO - UART Recognized! - Trigger found, recognition counter : 283
+Wed 07/03/2018 18:04:28.970 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:31.177 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b6f362850acff0335a5c0d1e6d88aa6d\33d6782acbd966470a3438231926bcaf.wav
+Wed 07/03/2018 18:04:33.098 INFO - UART Recognized! - Trigger found, recognition counter : 284
+Wed 07/03/2018 18:04:33.121 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:35.625 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b72a4d976a22f6d0013d99fe5aa4f08b\6114598ced97f36c8d9cc4ba3db44505.wav
+Wed 07/03/2018 18:04:37.095 INFO - UART Recognized! - Trigger found, recognition counter : 285
+Wed 07/03/2018 18:04:37.234 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:40.335 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b7a6e97483b52d96ea2d42b70108a923\c8cf244055f7bc24f4b4b0ff527d1fd7.wav
+Wed 07/03/2018 18:04:42.040 INFO - UART Recognized! - Trigger found, recognition counter : 286
+Wed 07/03/2018 18:04:42.155 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:44.857 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b87bce1935b8f4533ab5f6f01125113a\abd585a65a6c46f99fb3aced67496deb.wav
+Wed 07/03/2018 18:04:46.832 INFO - UART Recognized! - Trigger found, recognition counter : 287
+Wed 07/03/2018 18:04:47.313 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:49.565 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b8d3b58a8b57390610d31db0fed8983f\20674be638f2bdc5649cf898bae7677f.wav
+Wed 07/03/2018 18:04:51.319 INFO - UART Recognized! - Trigger found, recognition counter : 288
+Wed 07/03/2018 18:04:51.448 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:53.966 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b8d3b58a8b57390610d31db0fed8983f\aee304e6b2831e80286a31c92cc84bd3.wav
+Wed 07/03/2018 18:04:55.703 INFO - UART Recognized! - Trigger found, recognition counter : 289
+Wed 07/03/2018 18:04:56.286 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:04:58.555 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\b90a9cf8842a9e6744af4937c1c4699f\153d15a62436106d9e9a89b37a100984.wav
+Wed 07/03/2018 18:05:00.437 INFO - UART Recognized! - Trigger found, recognition counter : 290
+Wed 07/03/2018 18:05:00.923 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:03.203 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bb95eba16e4a0a0851c6260439b5c913\1cd292c59af712b7eed65a9a79a167bb.wav
+Wed 07/03/2018 18:05:05.273 INFO - UART Recognized! - Trigger found, recognition counter : 291
+Wed 07/03/2018 18:05:05.568 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:07.734 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bb95eba16e4a0a0851c6260439b5c913\a734904131d11013e0056a629e361123.wav
+Wed 07/03/2018 18:05:09.841 INFO - UART Recognized! - Trigger found, recognition counter : 292
+Wed 07/03/2018 18:05:10.292 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:12.265 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bbaf7789be7f1cc02ef507f0ddaa7475\70ab14e19d2be4f586138cdd6b6210c5.wav
+Wed 07/03/2018 18:05:14.138 INFO - UART Recognized! - Trigger found, recognition counter : 293
+Wed 07/03/2018 18:05:14.417 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:16.855 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bc5662d31a6cad4059ef9ce5a4d69551\32dd29b293cac446e16f7e413399c0bf.wav
+Wed 07/03/2018 18:05:18.687 INFO - UART Recognized! - Trigger found, recognition counter : 294
+Wed 07/03/2018 18:05:19.158 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:21.384 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bc5662d31a6cad4059ef9ce5a4d69551\ce10ccff0b3077a4936f8ec72db49514.wav
+Wed 07/03/2018 18:05:23.286 INFO - UART Recognized! - Trigger found, recognition counter : 295
+Wed 07/03/2018 18:05:23.805 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:25.844 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bcfd96f54cbe03b77923757aa60e68b0\441e2e9871d5e7f86c7f7244b5e5a244.wav
+Wed 07/03/2018 18:05:27.724 INFO - UART Recognized! - Trigger found, recognition counter : 296
+Wed 07/03/2018 18:05:27.938 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:29.924 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\be34a9262cdce522a1332d1a1bf9fb91\3ee785bedfb5d920b62c07ac74b5d7df.wav
+Wed 07/03/2018 18:05:31.207 INFO - UART Recognized! - Trigger found, recognition counter : 297
+Wed 07/03/2018 18:05:32.217 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:34.374 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\be5a6fec540d245cfa203097ca204e43\5a6a231fa934d5305e690460aa2808a8.wav
+Wed 07/03/2018 18:05:36.207 INFO - UART Recognized! - Trigger found, recognition counter : 298
+Wed 07/03/2018 18:05:36.351 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:38.903 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\be5a6fec540d245cfa203097ca204e43\6d78b060e964dd6b2d04b86f636ae791.wav
+Wed 07/03/2018 18:05:40.486 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:40.660 INFO - UART Recognized! - Trigger found, recognition counter : 299
+Wed 07/03/2018 18:05:43.540 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\be5a6fec540d245cfa203097ca204e43\b8ea3bd742af58a558f7c2dcda14edab.wav
+Wed 07/03/2018 18:05:45.243 INFO - UART Recognized! - Trigger found, recognition counter : 300
+Wed 07/03/2018 18:05:45.710 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:48.250 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\be5a6fec540d245cfa203097ca204e43\c892a7172705a665d65f2e60ac47632e.wav
+Wed 07/03/2018 18:05:49.607 INFO - UART Recognized! - Trigger found, recognition counter : 301
+Wed 07/03/2018 18:05:49.836 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:52.453 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bec8e6369ed4b1a481e1ab539ff8e64f\728b33b2fbae231618ff4733232bcdbe.wav
+Wed 07/03/2018 18:05:53.694 INFO - UART Recognized! - Trigger found, recognition counter : 302
+Wed 07/03/2018 18:05:54.043 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:05:56.730 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bfa3560323e0e8a7c6449fbdb31f09c1\162686b08466fd7f6be94b9796778538.wav
+Wed 07/03/2018 18:05:58.085 INFO - UART Recognized! - Trigger found, recognition counter : 303
+Wed 07/03/2018 18:05:58.180 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:01.250 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bfa3560323e0e8a7c6449fbdb31f09c1\f2914e2f0ca0b6dcb4047f5560acef67.wav
+Wed 07/03/2018 18:06:02.747 INFO - UART Recognized! - Trigger found, recognition counter : 304
+Wed 07/03/2018 18:06:02.973 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:06.029 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bffe80a64bc9f8420fcf1b733332e10a\261048c4b674b74271dcde031ab01ce8.wav
+Wed 07/03/2018 18:06:07.678 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:07.904 INFO - UART Recognized! - Trigger found, recognition counter : 305
+Wed 07/03/2018 18:06:10.482 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bffe80a64bc9f8420fcf1b733332e10a\e13b739a41162e491101cf75f016f7f7.wav
+Wed 07/03/2018 18:06:12.484 INFO - UART Recognized! - Trigger found, recognition counter : 306
+Wed 07/03/2018 18:06:12.907 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:14.930 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\bffe80a64bc9f8420fcf1b733332e10a\ee15ac43246eae98567fe9cbcf571d97.wav
+Wed 07/03/2018 18:06:17.069 INFO - UART Recognized! - Trigger found, recognition counter : 307
+Wed 07/03/2018 18:06:17.131 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:19.390 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c055260ffcc36afea19fd0bbbcf6360d\0e9dc1f9965569bae2e4c3356034c46f.wav
+Wed 07/03/2018 18:06:21.059 INFO - UART Recognized! - Trigger found, recognition counter : 308
+Wed 07/03/2018 18:06:21.263 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:23.911 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c17dcb44fe183c4356a0d65c33866472\1c243b3921269a249ed6da56852fc45d.wav
+Wed 07/03/2018 18:06:25.740 INFO - UART Recognized! - Trigger found, recognition counter : 309
+Wed 07/03/2018 18:06:25.901 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:28.490 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c17dcb44fe183c4356a0d65c33866472\43d3598c3ae72ab166b76076ba921726.wav
+Wed 07/03/2018 18:06:30.273 INFO - UART Recognized! - Trigger found, recognition counter : 310
+Wed 07/03/2018 18:06:30.548 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:33.081 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c17dcb44fe183c4356a0d65c33866472\a338c967f6127fadecd9dc8dd7d30fd1.wav
+Wed 07/03/2018 18:06:34.921 INFO - UART Recognized! - Trigger found, recognition counter : 311
+Wed 07/03/2018 18:06:35.286 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:37.589 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c1d3a5181923fe784f8d1e6298c8fa94\28c18e6d3ea845db2b9ed96d885c383f.wav
+Wed 07/03/2018 18:06:39.424 INFO - UART Recognized! - Trigger found, recognition counter : 312
+Wed 07/03/2018 18:06:39.924 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:42.039 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c1d3a5181923fe784f8d1e6298c8fa94\7264ad98a8a80e6da95209add5d4cd6e.wav
+Wed 07/03/2018 18:06:43.864 INFO - UART Recognized! - Trigger found, recognition counter : 313
+Wed 07/03/2018 18:06:44.052 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:46.499 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c20b281e40db26b6b8685b791726ccff\9c0a74d02a2a4d8884cb78d1bb46049b.wav
+Wed 07/03/2018 18:06:48.493 INFO - UART Recognized! - Trigger found, recognition counter : 314
+Wed 07/03/2018 18:06:48.694 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:51.141 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c349ac49acf0a7a79220b35df0e627f6\685ff18581a23e5f8879a2ddfc4071de.wav
+Wed 07/03/2018 18:06:53.045 INFO - UART Recognized! - Trigger found, recognition counter : 315
+Wed 07/03/2018 18:06:53.431 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:06:55.668 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c516ea8d431d9b659fab1a165dac2304\1ea1533c60161e0a6130262d270b35b8.wav
+Wed 07/03/2018 18:06:57.181 INFO - UART Recognized! - Trigger found, recognition counter : 316
+Wed 07/03/2018 18:06:57.562 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:00.187 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c516ea8d431d9b659fab1a165dac2304\a5e461a50e93536b04f161bb6ed33d2c.wav
+Wed 07/03/2018 18:07:01.509 INFO - UART Recognized! - Trigger found, recognition counter : 317
+Wed 07/03/2018 18:07:01.696 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:04.707 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c53dde7475eaa6a8dfbb9b67592c88b7\c0a8829ce137b690ebfb4da37e07b1df.wav
+Wed 07/03/2018 18:07:06.187 INFO - UART Recognized! - Trigger found, recognition counter : 318
+Wed 07/03/2018 18:07:07.433 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:09.417 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c58c8d90163846cce5d287d225f6da0f\36a7ba8d559fc4358115fc513c2640f1.wav
+Wed 07/03/2018 18:07:11.134 INFO - UART Recognized! - Trigger found, recognition counter : 319
+Wed 07/03/2018 18:07:11.571 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:13.737 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c59f5677f442c22045424eb8b82d807d\c0b689a344195ad21c72b5ba663be08a.wav
+Wed 07/03/2018 18:07:15.210 INFO - UART Recognized! - Trigger found, recognition counter : 320
+Wed 07/03/2018 18:07:15.700 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:18.377 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c5c2501bbf8820a8b38887ca6683b176\e2a809b4a1d5b7b2e7ec38ec5de10c70.wav
+Wed 07/03/2018 18:07:20.272 INFO - UART Recognized! - Trigger found, recognition counter : 321
+Wed 07/03/2018 18:07:20.349 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:22.586 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c82247107eb50e00d80928291501bbcd\6e63e6cfa4efcccc18504944f817e2a4.wav
+Wed 07/03/2018 18:07:23.851 INFO - UART Recognized! - Trigger found, recognition counter : 322
+Wed 07/03/2018 18:07:23.976 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:27.167 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c8c0c4457df60b1dec65251a99d9a9bd\05968478ca6179bea4315eb9c220a480.wav
+Wed 07/03/2018 18:07:28.957 INFO - UART Recognized! - Trigger found, recognition counter : 323
+Wed 07/03/2018 18:07:29.130 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:31.637 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c8f76acc395c2e42818223c8adef29b6\6497255f20bf0f11926555a605499d00.wav
+Wed 07/03/2018 18:07:33.259 INFO - UART Recognized! - Trigger found, recognition counter : 324
+Wed 07/03/2018 18:07:33.917 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:36.095 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c938607cfb1c22fbd5a5beb572e1bdc2\9e7fa4385e1f7d549e25a89b528aa5ad.wav
+Wed 07/03/2018 18:07:37.565 INFO - UART Recognized! - Trigger found, recognition counter : 325
+Wed 07/03/2018 18:07:38.108 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:40.875 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c938607cfb1c22fbd5a5beb572e1bdc2\e0013c9bfe725728ba3cf67b79f22326.wav
+Wed 07/03/2018 18:07:42.671 INFO - UART Recognized! - Trigger found, recognition counter : 326
+Wed 07/03/2018 18:07:42.756 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:45.526 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\c9714d6dbff6a44ce6bbe304e59e1f65\f8d520479f2759499d55615b540fb579.wav
+Wed 07/03/2018 18:07:47.621 INFO - UART Recognized! - Trigger found, recognition counter : 327
+Wed 07/03/2018 18:07:47.940 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:50.174 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cb57a2cb176f4d8abaf4940e08f5df0e\69d49bc8aaa6bb84bd36e882d870bfc4.wav
+Wed 07/03/2018 18:07:54.706 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cb57a2cb176f4d8abaf4940e08f5df0e\74b422e16c2a16544327a325a9fc6d8e.wav
+Wed 07/03/2018 18:07:56.612 INFO - UART Recognized! - Trigger found, recognition counter : 328
+Wed 07/03/2018 18:07:56.782 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:07:59.346 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cb92fcbb378d18b22b9f370ad2a8fea2\7f6ba575d4d82fbccbf4e5a8f5a97cbf.wav
+Wed 07/03/2018 18:08:03.884 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbd8b9dd2225930a088e05177fdf1f51\67b517ced2af129fe8467e9ed6220ab8.wav
+Wed 07/03/2018 18:08:05.500 INFO - UART Recognized! - Trigger found, recognition counter : 329
+Wed 07/03/2018 18:08:05.575 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:08.345 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbfaca5f430233363bf9f163820b12fd\1b2d93b9ec44f356f6e222df711984ee.wav
+Wed 07/03/2018 18:08:10.121 INFO - UART Recognized! - Trigger found, recognition counter : 330
+Wed 07/03/2018 18:08:10.724 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:12.793 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbfaca5f430233363bf9f163820b12fd\27354e10605046eee7309346c317dd38.wav
+Wed 07/03/2018 18:08:14.862 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:14.921 INFO - UART Recognized! - Trigger found, recognition counter : 331
+Wed 07/03/2018 18:08:17.546 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbfaca5f430233363bf9f163820b12fd\8dddee1151c240aba4dc17020f75240a.wav
+Wed 07/03/2018 18:08:18.888 INFO - UART Recognized! - Trigger found, recognition counter : 332
+Wed 07/03/2018 18:08:19.000 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:22.072 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbff1d15e3aaac2aa4839e7e3e8ae8cc\604dff01fab0c214268b01140c1f17d3.wav
+Wed 07/03/2018 18:08:24.233 INFO - UART Recognized! - Trigger found, recognition counter : 333
+Wed 07/03/2018 18:08:26.595 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cbff1d15e3aaac2aa4839e7e3e8ae8cc\679b5ceab2e8f2bd63cc611f211492d1.wav
+Wed 07/03/2018 18:08:31.045 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cd1f4c866f2094c12ff0f71ea88f3644\df162c75a6f921fd93614179ff3b0e20.wav
+Wed 07/03/2018 18:08:33.049 INFO - UART Recognized! - Trigger found, recognition counter : 334
+Wed 07/03/2018 18:08:33.503 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:35.562 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cd5ef8b108a48942adffadcb0e9850c0\081ee8a275a196da1d5a7d3d04abc494.wav
+Wed 07/03/2018 18:08:37.555 INFO - UART Recognized! - Trigger found, recognition counter : 335
+Wed 07/03/2018 18:08:38.150 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:40.282 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cdaf453e0f0b181df75d033eced6a2c5\bd72f8dc9adb6042f640768d4160f60f.wav
+Wed 07/03/2018 18:08:42.118 INFO - UART Recognized! - Trigger found, recognition counter : 336
+Wed 07/03/2018 18:08:42.279 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:44.862 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cdaf453e0f0b181df75d033eced6a2c5\d4ffac37dead9d8844415d3be5ec06ce.wav
+Wed 07/03/2018 18:08:46.240 INFO - UART Recognized! - Trigger found, recognition counter : 337
+Wed 07/03/2018 18:08:46.407 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:49.510 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cdaf453e0f0b181df75d033eced6a2c5\f9f826d3dc22a194a98b141284fa8ba3.wav
+Wed 07/03/2018 18:08:51.397 INFO - UART Recognized! - Trigger found, recognition counter : 338
+Wed 07/03/2018 18:08:51.559 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:54.161 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\cfc8a54cf8628c51362d73a4a1fa0db0\b89ad1a6c9417f469607cdb2bdffdb49.wav
+Wed 07/03/2018 18:08:56.138 INFO - UART Recognized! - Trigger found, recognition counter : 339
+Wed 07/03/2018 18:08:56.278 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:08:58.871 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d112f6187dbe67e6564a8ca1e2596303\d04ed569b901d963cf25bdfe4626f782.wav
+Wed 07/03/2018 18:09:00.039 INFO - UART Recognized! - Trigger found, recognition counter : 340
+Wed 07/03/2018 18:09:00.411 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:02.881 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d287e1ed954fcfdab0d2c11f83bc50af\508515c0b88d2d5013a38daf55a62cd2.wav
+Wed 07/03/2018 18:09:04.619 INFO - UART Recognized! - Trigger found, recognition counter : 341
+Wed 07/03/2018 18:09:05.049 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:07.272 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d35ff916024d1035fd92fa047e03771d\04e72649a39b98188fa07357fe0b7758.wav
+Wed 07/03/2018 18:09:09.170 INFO - UART Recognized! - Trigger found, recognition counter : 342
+Wed 07/03/2018 18:09:09.263 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:11.861 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d35ff916024d1035fd92fa047e03771d\3d9dcf625fac747716072d2a2e66d1d0.wav
+Wed 07/03/2018 18:09:13.785 INFO - UART Recognized! - Trigger found, recognition counter : 343
+Wed 07/03/2018 18:09:13.904 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:16.450 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d3e0648b699f0c3807b2ecff92176af0\2490ccd19c7c8e26a7dc78eed95b3443.wav
+Wed 07/03/2018 18:09:18.273 INFO - UART Recognized! - Trigger found, recognition counter : 344
+Wed 07/03/2018 18:09:18.546 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:21.030 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d3e0648b699f0c3807b2ecff92176af0\7ba6d68a9ea784fb403026c9d5565c65.wav
+Wed 07/03/2018 18:09:22.410 INFO - UART Recognized! - Trigger found, recognition counter : 345
+Wed 07/03/2018 18:09:22.894 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:25.561 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d3e0648b699f0c3807b2ecff92176af0\8c6cb80eaad7e2bb75a1ec0c3ec86165.wav
+Wed 07/03/2018 18:09:27.342 INFO - UART Recognized! - Trigger found, recognition counter : 346
+Wed 07/03/2018 18:09:27.611 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:29.880 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d3e0648b699f0c3807b2ecff92176af0\937edb4d55495926bbd08194ed67d35d.wav
+Wed 07/03/2018 18:09:31.714 INFO - UART Recognized! - Trigger found, recognition counter : 347
+Wed 07/03/2018 18:09:31.854 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:34.141 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d3e0648b699f0c3807b2ecff92176af0\ff15205663f7cce21d76428ba1508d01.wav
+Wed 07/03/2018 18:09:36.045 INFO - UART Recognized! - Trigger found, recognition counter : 348
+Wed 07/03/2018 18:09:36.490 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:38.549 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d46c6ffba792b3b388958ff2df6d4398\47423d0a4232f6a3db03498f7870a952.wav
+Wed 07/03/2018 18:09:40.055 INFO - UART Recognized! - Trigger found, recognition counter : 349
+Wed 07/03/2018 18:09:40.290 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:43.148 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d46c6ffba792b3b388958ff2df6d4398\d71f7df617b48ab607da0206dcaa6af2.wav
+Wed 07/03/2018 18:09:44.930 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:09:44.989 INFO - UART Recognized! - Trigger found, recognition counter : 350
+Wed 07/03/2018 18:09:47.677 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d50fb05f4ce91a8dc60cf576b95c0eb6\11be54666a7ca3e04cb1bdc229972f12.wav
+Wed 07/03/2018 18:09:49.760 INFO - UART Recognized! - Trigger found, recognition counter : 351
+Wed 07/03/2018 18:09:52.398 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d50fb05f4ce91a8dc60cf576b95c0eb6\34df4c71eca000a1bb8b9894cd0ac644.wav
+Wed 07/03/2018 18:09:57.118 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d50fb05f4ce91a8dc60cf576b95c0eb6\554fa66c7ab758fdc682814cd9ffcac4.wav
+Wed 07/03/2018 18:09:58.671 INFO - UART Recognized! - Trigger found, recognition counter : 352
+Wed 07/03/2018 18:09:58.989 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:02.075 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d6430ef53a1bceb0a3f71224d27ed955\0c260ca4d6a1f48d2d30b72ae221df73.wav
+Wed 07/03/2018 18:10:03.588 INFO - UART Recognized! - Trigger found, recognition counter : 353
+Wed 07/03/2018 18:10:04.142 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:06.726 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d6430ef53a1bceb0a3f71224d27ed955\22b9e4c86c7ea6a49d7f1cc70566e358.wav
+Wed 07/03/2018 18:10:08.219 INFO - UART Recognized! - Trigger found, recognition counter : 354
+Wed 07/03/2018 18:10:08.782 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:11.256 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d6430ef53a1bceb0a3f71224d27ed955\698d323e78ba710c02338c9061d29565.wav
+Wed 07/03/2018 18:10:12.943 INFO - UART Recognized! - Trigger found, recognition counter : 355
+Wed 07/03/2018 18:10:13.490 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:15.776 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d6430ef53a1bceb0a3f71224d27ed955\9474be4ead22e9158b595b85115b765a.wav
+Wed 07/03/2018 18:10:17.894 INFO - UART Recognized! - Trigger found, recognition counter : 356
+Wed 07/03/2018 18:10:18.148 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:20.226 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d67f6833bebb4302b16a2ca74526700d\7e031b11a77d4c61c551a0433ad11aab.wav
+Wed 07/03/2018 18:10:22.867 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:24.628 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d77fd23c53b2374d3df40f441ba154d3\e481f842f2b8949c58fe58a740320678.wav
+Wed 07/03/2018 18:10:26.453 INFO - UART Recognized! - Trigger found, recognition counter : 357
+Wed 07/03/2018 18:10:26.999 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:29.145 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d7cc7096c62f982572aa6d1f4a23f97a\87e47e0b3b60893c716d7171cdb20139.wav
+Wed 07/03/2018 18:10:31.180 INFO - UART Recognized! - Trigger found, recognition counter : 358
+Wed 07/03/2018 18:10:31.641 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:33.667 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d83944e5e03dfbee325d1817a6e3570a\fae3b312f0e68afa8446d84336fc7b94.wav
+Wed 07/03/2018 18:10:38.315 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d8e0a924a1a124ba5bca31c177e66c74\102e57b23f90f931487b86d6aa0121fd.wav
+Wed 07/03/2018 18:10:39.894 INFO - UART Recognized! - Trigger found, recognition counter : 359
+Wed 07/03/2018 18:10:39.970 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:42.766 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d9547264084ad99e22e7b93fa94a90f2\70a5752ee237569ef25d3d3499529166.wav
+Wed 07/03/2018 18:10:45.168 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:47.414 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\d99bd0fb2d552766298fa4b7dbfbab25\7bd434e10b295cde65c87f6ca0132d91.wav
+Wed 07/03/2018 18:10:49.296 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:49.398 INFO - UART Recognized! - Trigger found, recognition counter : 360
+Wed 07/03/2018 18:10:52.053 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\da85e59fa9a02b32204b047430460b81\4a686f1e5f70a64bb44a8a2b3c8fd66d.wav
+Wed 07/03/2018 18:10:53.822 INFO - UART Recognized! - Trigger found, recognition counter : 361
+Wed 07/03/2018 18:10:54.015 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:10:56.503 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\db8805cb2fc52757657a965725829b86\c238b37e2e0ce14a0021ee578e6ad87d.wav
+Wed 07/03/2018 18:10:57.976 INFO - UART Recognized! - Trigger found, recognition counter : 362
+Wed 07/03/2018 18:10:58.657 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:01.336 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\dba572e13ab6230a0b39a4a29bd62832\fe6d319b00dc48a0bf76c76b58210cd1.wav
+Wed 07/03/2018 18:11:02.730 INFO - UART Recognized! - Trigger found, recognition counter : 363
+Wed 07/03/2018 18:11:02.789 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:05.865 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\dbf52ec28289684b5a3068deafe2a9ea\a68e0e3268467804fb257d8fa5e6940d.wav
+Wed 07/03/2018 18:11:07.730 INFO - UART Recognized! - Trigger found, recognition counter : 364
+Wed 07/03/2018 18:11:07.927 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:10.444 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\dd73ec09de43a6682bbbe0d44fe40dfd\ace6cda5f2d281ef401dbbf09480c086.wav
+Wed 07/03/2018 18:11:12.661 INFO - UART Recognized! - Trigger found, recognition counter : 365
+Wed 07/03/2018 18:11:13.154 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:15.094 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\dd73ec09de43a6682bbbe0d44fe40dfd\bb777961dd1a8f94249596fd13ba846c.wav
+Wed 07/03/2018 18:11:17.213 INFO - UART Recognized! - Trigger found, recognition counter : 366
+Wed 07/03/2018 18:11:17.296 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:19.743 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\dec1fdbdd0b3c999f18856037d11ca09\63a042568fb87a5bcb460f5a96709f4c.wav
+Wed 07/03/2018 18:11:21.158 INFO - UART Recognized! - Trigger found, recognition counter : 367
+Wed 07/03/2018 18:11:22.000 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:24.273 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\df4c619ac2565ceb8c6a256d5bf6c2b1\43231591052ae69375a6b8fab05df2b8.wav
+Wed 07/03/2018 18:11:25.631 INFO - UART Recognized! - Trigger found, recognition counter : 368
+Wed 07/03/2018 18:11:26.142 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:28.792 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e017e610b38b440aedb1ec9be7f927e2\1df41f13cd5ee277cb2649c802caf447.wav
+Wed 07/03/2018 18:11:30.802 INFO - UART Recognized! - Trigger found, recognition counter : 369
+Wed 07/03/2018 18:11:31.295 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:33.433 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e06129150187048432d2cacb45785498\d59b7e3e16c5d27d2e318a275a556a0c.wav
+Wed 07/03/2018 18:11:34.920 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:35.207 INFO - UART Recognized! - Trigger found, recognition counter : 370
+Wed 07/03/2018 18:11:38.010 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e0d3ef800a988c9799d611ef3cd8ed43\e30abab293b155c29ce2122e2c241547.wav
+Wed 07/03/2018 18:11:39.410 INFO - UART Recognized! - Trigger found, recognition counter : 371
+Wed 07/03/2018 18:11:39.773 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:42.604 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e198aa1135ebdfbd1c0011453078cb7b\213d5781db1671c34f4b5276acf2f27a.wav
+Wed 07/03/2018 18:11:44.086 INFO - UART Recognized! - Trigger found, recognition counter : 372
+Wed 07/03/2018 18:11:44.411 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:47.191 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e198aa1135ebdfbd1c0011453078cb7b\563cc33df526db4b7d2f540927b43aa0.wav
+Wed 07/03/2018 18:11:49.180 INFO - UART Recognized! - Trigger found, recognition counter : 373
+Wed 07/03/2018 18:11:49.628 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:51.911 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e1a71eeb5767848b893b69eacac9ae0f\40ea60ce0a90ae1f05aba7b2180c0c64.wav
+Wed 07/03/2018 18:11:53.746 INFO - UART Recognized! - Trigger found, recognition counter : 374
+Wed 07/03/2018 18:11:54.263 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:11:56.361 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e21c316e8359eadfbfa317ec1b5d81f2\29bce25d0d0a2f0f863f0b18fbd33b2f.wav
+Wed 07/03/2018 18:11:58.154 INFO - UART Recognized! - Trigger found, recognition counter : 375
+Wed 07/03/2018 18:11:58.391 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:00.811 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e21c316e8359eadfbfa317ec1b5d81f2\cc6291d39c98e146e3f3d1e44ce14073.wav
+Wed 07/03/2018 18:12:02.594 INFO - UART Recognized! - Trigger found, recognition counter : 376
+Wed 07/03/2018 18:12:03.029 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:05.270 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e232dd5171e59bea8eb52cb22b8e08f5\142a5ad4567c3a026c593dade0aedf0e.wav
+Wed 07/03/2018 18:12:07.085 INFO - UART Recognized! - Trigger found, recognition counter : 377
+Wed 07/03/2018 18:12:07.160 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:09.910 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e2432e37ca3a33614b27baaed0476e23\66d87b5d40a3fdd2da00e5448a3d3fef.wav
+Wed 07/03/2018 18:12:11.822 INFO - UART Recognized! - Trigger found, recognition counter : 378
+Wed 07/03/2018 18:12:11.880 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:14.361 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e3b3ad9bf7ed49a1b0c2d1c8a74cdde8\6294292f6dc2211cd92198fa5b725f5a.wav
+Wed 07/03/2018 18:12:15.704 INFO - UART Recognized! - Trigger found, recognition counter : 379
+Wed 07/03/2018 18:12:16.000 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:19.003 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e419aa3de095dcad52e4757208ae6f81\ec7fafc996941222f988aa84200958e3.wav
+Wed 07/03/2018 18:12:20.954 INFO - UART Recognized! - Trigger found, recognition counter : 380
+Wed 07/03/2018 18:12:21.151 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:23.398 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e4bd707beb0ae0d53b3625794a27ca92\4a513c2d39053e0337ceeb5b617ae198.wav
+Wed 07/03/2018 18:12:25.792 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:27.930 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e4fc43c6ffb8b0e8258fbb58a77296fc\39f2bc653d311604a7c15bca54922385.wav
+Wed 07/03/2018 18:12:29.818 INFO - UART Recognized! - Trigger found, recognition counter : 381
+Wed 07/03/2018 18:12:29.924 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:32.509 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\1da146f42e9c74d46f57acfe19560278.wav
+Wed 07/03/2018 18:12:34.161 INFO - UART Recognized! - Trigger found, recognition counter : 382
+Wed 07/03/2018 18:12:34.697 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:36.957 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\38c2d3f05966c57336aacf2fc9ab26c8.wav
+Wed 07/03/2018 18:12:38.680 INFO - UART Recognized! - Trigger found, recognition counter : 383
+Wed 07/03/2018 18:12:38.832 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:41.279 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\487661c4ce2368d7b290d406de7a58c5.wav
+Wed 07/03/2018 18:12:42.585 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:42.720 INFO - UART Recognized! - Trigger found, recognition counter : 384
+Wed 07/03/2018 18:12:45.289 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\6fcb861268f91c16bff734140b464df6.wav
+Wed 07/03/2018 18:12:46.621 INFO - UART Recognized! - Trigger found, recognition counter : 385
+Wed 07/03/2018 18:12:47.220 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:49.809 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\8687e1681bac6d7e8efcb5d8939bc2e0.wav
+Wed 07/03/2018 18:12:51.076 INFO - UART Recognized! - Trigger found, recognition counter : 386
+Wed 07/03/2018 18:12:51.487 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:54.338 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e55b099c7d4c9241bde9d4fcd4e27a01\eef563ba0561d4dfed82a35b418aac02.wav
+Wed 07/03/2018 18:12:56.009 INFO - UART Recognized! - Trigger found, recognition counter : 387
+Wed 07/03/2018 18:12:56.134 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:12:58.786 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e585ed12e4d97995eddd1ac72cccaa14\24bd3bc624fd61a7935c5cd5082dd7cc.wav
+Wed 07/03/2018 18:13:00.671 INFO - UART Recognized! - Trigger found, recognition counter : 388
+Wed 07/03/2018 18:13:00.710 INFO - UART Recognized! - reached fault hendler type: 1  system should reset
+Wed 07/03/2018 18:13:00.855 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:00.933 INFO - UART Recognized! - starting  
+Wed 07/03/2018 18:13:03.237 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e58c7ddb4d7ffddcc96af4380e641283\5548ece54563d0ae4919500015bbc119.wav
+Wed 07/03/2018 18:13:03.923 INFO - UART Recognized! - ,
+Wed 07/03/2018 18:13:04.602 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:04.951 INFO - UART Recognized! - Trigger found, recognition counter : 1
+Wed 07/03/2018 18:13:07.377 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e5d371b77921e9644e570a84d89a60f4\2d47407d280fce5d6570b39cb1912396.wav
+Wed 07/03/2018 18:13:09.325 INFO - UART Recognized! - Trigger found, recognition counter : 2
+Wed 07/03/2018 18:13:09.825 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:11.956 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e5d371b77921e9644e570a84d89a60f4\59f5cfaf7aca1a25d0ad5e4601cbf90c.wav
+Wed 07/03/2018 18:13:13.813 INFO - UART Recognized! - Trigger found, recognition counter : 3
+Wed 07/03/2018 18:13:13.963 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:16.397 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e69237b609e68ee6ec712123c931fd04\d593fc60840e3d350a01338e45a4008f.wav
+Wed 07/03/2018 18:13:18.683 INFO - UART Recognized! - Trigger found, recognition counter : 4
+Wed 07/03/2018 18:13:19.111 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:21.313 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e704b3f5647be9e1c3ceafee07ba237c\8327b7180af53d47f089c3b9bcb203f5.wav
+Wed 07/03/2018 18:13:23.296 INFO - UART Recognized! - Trigger found, recognition counter : 5
+Wed 07/03/2018 18:13:23.744 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:25.957 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e79e29906dcdd27222413890c714eaf8\c67270f9bbb0d1aa576c7888b1f45596.wav
+Wed 07/03/2018 18:13:27.292 INFO - UART Recognized! - Trigger found, recognition counter : 6
+Wed 07/03/2018 18:13:27.459 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:30.533 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e82cc0d8fbb6a528c56626debb590649\889c0b4c25f2857b8696d8e3436239b6.wav
+Wed 07/03/2018 18:13:32.447 INFO - UART Recognized! - Trigger found, recognition counter : 7
+Wed 07/03/2018 18:13:32.605 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:35.115 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e82cc0d8fbb6a528c56626debb590649\c15fb9529ab01314169dba231ccfcf09.wav
+Wed 07/03/2018 18:13:36.457 INFO - UART Recognized! - Trigger found, recognition counter : 8
+Wed 07/03/2018 18:13:36.845 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:39.635 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\e82cc0d8fbb6a528c56626debb590649\ec20cb9609542f96166145875a58a26a.wav
+Wed 07/03/2018 18:13:41.740 INFO - UART Recognized! - Trigger found, recognition counter : 9
+Wed 07/03/2018 18:13:42.026 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:44.276 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ebc4efdb0eff2fa21f4c01a06ab583cd\0269bfb14d366c0fbb68a95f4193c3d2.wav
+Wed 07/03/2018 18:13:48.803 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ebc4efdb0eff2fa21f4c01a06ab583cd\592b80f62df6e531177a9b7f2237ddce.wav
+Wed 07/03/2018 18:13:50.681 INFO - UART Recognized! - Trigger found, recognition counter : 10
+Wed 07/03/2018 18:13:51.233 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:53.334 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ec1f8c46461371ff5a17f84ff85ff77d\d7f26096f1098a6ea37c76e2c1925a06.wav
+Wed 07/03/2018 18:13:55.311 INFO - UART Recognized! - Trigger found, recognition counter : 11
+Wed 07/03/2018 18:13:55.444 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:13:58.053 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ec46722154e92e24ae77f12ccfbf0725\79d2f85f03fe53e5d59043f9c43fdd45.wav
+Wed 07/03/2018 18:13:59.783 INFO - UART Recognized! - Trigger found, recognition counter : 12
+Wed 07/03/2018 18:14:00.076 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:02.575 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ed6f53ff16993b46caf6324511e14182\277b5312d5a4651fe0a65f4824dd5d5b.wav
+Wed 07/03/2018 18:14:04.461 INFO - UART Recognized! - Trigger found, recognition counter : 13
+Wed 07/03/2018 18:14:04.834 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:07.104 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ed6f53ff16993b46caf6324511e14182\9941a7090431fec0c53502202fd8078f.wav
+Wed 07/03/2018 18:14:08.980 INFO - UART Recognized! - Trigger found, recognition counter : 14
+Wed 07/03/2018 18:14:09.062 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:11.434 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ed6f53ff16993b46caf6324511e14182\affdd6d1650b0dd4cec53770501b8061.wav
+Wed 07/03/2018 18:14:13.467 INFO - UART Recognized! - Trigger found, recognition counter : 15
+Wed 07/03/2018 18:14:13.756 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:16.025 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\eda7f3180c91ed514e3f3db395e75635\2f4042225f0bf61035d645888598f36f.wav
+Wed 07/03/2018 18:14:17.319 INFO - UART Recognized! - Trigger found, recognition counter : 16
+Wed 07/03/2018 18:14:17.884 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:20.473 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ee4d32f66bab5ff36f49f68668b18fe8\88a0463e494383f76859e6ab4fa51b7d.wav
+Wed 07/03/2018 18:14:21.835 INFO - UART Recognized! - Trigger found, recognition counter : 17
+Wed 07/03/2018 18:14:22.158 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:24.996 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ee6119800708998106f4ae9e4ab2d0db\056903f104e9239243c92ed6f5fe599c.wav
+Wed 07/03/2018 18:14:26.848 INFO - UART Recognized! - Trigger found, recognition counter : 18
+Wed 07/03/2018 18:14:27.313 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:29.392 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ee6119800708998106f4ae9e4ab2d0db\569a7fa642851f24b922b7e324f1af77.wav
+Wed 07/03/2018 18:14:31.352 INFO - UART Recognized! - Trigger found, recognition counter : 19
+Wed 07/03/2018 18:14:33.976 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\eec65dd7c9aed551176d4d66de27e3d7\5042f07a487b1a1bc84d410869666918.wav
+Wed 07/03/2018 18:14:36.043 INFO - UART Recognized! - Trigger found, recognition counter : 20
+Wed 07/03/2018 18:14:36.131 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:38.573 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ef79db6b8f6db39bb5178ae903dd6cb1\0909711241c03b8fd7156fab21bbe2d4.wav
+Wed 07/03/2018 18:14:40.851 INFO - UART Recognized! - Trigger found, recognition counter : 21
+Wed 07/03/2018 18:14:41.279 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:43.482 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ef79db6b8f6db39bb5178ae903dd6cb1\aef2aa003ad0ec97baff20bd3798ca8e.wav
+Wed 07/03/2018 18:14:45.417 INFO - UART Recognized! - Trigger found, recognition counter : 22
+Wed 07/03/2018 18:14:45.921 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:48.071 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ef79db6b8f6db39bb5178ae903dd6cb1\f15906fdde6b07e971558673663bf91a.wav
+Wed 07/03/2018 18:14:50.509 INFO - UART Recognized! - Trigger found, recognition counter : 23
+Wed 07/03/2018 18:14:50.746 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:53.012 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\efb06e4543b9ade90445f8e067615d6f\d3bb06e7dca2c03c698848bc1b7aaa43.wav
+Wed 07/03/2018 18:14:54.710 INFO - UART Recognized! - Trigger found, recognition counter : 24
+Wed 07/03/2018 18:14:55.971 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:14:57.918 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\efc212894fe324e330f71cd7d874f212\09f4a29c7b005b532ed1b25a368b3c6f.wav
+Wed 07/03/2018 18:15:00.111 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:02.631 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f3621c57edf61eb1534321caf4889d71\514ba240197e86c625add7d1beaa5b16.wav
+Wed 07/03/2018 18:15:03.940 INFO - UART Recognized! - Trigger found, recognition counter : 25
+Wed 07/03/2018 18:15:04.763 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:07.029 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f3621c57edf61eb1534321caf4889d71\8dbecc781b7255aed56a19d94d307d1a.wav
+Wed 07/03/2018 18:15:11.420 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f3621c57edf61eb1534321caf4889d71\9ddd78decf1d5209451aa2dc1aefd443.wav
+Wed 07/03/2018 18:15:13.279 INFO - UART Recognized! - Trigger found, recognition counter : 26
+Wed 07/03/2018 18:15:13.641 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:15.828 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f389b9afdd2593a25c4dbe79ccfb9ff5\5659713bf0b3879e84d11dbff261005a.wav
+Wed 07/03/2018 18:15:17.542 INFO - UART Recognized! - Trigger found, recognition counter : 27
+Wed 07/03/2018 18:15:17.778 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:20.289 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f39fe2d9a497828d77861ab599deb261\0fd99129f28c744a8c792c3373a925ee.wav
+Wed 07/03/2018 18:15:24.730 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f39fe2d9a497828d77861ab599deb261\7570275dd70061e36fd1d83f63bc4b45.wav
+Wed 07/03/2018 18:15:26.454 INFO - UART Recognized! - Trigger found, recognition counter : 28
+Wed 07/03/2018 18:15:26.667 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:28.859 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f48ec1839ffd0a5159fe588cda69ddf0\97631a28c43ebe851d090bc17eba3da3.wav
+Wed 07/03/2018 18:15:30.289 INFO - UART Recognized! - Trigger found, recognition counter : 29
+Wed 07/03/2018 18:15:30.802 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:33.569 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f4bf126dd2c3ac9c442b007376d1f9d2\48a17899071d3d6d05e725e199bfe2ee.wav
+Wed 07/03/2018 18:15:34.967 INFO - UART Recognized! - Trigger found, recognition counter : 30
+Wed 07/03/2018 18:15:35.443 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:38.088 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f5703902f0d643099c37381178ff55a1\265ff559cc2fa1030c4d1dd5fe531899.wav
+Wed 07/03/2018 18:15:39.344 INFO - UART Recognized! - Trigger found, recognition counter : 31
+Wed 07/03/2018 18:15:39.674 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:42.469 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f6fb5230140056d7392f8aad667a245a\0719b5dca9cefdef01994c2038faaf90.wav
+Wed 07/03/2018 18:15:44.530 INFO - UART Recognized! - Trigger found, recognition counter : 32
+Wed 07/03/2018 18:15:44.816 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:46.993 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f75b82643db934edb1f17a80c0b17449\c369805e656545c5fc3541c3ac6611ae.wav
+Wed 07/03/2018 18:15:48.953 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:49.023 INFO - UART Recognized! - Trigger found, recognition counter : 33
+Wed 07/03/2018 18:15:51.586 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f7be3364ee1f55ff1caf0fb2a934a878\fea095ea0ed3925616a0f33cf7e25284.wav
+Wed 07/03/2018 18:15:53.410 INFO - UART Recognized! - Trigger found, recognition counter : 34
+Wed 07/03/2018 18:15:53.595 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:56.038 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f86dcc4bbbaa4876d31a909bb54f7202\0ba6cc4500deec44bbcbd0a2b97b105a.wav
+Wed 07/03/2018 18:15:57.841 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:15:57.959 INFO - UART Recognized! - Trigger found, recognition counter : 35
+Wed 07/03/2018 18:16:00.733 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f86dcc4bbbaa4876d31a909bb54f7202\5d179c44499989ea3ce05d873637a3c5.wav
+Wed 07/03/2018 18:16:02.348 INFO - UART Recognized! - Trigger found, recognition counter : 36
+Wed 07/03/2018 18:16:02.474 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:05.197 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f86dcc4bbbaa4876d31a909bb54f7202\eef5e48b325743722ab7b02f7ba1af18.wav
+Wed 07/03/2018 18:16:06.631 INFO - UART Recognized! - Trigger found, recognition counter : 37
+Wed 07/03/2018 18:16:07.193 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:09.908 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f86dcc4bbbaa4876d31a909bb54f7202\fccd7d76b5cff06fff1a0ea33a6118ad.wav
+Wed 07/03/2018 18:16:11.772 INFO - UART Recognized! - Trigger found, recognition counter : 38
+Wed 07/03/2018 18:16:12.352 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:14.436 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f8bc78ba59cffecbb84eebbcecbcdabc\98e8ad0ef2a2eea2bc874e0c828fb2b3.wav
+Wed 07/03/2018 18:16:16.482 INFO - UART Recognized! - Trigger found, recognition counter : 39
+Wed 07/03/2018 18:16:16.989 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:19.206 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f91cecb0171edeb873b05eb0a28e229f\37afee4256d1006d04e409bc1d432b9c.wav
+Wed 07/03/2018 18:16:20.490 INFO - UART Recognized! - Trigger found, recognition counter : 40
+Wed 07/03/2018 18:16:20.700 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:23.525 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\f91cecb0171edeb873b05eb0a28e229f\a469227cd85460ba2f272015d0b6e0dd.wav
+Wed 07/03/2018 18:16:24.881 INFO - UART Recognized! - Trigger found, recognition counter : 41
+Wed 07/03/2018 18:16:25.394 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:28.165 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fb83f981fbc399f9f8f57604c492920e\7828a53c56e61af674bbe47022d6d93c.wav
+Wed 07/03/2018 18:16:30.134 INFO - UART Recognized! - Trigger found, recognition counter : 42
+Wed 07/03/2018 18:16:30.542 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:32.756 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fc23a184c8669606a3c10d3691eba5cb\28b513bbb1130593e9270feca7959523.wav
+Wed 07/03/2018 18:16:34.351 INFO - UART Recognized! - Trigger found, recognition counter : 43
+Wed 07/03/2018 18:16:34.671 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:37.404 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fc23a184c8669606a3c10d3691eba5cb\a2a0494bfce9e6a15efa2dccf29cff49.wav
+Wed 07/03/2018 18:16:38.806 INFO - UART Recognized! - Trigger found, recognition counter : 44
+Wed 07/03/2018 18:16:39.303 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:42.043 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fc23a184c8669606a3c10d3691eba5cb\dd2ce5c9ac62f17c5b50432029f828e3.wav
+Wed 07/03/2018 18:16:43.595 INFO - UART Recognized! - Trigger found, recognition counter : 45
+Wed 07/03/2018 18:16:43.948 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:46.694 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fc6959e20543fcda739342b2b34b92f5\774dc43268eb99ecf6baff9d409f1704.wav
+Wed 07/03/2018 18:16:51.023 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\fde784cb919a56b643808219607be37e\64473c4b1c509acb206d944ea5cf32fa.wav
+Wed 07/03/2018 18:16:52.983 INFO - UART Recognized! - Trigger found, recognition counter : 46
+Wed 07/03/2018 18:16:53.282 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:55.555 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ff14f1c35fa97f703f6114972ed11b0b\30e3ca4e34a9b56165932e168f646f71.wav
+Wed 07/03/2018 18:16:57.411 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:16:57.451 INFO - UART Recognized! - Trigger found, recognition counter : 47
+Wed 07/03/2018 18:17:00.144 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ffc2f318eb6d5e95b3501b874429b684\0c77f0fabfac3fefa3f3cc4faeb57cf9.wav
+Wed 07/03/2018 18:17:01.543 INFO - UART Recognized! - Trigger found, recognition counter : 48
+Wed 07/03/2018 18:17:01.825 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 07/03/2018 18:17:04.673 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\ffc2f318eb6d5e95b3501b874429b684\e2d4b100391a760a76b079ca59fa859d.wav
+Wed 07/03/2018 18:17:05.982 INFO - UART Recognized! - Trigger found, recognition counter : 49
+Wed 07/03/2018 18:17:06.466 INFO - counter 0, Recognized! - LJ- Trigger - 2

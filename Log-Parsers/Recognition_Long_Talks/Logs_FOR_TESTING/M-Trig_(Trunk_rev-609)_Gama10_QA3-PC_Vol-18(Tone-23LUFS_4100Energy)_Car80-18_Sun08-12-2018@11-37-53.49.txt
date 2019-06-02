@@ -1,0 +1,1530 @@
+Mon 13/08/2018 03:44:50.105 INFO - Connecting to SERIAL for results
+Mon 13/08/2018 03:44:50.332 INFO - Starting to play wav files...
+Mon 13/08/2018 03:44:50.332 INFO - 
+===========================================
+Test_type: M-Trig
+Test description: Headset_Car80_Noise_-23LUFS.wav vol: -18
+list of wavs: C:\AutomationEnvironment\lists\MultiTrigger_new_files_Normalized-23LUFS_list.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: COM3
+Counter 1 Name: None
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\Jukebox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\M-Trig_(Trunk_rev-609)_Gama10_QA3-PC_Vol-18(Tone-23LUFS_4100Energy)_Car80-18_Sun08-12-2018@11-37-53.49.txt C:\AutomationEnvironment\lists\MultiTrigger_new_files_Normalized-23LUFS_list.txt C:\AutomationEnvironment\NoiseFiles\Noises_-23LUFS\Headset_Car80_Noise_-23LUFS.wav 0 -18 5 0 serial M-Trig "MusicMtrig" "SNR" "COM3" "None" "" ""
+-------------------------------------------
+Mon 13/08/2018 03:44:55.311 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_3\empty1.wav
+Mon 13/08/2018 03:44:59.733 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:03.822 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_4\empty1.wav
+Mon 13/08/2018 03:45:07.507 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:11.624 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_3\empty1.wav
+Mon 13/08/2018 03:45:15.413 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:19.424 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_4\empty1.wav
+Mon 13/08/2018 03:45:22.408 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:27.490 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\15715_2\empty1.wav
+Mon 13/08/2018 03:45:31.802 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:35.881 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\1W18I9GW5DHN8P9\empty1.wav
+Mon 13/08/2018 03:45:39.117 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:44.973 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\20Z4A6AATY5KIR9\empty1.wav
+Mon 13/08/2018 03:45:47.701 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:45:52.785 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_1\empty1.wav
+Mon 13/08/2018 03:45:56.926 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:00.849 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_5\empty1.wav
+Mon 13/08/2018 03:46:04.849 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:08.967 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\27715_2\empty1.wav
+Mon 13/08/2018 03:46:11.859 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:16.900 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2FUUNBBIOTSLQEE\empty1.wav
+Mon 13/08/2018 03:46:19.805 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:24.966 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\30715_1\empty1.wav
+Mon 13/08/2018 03:46:28.243 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:46:32.319 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\32D1S9ZE52WL7NY\empty1.wav
+Mon 13/08/2018 03:46:35.857 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:39.996 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\39O6V0XRTC8QJZP\empty1.wav
+Mon 13/08/2018 03:46:43.482 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:47.598 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3AHJOR7FODJZ6S1\empty1.wav
+Mon 13/08/2018 03:46:50.184 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:46:54.242 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3ATZ7TECB7PLQ4V\empty1.wav
+Mon 13/08/2018 03:46:57.546 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:47:02.963 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3UU428SYTAL85N9\empty1.wav
+Mon 13/08/2018 03:47:05.974 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:47:11.480 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\46971WETMWNVRYP\empty1.wav
+Mon 13/08/2018 03:47:15.115 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:47:19.028 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\52AFBNVMVPL82G5\empty1.wav
+Mon 13/08/2018 03:47:23.078 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:47:27.019 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_2\empty1.wav
+Mon 13/08/2018 03:47:29.861 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:47:34.944 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_5\empty1.wav
+Mon 13/08/2018 03:47:37.999 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:47:43.071 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5CN1XIZTLMY9RIT\empty1.wav
+Mon 13/08/2018 03:47:45.867 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:47:50.933 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5VQO70CX16QY54S\empty1.wav
+Mon 13/08/2018 03:47:54.387 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:47:59.934 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_2\empty1.wav
+Mon 13/08/2018 03:48:03.892 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:07.868 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_5\empty1.wav
+Mon 13/08/2018 03:48:12.164 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:16.177 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6CHF7CVO7F2M5GF\empty1.wav
+Mon 13/08/2018 03:48:19.359 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:23.339 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7715_3\empty1.wav
+Mon 13/08/2018 03:48:25.582 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:31.017 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\79VD582QT864JYP\empty1.wav
+Mon 13/08/2018 03:48:33.493 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:37.398 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7QYQTFFQNR1YC3J\empty1.wav
+Mon 13/08/2018 03:48:40.628 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:44.559 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\8715_3\empty1.wav
+Mon 13/08/2018 03:48:48.832 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:52.868 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9JWF6EB9AJL72SL\empty1.wav
+Mon 13/08/2018 03:48:55.926 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:48:59.959 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9L29BVBLF6R2GZW\empty1.wav
+Mon 13/08/2018 03:49:09.092 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9VLU9HWZ2WQYI2Z\empty1.wav
+Mon 13/08/2018 03:49:12.253 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:49:16.384 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASKYZ9QYJOCODH5\empty1.wav
+Mon 13/08/2018 03:49:19.308 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:49:23.364 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASVP48563CLR638\empty1.wav
+Mon 13/08/2018 03:49:26.970 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:49:31.042 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\C3N450UL9APOI33\empty1.wav
+Mon 13/08/2018 03:49:33.471 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:49:38.582 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\CFCMNDSO1NIE63V\empty1.wav
+Mon 13/08/2018 03:49:42.321 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:49:46.381 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DGDE6VMG3CP1HGQ\empty1.wav
+Mon 13/08/2018 03:49:50.167 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:49:54.183 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DK1DULER1A7OXL9\empty1.wav
+Mon 13/08/2018 03:50:02.177 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\EUU0XZZISVRWSK8\empty1.wav
+Mon 13/08/2018 03:50:06.010 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:09.977 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\GQBJTO3BAX3Z60O\empty1.wav
+Mon 13/08/2018 03:50:14.158 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:18.226 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HEMZTM4ARJ09DI1\empty1.wav
+Mon 13/08/2018 03:50:21.757 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:27.012 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HYWHSP3ZKM72MKX\empty1.wav
+Mon 13/08/2018 03:50:30.421 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:34.490 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\J7WNAFEIL1AQE4Y\empty1.wav
+Mon 13/08/2018 03:50:37.864 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:41.915 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\JUPJV2VZN3VJ08D\empty1.wav
+Mon 13/08/2018 03:50:44.973 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:50:50.032 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\K6P7EIDX1X804QN\empty1.wav
+Mon 13/08/2018 03:50:56.940 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\KHGIGA56BYS6QBQ\empty1.wav
+Mon 13/08/2018 03:51:00.436 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:04.426 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LFNZG0TNUOF7HAQ\empty1.wav
+Mon 13/08/2018 03:51:07.214 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:11.345 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LT69FP94BPQA8NO\empty1.wav
+Mon 13/08/2018 03:51:14.016 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:17.986 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M2JEKBICVAMSIZR\empty1.wav
+Mon 13/08/2018 03:51:21.605 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:25.595 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M98BAP715K4CDSZ\empty1.wav
+Mon 13/08/2018 03:51:28.982 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:33.134 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MEG9LNCGX9H7OWM\empty1.wav
+Mon 13/08/2018 03:51:35.913 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:41.448 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MSPU3W3Q775JQU0\empty1.wav
+Mon 13/08/2018 03:51:44.450 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:48.553 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\N0AO3UT4ZHHC5YX\empty1.wav
+Mon 13/08/2018 03:51:51.595 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:51:55.654 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NEXH0N9IJHJ9X3U\empty1.wav
+Mon 13/08/2018 03:51:58.483 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:02.551 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NI9MXO55KX0AM3I\empty1.wav
+Mon 13/08/2018 03:52:05.697 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:10.983 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NIECMZPZZPYTX0N\empty1.wav
+Mon 13/08/2018 03:52:13.900 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:18.904 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NJV9JG59GITSNQ6\empty1.wav
+Mon 13/08/2018 03:52:21.813 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:52:26.828 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NK13P6TRZCI9TNY\empty1.wav
+Mon 13/08/2018 03:52:34.631 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NNZTYYMPETLEDG0\empty1.wav
+Mon 13/08/2018 03:52:37.381 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:41.477 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\OYS5ZC0EORO0ZHZ\empty1.wav
+Mon 13/08/2018 03:52:44.153 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:49.515 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\PTZ0VW3EEGBTTY3\empty1.wav
+Mon 13/08/2018 03:52:52.585 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:52:56.614 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q3ASZ81D45SJ0BW\empty1.wav
+Mon 13/08/2018 03:53:00.388 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:53:04.404 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q8VWF6PIE5SE58Z\empty1.wav
+Mon 13/08/2018 03:53:07.884 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:53:11.951 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\QAT7UXQ3EDKGTXH\empty1.wav
+Mon 13/08/2018 03:53:20.138 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ROLWIA4OAZCN4N2\empty1.wav
+Mon 13/08/2018 03:53:22.798 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:53:27.826 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\RRCQAF5AJ8SQYF6\empty1.wav
+Mon 13/08/2018 03:53:30.845 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:53:34.930 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\SIPLNAA4U885R1S\empty1.wav
+Mon 13/08/2018 03:53:38.477 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:53:42.538 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\T18AMI29LIHF9X0\empty1.wav
+Mon 13/08/2018 03:53:47.164 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:53:51.413 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V21PGRX29NPRTNT\empty1.wav
+Mon 13/08/2018 03:53:55.088 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:53:59.147 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V9K82ANCWTNIZ5I\empty1.wav
+Mon 13/08/2018 03:54:02.259 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:06.369 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VGHLLMV98J2MQP2\empty1.wav
+Mon 13/08/2018 03:54:09.068 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:13.155 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VMGQVJ6IHGOMNXW\empty1.wav
+Mon 13/08/2018 03:54:16.039 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:21.598 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\W1CW3BDC7KEIYBN\empty1.wav
+Mon 13/08/2018 03:54:24.625 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:28.686 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Y7U1RPX24YB51TX\empty1.wav
+Mon 13/08/2018 03:54:32.730 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:54:36.753 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\YXMNK714JWDHFKC\empty1.wav
+Mon 13/08/2018 03:54:40.104 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:44.177 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZCSGCKBU03C71LQ\empty1.wav
+Mon 13/08/2018 03:54:47.832 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:51.907 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZNE2V47F5JVPHCA\empty1.wav
+Mon 13/08/2018 03:54:54.852 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:54:59.900 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZV9DTPQ3MVCZAIG\empty1.wav
+Mon 13/08/2018 03:55:03.684 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:55:07.634 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\00RTC3P0BAWR4K6\empty1.wav
+Mon 13/08/2018 03:55:11.056 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:55:15.181 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\12715_2\empty1.wav
+Mon 13/08/2018 03:55:18.976 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:55:23.043 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_2\empty1.wav
+Mon 13/08/2018 03:55:27.125 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:55:31.170 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_3\empty1.wav
+Mon 13/08/2018 03:55:35.211 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:55:39.234 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\15715_1\empty1.wav
+Mon 13/08/2018 03:55:43.053 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:55:47.107 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16715_1\empty1.wav
+Mon 13/08/2018 03:55:51.066 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:55:55.101 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16998UUD2NGCOIV\empty1.wav
+Mon 13/08/2018 03:55:59.305 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:03.351 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\1715_1\empty1.wav
+Mon 13/08/2018 03:56:06.355 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:11.720 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_1\empty1.wav
+Mon 13/08/2018 03:56:15.486 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:19.522 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_2\empty1.wav
+Mon 13/08/2018 03:56:22.424 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 03:56:27.638 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\23715_2\empty1.wav
+Mon 13/08/2018 03:56:31.483 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:35.500 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\24815_2\empty1.wav
+Mon 13/08/2018 03:56:39.456 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:43.569 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\26715_3\empty1.wav
+Mon 13/08/2018 03:56:47.437 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:51.440 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_3\empty1.wav
+Mon 13/08/2018 03:56:55.299 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:56:59.362 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_4\empty1.wav
+Mon 13/08/2018 03:57:03.561 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:07.489 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_1\empty1.wav
+Mon 13/08/2018 03:57:09.747 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:14.770 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_3\empty1.wav
+Mon 13/08/2018 03:57:18.448 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:22.503 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_5\empty1.wav
+Mon 13/08/2018 03:57:25.384 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:30.434 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_1\empty1.wav
+Mon 13/08/2018 03:57:33.489 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:38.562 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_3\empty1.wav
+Mon 13/08/2018 03:57:42.404 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:46.486 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_4\empty1.wav
+Mon 13/08/2018 03:57:50.375 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:57:54.717 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_2\empty1.wav
+Mon 13/08/2018 03:58:00.440 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:03.408 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_3\empty1.wav
+Mon 13/08/2018 03:58:07.098 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:11.201 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_5\empty1.wav
+Mon 13/08/2018 03:58:15.148 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:19.194 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\30715_2\empty1.wav
+Mon 13/08/2018 03:58:23.282 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:27.483 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\3U1REDQ717RBZ4N\empty1.wav
+Mon 13/08/2018 03:58:32.398 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:36.444 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\47HGTKPKCB1SBIG\empty1.wav
+Mon 13/08/2018 03:58:40.088 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:44.122 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\4NSFU0ATSVIERIO\empty1.wav
+Mon 13/08/2018 03:58:47.802 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:51.854 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_3\empty1.wav
+Mon 13/08/2018 03:58:55.821 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:58:59.757 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_4\empty1.wav
+Mon 13/08/2018 03:59:02.709 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:59:07.753 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5815_3\empty1.wav
+Mon 13/08/2018 03:59:11.484 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:59:15.552 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5EFZ7J0R7QNCY6L\empty1.wav
+Mon 13/08/2018 03:59:18.986 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:59:24.032 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5P8FBQKXQDQWFTI\empty1.wav
+Mon 13/08/2018 03:59:27.395 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 03:59:32.466 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\659IXSP07LY50N5\empty1.wav
+Mon 13/08/2018 03:59:35.887 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:59:39.881 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_3\empty1.wav
+Mon 13/08/2018 03:59:43.049 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:59:48.312 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_6\empty1.wav
+Mon 13/08/2018 03:59:51.298 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 03:59:56.305 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\67QRT481VBGZCGJ\empty1.wav
+Mon 13/08/2018 03:59:59.726 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:03.793 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7715_1\empty1.wav
+Mon 13/08/2018 04:00:06.930 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:12.114 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7K8QSNVTLX20HW6\empty1.wav
+Mon 13/08/2018 04:00:15.898 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 04:00:21.174 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7T6SH9QEKF7P2KG\empty1.wav
+Mon 13/08/2018 04:00:24.203 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:28.265 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7Y6KJ3VH8206ZNS\empty1.wav
+Mon 13/08/2018 04:00:30.992 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:35.059 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_1\empty1.wav
+Mon 13/08/2018 04:00:38.358 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:43.438 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_2\empty1.wav
+Mon 13/08/2018 04:00:46.575 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:00:51.680 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\94LCC6ABI3NG7AU\empty1.wav
+Mon 13/08/2018 04:00:59.673 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_1\empty1.wav
+Mon 13/08/2018 04:01:03.391 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:07.365 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_3\empty1.wav
+Mon 13/08/2018 04:01:11.243 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:15.266 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\A48PGHBOZR4XBFE\empty1.wav
+Mon 13/08/2018 04:01:18.012 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:23.138 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ADIDVQE61UG1LDC\empty1.wav
+Mon 13/08/2018 04:01:26.388 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:31.966 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\AGSQ7SJ24QL7NPA\empty1.wav
+Mon 13/08/2018 04:01:35.388 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:39.392 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\APWPG543B5RTJWM\empty1.wav
+Mon 13/08/2018 04:01:43.079 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:47.122 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BDAOJ0S5LIQ4JAW\empty1.wav
+Mon 13/08/2018 04:01:50.082 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:01:54.163 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BV44ZG6KMS2PPBL\empty1.wav
+Mon 13/08/2018 04:01:57.470 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:02.602 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\C7TRKIZMTMD2C8J\empty1.wav
+Mon 13/08/2018 04:02:06.153 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:11.279 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\D5O6H29KTNX5OSQ\empty1.wav
+Mon 13/08/2018 04:02:13.875 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:18.947 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\DAP1QNBZIB16EER\empty1.wav
+Mon 13/08/2018 04:02:22.674 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:26.750 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\E32HA5S6TOZGCFA\empty1.wav
+Mon 13/08/2018 04:02:30.176 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:34.234 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\F6T7MNOR0Z3B7B9\empty1.wav
+Mon 13/08/2018 04:02:42.220 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\FSF6Q055E6UHKIZ\empty1.wav
+Mon 13/08/2018 04:02:45.263 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:50.927 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G4HS7FX7O7MXLSJ\empty1.wav
+Mon 13/08/2018 04:02:53.907 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:02:57.966 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G9U4MV61X86XBC8\empty1.wav
+Mon 13/08/2018 04:03:01.052 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:05.033 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HKXEB1BGCLGQW45\empty1.wav
+Mon 13/08/2018 04:03:07.802 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:12.959 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQJRB7X4FX4WJT9\empty1.wav
+Mon 13/08/2018 04:03:15.555 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:21.022 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQP5BJ2Y0DE65SK\empty1.wav
+Mon 13/08/2018 04:03:24.706 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:28.756 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HVMQ5PDWYLNJBSO\empty1.wav
+Mon 13/08/2018 04:03:32.180 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:36.191 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JLFLDFXKEN5FDKB\empty1.wav
+Mon 13/08/2018 04:03:38.305 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:43.869 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JNZIFEEEW9XCHKM\empty1.wav
+Mon 13/08/2018 04:03:46.977 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:51.032 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JPCIGRXIH716CBI\empty1.wav
+Mon 13/08/2018 04:03:53.655 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:03:57.717 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\KOY7170I1NL44Y6\empty1.wav
+Mon 13/08/2018 04:04:00.301 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:04.371 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LT9KKPJX89JZ0OJ\empty1.wav
+Mon 13/08/2018 04:04:07.045 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:12.302 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LUDL9I9OSU0101W\empty1.wav
+Mon 13/08/2018 04:04:15.332 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:19.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MEMH1WMR8N69ER1\empty1.wav
+Mon 13/08/2018 04:04:22.681 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 04:04:28.026 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MINU41ZL6PB0HCD\empty1.wav
+Mon 13/08/2018 04:04:30.683 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:34.752 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N4AJPCHJWQ00D4J\empty1.wav
+Mon 13/08/2018 04:04:37.424 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:42.625 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N7T0YBPE26XLOX4\empty1.wav
+Mon 13/08/2018 04:04:46.151 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:50.141 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NCJ80HZ4PIQI4PB\empty1.wav
+Mon 13/08/2018 04:04:53.092 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:04:58.134 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NM1JQY8B0KL0XNX\empty1.wav
+Mon 13/08/2018 04:05:01.062 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:04.973 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NQXJNWYBVJGIBK0\empty1.wav
+Mon 13/08/2018 04:05:07.612 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:13.029 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NR0I5CA9DJ3S9Y3\empty1.wav
+Mon 13/08/2018 04:05:15.703 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:20.828 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OESRBJXI4FM980L\empty1.wav
+Mon 13/08/2018 04:05:28.437 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OG9NYLUYKVE2CVT\empty1.wav
+Mon 13/08/2018 04:05:31.483 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:35.539 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OOU9K0AG31J5PAZ\empty1.wav
+Mon 13/08/2018 04:05:38.759 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:42.801 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\QV1XDVZMVY35P8U\empty1.wav
+Mon 13/08/2018 04:05:50.145 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\S96UG6AEKNCFOU3\empty1.wav
+Mon 13/08/2018 04:05:53.335 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:05:57.368 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SDFANH3ON2YGY75\empty1.wav
+Mon 13/08/2018 04:06:00.882 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:04.967 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SP7X3EUJ58O461I\empty1.wav
+Mon 13/08/2018 04:06:07.865 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:12.053 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\VXCX218X6TBRRWA\empty1.wav
+Mon 13/08/2018 04:06:14.832 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:18.894 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WD8RSQERZ0UIU8B\empty1.wav
+Mon 13/08/2018 04:06:21.740 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:25.801 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WZ4M152H1KD9J80\empty1.wav
+Mon 13/08/2018 04:06:29.634 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:33.674 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X7RN0DS8034ZFZE\empty1.wav
+Mon 13/08/2018 04:06:41.384 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X9LZ08MYDP9BSUB\empty1.wav
+Mon 13/08/2018 04:06:45.292 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:49.368 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\XXTQIMN7BH47LE7\empty1.wav
+Mon 13/08/2018 04:06:52.532 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:06:57.871 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YES71BCYNJX349F\empty1.wav
+Mon 13/08/2018 04:07:00.624 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:05.670 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YNCF7236EH5WE35\empty1.wav
+Mon 13/08/2018 04:07:08.744 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:14.377 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YOSW584XC4UB7N7\empty1.wav
+Mon 13/08/2018 04:07:17.634 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:21.651 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YS5BBUS01OP24WO\empty1.wav
+Mon 13/08/2018 04:07:24.971 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:28.882 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\Z7DM7MOU1PTF0FC\empty1.wav
+Mon 13/08/2018 04:07:32.247 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:37.914 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZCWJVEBMTCPX3YR\empty1.wav
+Mon 13/08/2018 04:07:41.010 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:46.203 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZNX2NWOUCFJIB22\empty1.wav
+Mon 13/08/2018 04:07:49.631 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:07:53.710 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZR8OCZGJQQ1J88Q\empty1.wav
+Mon 13/08/2018 04:07:57.671 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:08:01.776 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_3\empty2.wav
+Mon 13/08/2018 04:08:05.183 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:10.246 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_4\empty2.wav
+Mon 13/08/2018 04:08:13.194 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:18.374 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_3\empty2.wav
+Mon 13/08/2018 04:08:21.411 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:26.437 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_4\empty2.wav
+Mon 13/08/2018 04:08:29.500 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:34.552 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\15715_2\empty2.wav
+Mon 13/08/2018 04:08:37.671 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:42.716 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\1W18I9GW5DHN8P9\empty2.wav
+Mon 13/08/2018 04:08:46.098 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:51.348 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\20Z4A6AATY5KIR9\empty2.wav
+Mon 13/08/2018 04:08:54.411 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:08:59.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_1\empty2.wav
+Mon 13/08/2018 04:09:02.450 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:07.792 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_5\empty2.wav
+Mon 13/08/2018 04:09:11.730 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:15.778 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\27715_2\empty2.wav
+Mon 13/08/2018 04:09:18.855 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:23.903 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2FUUNBBIOTSLQEE\empty2.wav
+Mon 13/08/2018 04:09:26.706 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:31.917 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\30715_1\empty2.wav
+Mon 13/08/2018 04:09:35.020 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:40.033 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\32D1S9ZE52WL7NY\empty2.wav
+Mon 13/08/2018 04:09:43.697 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:47.714 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\39O6V0XRTC8QJZP\empty2.wav
+Mon 13/08/2018 04:09:50.967 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:09:54.947 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3AHJOR7FODJZ6S1\empty2.wav
+Mon 13/08/2018 04:09:57.499 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:02.881 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3ATZ7TECB7PLQ4V\empty2.wav
+Mon 13/08/2018 04:10:06.084 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:11.361 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3UU428SYTAL85N9\empty2.wav
+Mon 13/08/2018 04:10:14.921 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:18.960 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\46971WETMWNVRYP\empty2.wav
+Mon 13/08/2018 04:10:22.467 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:26.500 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\52AFBNVMVPL82G5\empty2.wav
+Mon 13/08/2018 04:10:29.990 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:34.046 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_2\empty2.wav
+Mon 13/08/2018 04:10:37.079 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:42.101 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_5\empty2.wav
+Mon 13/08/2018 04:10:45.315 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:50.562 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5CN1XIZTLMY9RIT\empty2.wav
+Mon 13/08/2018 04:10:53.625 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:10:57.726 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5VQO70CX16QY54S\empty2.wav
+Mon 13/08/2018 04:11:01.528 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:11:05.628 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_2\empty2.wav
+Mon 13/08/2018 04:11:09.539 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:11:13.552 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_5\empty2.wav
+Mon 13/08/2018 04:11:16.446 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:11:21.483 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6CHF7CVO7F2M5GF\empty2.wav
+Mon 13/08/2018 04:11:24.670 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:11:28.717 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7715_3\empty2.wav
+Mon 13/08/2018 04:11:31.796 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:11:37.605 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\79VD582QT864JYP\empty2.wav
+Mon 13/08/2018 04:11:40.976 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:11:44.940 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7QYQTFFQNR1YC3J\empty2.wav
+Mon 13/08/2018 04:11:48.180 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:11:52.173 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\8715_3\empty2.wav
+Mon 13/08/2018 04:11:55.743 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:00.805 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9JWF6EB9AJL72SL\empty2.wav
+Mon 13/08/2018 04:12:03.339 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:08.730 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9L29BVBLF6R2GZW\empty2.wav
+Mon 13/08/2018 04:12:18.005 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9VLU9HWZ2WQYI2Z\empty2.wav
+Mon 13/08/2018 04:12:21.171 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:25.581 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASKYZ9QYJOCODH5\empty2.wav
+Mon 13/08/2018 04:12:29.362 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:33.374 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASVP48563CLR638\empty2.wav
+Mon 13/08/2018 04:12:36.190 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:40.221 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\C3N450UL9APOI33\empty2.wav
+Mon 13/08/2018 04:12:43.381 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:47.372 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\CFCMNDSO1NIE63V\empty2.wav
+Mon 13/08/2018 04:12:50.618 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:12:55.823 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DGDE6VMG3CP1HGQ\empty2.wav
+Mon 13/08/2018 04:12:59.322 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:03.361 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DK1DULER1A7OXL9\empty2.wav
+Mon 13/08/2018 04:13:11.872 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\EUU0XZZISVRWSK8\empty2.wav
+Mon 13/08/2018 04:13:15.581 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:19.674 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\GQBJTO3BAX3Z60O\empty2.wav
+Mon 13/08/2018 04:13:22.969 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:28.369 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HEMZTM4ARJ09DI1\empty2.wav
+Mon 13/08/2018 04:13:30.898 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:36.292 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HYWHSP3ZKM72MKX\empty2.wav
+Mon 13/08/2018 04:13:38.572 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:43.897 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\J7WNAFEIL1AQE4Y\empty2.wav
+Mon 13/08/2018 04:13:46.822 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:13:52.211 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\JUPJV2VZN3VJ08D\empty2.wav
+Mon 13/08/2018 04:13:56.158 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:00.278 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\K6P7EIDX1X804QN\empty2.wav
+Mon 13/08/2018 04:14:03.266 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:07.305 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\KHGIGA56BYS6QBQ\empty2.wav
+Mon 13/08/2018 04:14:10.723 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:14.732 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LFNZG0TNUOF7HAQ\empty2.wav
+Mon 13/08/2018 04:14:18.142 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:22.209 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LT69FP94BPQA8NO\empty2.wav
+Mon 13/08/2018 04:14:25.479 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:29.503 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M2JEKBICVAMSIZR\empty2.wav
+Mon 13/08/2018 04:14:32.823 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:36.723 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M98BAP715K4CDSZ\empty2.wav
+Mon 13/08/2018 04:14:39.907 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:43.956 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MEG9LNCGX9H7OWM\empty2.wav
+Mon 13/08/2018 04:14:47.263 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:51.178 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MSPU3W3Q775JQU0\empty2.wav
+Mon 13/08/2018 04:14:54.311 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:14:58.411 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\N0AO3UT4ZHHC5YX\empty2.wav
+Mon 13/08/2018 04:15:01.348 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:05.450 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NEXH0N9IJHJ9X3U\empty2.wav
+Mon 13/08/2018 04:15:08.454 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:12.492 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NI9MXO55KX0AM3I\empty2.wav
+Mon 13/08/2018 04:15:16.259 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:20.221 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NIECMZPZZPYTX0N\empty2.wav
+Mon 13/08/2018 04:15:22.990 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:26.934 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NJV9JG59GITSNQ6\empty2.wav
+Mon 13/08/2018 04:15:30.302 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:34.362 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NK13P6TRZCI9TNY\empty2.wav
+Mon 13/08/2018 04:15:37.072 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:42.161 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NNZTYYMPETLEDG0\empty2.wav
+Mon 13/08/2018 04:15:45.089 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:49.059 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\OYS5ZC0EORO0ZHZ\empty2.wav
+Mon 13/08/2018 04:15:52.819 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:15:56.852 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\PTZ0VW3EEGBTTY3\empty2.wav
+Mon 13/08/2018 04:15:59.099 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:04.398 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q3ASZ81D45SJ0BW\empty2.wav
+Mon 13/08/2018 04:16:08.371 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:12.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q8VWF6PIE5SE58Z\empty2.wav
+Mon 13/08/2018 04:16:14.688 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:19.767 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\QAT7UXQ3EDKGTXH\empty2.wav
+Mon 13/08/2018 04:16:23.161 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:28.209 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ROLWIA4OAZCN4N2\empty2.wav
+Mon 13/08/2018 04:16:31.688 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:35.747 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\RRCQAF5AJ8SQYF6\empty2.wav
+Mon 13/08/2018 04:16:38.993 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:43.042 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\SIPLNAA4U885R1S\empty2.wav
+Mon 13/08/2018 04:16:46.490 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:16:50.586 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\T18AMI29LIHF9X0\empty2.wav
+Mon 13/08/2018 04:16:54.450 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:16:58.512 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V21PGRX29NPRTNT\empty2.wav
+Mon 13/08/2018 04:17:02.717 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:06.750 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V9K82ANCWTNIZ5I\empty2.wav
+Mon 13/08/2018 04:17:09.461 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:14.816 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VGHLLMV98J2MQP2\empty2.wav
+Mon 13/08/2018 04:17:19.098 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:23.134 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VMGQVJ6IHGOMNXW\empty2.wav
+Mon 13/08/2018 04:17:26.601 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:31.960 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\W1CW3BDC7KEIYBN\empty2.wav
+Mon 13/08/2018 04:17:35.622 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:39.631 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Y7U1RPX24YB51TX\empty2.wav
+Mon 13/08/2018 04:17:44.055 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:48.073 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\YXMNK714JWDHFKC\empty2.wav
+Mon 13/08/2018 04:17:51.513 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:17:55.499 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZCSGCKBU03C71LQ\empty2.wav
+Mon 13/08/2018 04:17:59.188 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:03.325 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZNE2V47F5JVPHCA\empty2.wav
+Mon 13/08/2018 04:18:06.941 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:10.997 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZV9DTPQ3MVCZAIG\empty2.wav
+Mon 13/08/2018 04:18:14.361 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:18.415 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\00RTC3P0BAWR4K6\empty2.wav
+Mon 13/08/2018 04:18:22.306 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:26.286 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\12715_2\empty2.wav
+Mon 13/08/2018 04:18:29.473 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:34.523 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_2\empty2.wav
+Mon 13/08/2018 04:18:37.757 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:42.904 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_3\empty2.wav
+Mon 13/08/2018 04:18:45.875 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:51.144 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\15715_1\empty2.wav
+Mon 13/08/2018 04:18:54.318 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:18:59.394 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16715_1\empty2.wav
+Mon 13/08/2018 04:19:02.805 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:07.894 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16998UUD2NGCOIV\empty2.wav
+Mon 13/08/2018 04:19:11.951 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:16.964 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\1715_1\empty2.wav
+Mon 13/08/2018 04:19:19.992 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:25.157 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_1\empty2.wav
+Mon 13/08/2018 04:19:27.954 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:33.342 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\23715_2\empty2.wav
+Mon 13/08/2018 04:19:36.476 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:41.538 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\24815_2\empty2.wav
+Mon 13/08/2018 04:19:44.822 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:49.927 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\26715_3\empty2.wav
+Mon 13/08/2018 04:19:53.250 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:19:58.493 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_3\empty2.wav
+Mon 13/08/2018 04:20:02.214 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:06.285 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_4\empty2.wav
+Mon 13/08/2018 04:20:09.298 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:14.604 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_1\empty2.wav
+Mon 13/08/2018 04:20:17.788 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:22.963 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_3\empty2.wav
+Mon 13/08/2018 04:20:26.956 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:30.959 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_5\empty2.wav
+Mon 13/08/2018 04:20:33.875 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:39.085 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_1\empty2.wav
+Mon 13/08/2018 04:20:42.367 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:47.648 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_3\empty2.wav
+Mon 13/08/2018 04:20:50.825 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:20:56.141 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_4\empty2.wav
+Mon 13/08/2018 04:20:59.492 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:04.581 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_2\empty2.wav
+Mon 13/08/2018 04:21:07.806 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:12.953 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_3\empty2.wav
+Mon 13/08/2018 04:21:16.058 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:21.066 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_5\empty2.wav
+Mon 13/08/2018 04:21:24.161 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:29.528 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\30715_2\empty2.wav
+Mon 13/08/2018 04:21:33.036 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:38.102 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\3U1REDQ717RBZ4N\empty2.wav
+Mon 13/08/2018 04:21:42.575 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:21:46.707 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\47HGTKPKCB1SBIG\empty2.wav
+Mon 13/08/2018 04:21:54.440 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\4NSFU0ATSVIERIO\empty2.wav
+Mon 13/08/2018 04:21:58.150 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:02.170 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_3\empty2.wav
+Mon 13/08/2018 04:22:05.197 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:10.357 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_4\empty2.wav
+Mon 13/08/2018 04:22:13.365 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:18.420 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5815_3\empty2.wav
+Mon 13/08/2018 04:22:22.532 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:26.487 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5EFZ7J0R7QNCY6L\empty2.wav
+Mon 13/08/2018 04:22:30.154 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:34.176 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5P8FBQKXQDQWFTI\empty2.wav
+Mon 13/08/2018 04:22:38.269 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:42.232 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\659IXSP07LY50N5\empty2.wav
+Mon 13/08/2018 04:22:45.654 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:49.658 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_3\empty2.wav
+Mon 13/08/2018 04:22:52.309 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:22:57.783 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_6\empty2.wav
+Mon 13/08/2018 04:23:00.957 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:05.963 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\67QRT481VBGZCGJ\empty2.wav
+Mon 13/08/2018 04:23:09.877 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:13.887 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7715_1\empty2.wav
+Mon 13/08/2018 04:23:17.250 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:22.598 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7K8QSNVTLX20HW6\empty2.wav
+Mon 13/08/2018 04:23:30.142 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7T6SH9QEKF7P2KG\empty2.wav
+Mon 13/08/2018 04:23:33.914 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:38.019 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7Y6KJ3VH8206ZNS\empty2.wav
+Mon 13/08/2018 04:23:41.121 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:45.112 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_1\empty2.wav
+Mon 13/08/2018 04:23:48.336 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:23:53.431 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_2\empty2.wav
+Mon 13/08/2018 04:23:56.697 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:01.811 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\94LCC6ABI3NG7AU\empty2.wav
+Mon 13/08/2018 04:24:05.309 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:09.288 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_1\empty2.wav
+Mon 13/08/2018 04:24:12.302 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:17.464 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_3\empty2.wav
+Mon 13/08/2018 04:24:21.665 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:25.653 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\A48PGHBOZR4XBFE\empty2.wav
+Mon 13/08/2018 04:24:28.303 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:33.381 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ADIDVQE61UG1LDC\empty2.wav
+Mon 13/08/2018 04:24:36.877 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:24:42.009 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\AGSQ7SJ24QL7NPA\empty2.wav
+Mon 13/08/2018 04:24:45.298 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:50.438 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\APWPG543B5RTJWM\empty2.wav
+Mon 13/08/2018 04:24:53.750 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:24:57.789 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BDAOJ0S5LIQ4JAW\empty2.wav
+Mon 13/08/2018 04:25:00.782 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:04.822 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BV44ZG6KMS2PPBL\empty2.wav
+Mon 13/08/2018 04:25:13.398 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\C7TRKIZMTMD2C8J\empty2.wav
+Mon 13/08/2018 04:25:17.405 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:21.471 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\D5O6H29KTNX5OSQ\empty2.wav
+Mon 13/08/2018 04:25:24.894 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:29.026 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\DAP1QNBZIB16EER\empty2.wav
+Mon 13/08/2018 04:25:32.963 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:37.015 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\E32HA5S6TOZGCFA\empty2.wav
+Mon 13/08/2018 04:25:40.423 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:44.500 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\F6T7MNOR0Z3B7B9\empty2.wav
+Mon 13/08/2018 04:25:47.918 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:25:54.357 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\FSF6Q055E6UHKIZ\empty2.wav
+Mon 13/08/2018 04:25:57.417 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:26:02.877 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G4HS7FX7O7MXLSJ\empty2.wav
+Mon 13/08/2018 04:26:05.806 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:26:09.845 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G9U4MV61X86XBC8\empty2.wav
+Mon 13/08/2018 04:26:12.733 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:26:17.970 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HKXEB1BGCLGQW45\empty2.wav
+Mon 13/08/2018 04:26:20.486 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:26:26.973 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQJRB7X4FX4WJT9\empty2.wav
+Mon 13/08/2018 04:26:29.645 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:26:34.773 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQP5BJ2Y0DE65SK\empty2.wav
+Mon 13/08/2018 04:26:37.112 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:26:42.125 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HVMQ5PDWYLNJBSO\empty2.wav
+Mon 13/08/2018 04:26:46.138 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:26:50.244 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JLFLDFXKEN5FDKB\empty2.wav
+Mon 13/08/2018 04:26:54.368 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:26:58.371 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JNZIFEEEW9XCHKM\empty2.wav
+Mon 13/08/2018 04:27:01.842 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:05.917 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JPCIGRXIH716CBI\empty2.wav
+Mon 13/08/2018 04:27:09.354 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:13.466 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\KOY7170I1NL44Y6\empty2.wav
+Mon 13/08/2018 04:27:17.049 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:21.013 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LT9KKPJX89JZ0OJ\empty2.wav
+Mon 13/08/2018 04:27:24.677 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:28.815 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LUDL9I9OSU0101W\empty2.wav
+Mon 13/08/2018 04:27:32.598 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:36.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MEMH1WMR8N69ER1\empty2.wav
+Mon 13/08/2018 04:27:44.681 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MINU41ZL6PB0HCD\empty2.wav
+Mon 13/08/2018 04:27:47.684 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:51.650 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N4AJPCHJWQ00D4J\empty2.wav
+Mon 13/08/2018 04:27:55.055 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:27:59.135 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N7T0YBPE26XLOX4\empty2.wav
+Mon 13/08/2018 04:28:02.786 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:28:06.937 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NCJ80HZ4PIQI4PB\empty2.wav
+Mon 13/08/2018 04:28:09.747 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:15.003 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NM1JQY8B0KL0XNX\empty2.wav
+Mon 13/08/2018 04:28:17.647 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:22.733 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NQXJNWYBVJGIBK0\empty2.wav
+Mon 13/08/2018 04:28:25.890 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:29.957 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NR0I5CA9DJ3S9Y3\empty2.wav
+Mon 13/08/2018 04:28:32.704 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:38.023 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OESRBJXI4FM980L\empty2.wav
+Mon 13/08/2018 04:28:41.538 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:45.631 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OG9NYLUYKVE2CVT\empty2.wav
+Mon 13/08/2018 04:28:48.621 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:28:52.720 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OOU9K0AG31J5PAZ\empty2.wav
+Mon 13/08/2018 04:28:56.160 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:00.561 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\QV1XDVZMVY35P8U\empty2.wav
+Mon 13/08/2018 04:29:04.698 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:08.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\S96UG6AEKNCFOU3\empty2.wav
+Mon 13/08/2018 04:29:12.230 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:16.217 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SDFANH3ON2YGY75\empty2.wav
+Mon 13/08/2018 04:29:18.940 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:23.956 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SP7X3EUJ58O461I\empty2.wav
+Mon 13/08/2018 04:29:27.575 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:31.566 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\VXCX218X6TBRRWA\empty2.wav
+Mon 13/08/2018 04:29:34.568 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:38.605 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WD8RSQERZ0UIU8B\empty2.wav
+Mon 13/08/2018 04:29:42.078 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:46.082 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WZ4M152H1KD9J80\empty2.wav
+Mon 13/08/2018 04:29:48.467 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:29:54.207 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X7RN0DS8034ZFZE\empty2.wav
+Mon 13/08/2018 04:29:57.654 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:01.746 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X9LZ08MYDP9BSUB\empty2.wav
+Mon 13/08/2018 04:30:05.153 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:09.181 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\XXTQIMN7BH47LE7\empty2.wav
+Mon 13/08/2018 04:30:11.749 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:16.786 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YES71BCYNJX349F\empty2.wav
+Mon 13/08/2018 04:30:19.522 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:24.848 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YNCF7236EH5WE35\empty2.wav
+Mon 13/08/2018 04:30:28.586 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:33.795 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YOSW584XC4UB7N7\empty2.wav
+Mon 13/08/2018 04:30:36.213 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:41.595 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YS5BBUS01OP24WO\empty2.wav
+Mon 13/08/2018 04:30:44.612 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:48.747 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\Z7DM7MOU1PTF0FC\empty2.wav
+Mon 13/08/2018 04:30:52.236 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:30:56.233 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZCWJVEBMTCPX3YR\empty2.wav
+Mon 13/08/2018 04:30:58.917 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:31:04.421 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZNX2NWOUCFJIB22\empty2.wav
+Mon 13/08/2018 04:31:07.852 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:31:11.898 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZR8OCZGJQQ1J88Q\empty2.wav
+Mon 13/08/2018 04:31:15.844 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:31:19.882 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_3\empty3.wav
+Mon 13/08/2018 04:31:23.865 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:31:24.540 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:31:27.927 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_4\empty3.wav
+Mon 13/08/2018 04:31:30.651 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:31:32.401 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:31:35.788 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_3\empty3.wav
+Mon 13/08/2018 04:31:39.563 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:31:40.282 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:31:43.651 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\15715_2\empty3.wav
+Mon 13/08/2018 04:31:46.451 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:31:47.973 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:31:51.828 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\1W18I9GW5DHN8P9\empty3.wav
+Mon 13/08/2018 04:31:55.667 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:31:56.969 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:31:59.753 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\20Z4A6AATY5KIR9\empty3.wav
+Mon 13/08/2018 04:32:03.279 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:04.805 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:08.776 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_1\empty3.wav
+Mon 13/08/2018 04:32:12.007 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:13.789 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:17.782 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_5\empty3.wav
+Mon 13/08/2018 04:32:21.490 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:22.494 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:25.585 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\27715_2\empty3.wav
+Mon 13/08/2018 04:32:28.444 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:30.440 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:33.516 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2FUUNBBIOTSLQEE\empty3.wav
+Mon 13/08/2018 04:32:36.299 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:38.128 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:41.308 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\30715_1\empty3.wav
+Mon 13/08/2018 04:32:44.240 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:32:46.964 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:32:49.302 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\32D1S9ZE52WL7NY\empty3.wav
+Mon 13/08/2018 04:32:57.035 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\39O6V0XRTC8QJZP\empty3.wav
+Mon 13/08/2018 04:33:00.118 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:01.298 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:04.072 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3AHJOR7FODJZ6S1\empty3.wav
+Mon 13/08/2018 04:33:07.641 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:09.102 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:11.671 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3ATZ7TECB7PLQ4V\empty3.wav
+Mon 13/08/2018 04:33:14.618 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:15.888 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:19.858 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3UU428SYTAL85N9\empty3.wav
+Mon 13/08/2018 04:33:23.226 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:24.632 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:27.286 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\46971WETMWNVRYP\empty3.wav
+Mon 13/08/2018 04:33:30.756 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:31.456 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:34.792 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\52AFBNVMVPL82G5\empty3.wav
+Mon 13/08/2018 04:33:37.002 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:39.232 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:42.013 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_2\empty3.wav
+Mon 13/08/2018 04:33:44.918 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:47.028 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:49.950 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_5\empty3.wav
+Mon 13/08/2018 04:33:52.698 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:33:54.101 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:33:58.388 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5CN1XIZTLMY9RIT\empty3.wav
+Mon 13/08/2018 04:34:01.983 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:34:02.588 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:05.999 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5VQO70CX16QY54S\empty3.wav
+Mon 13/08/2018 04:34:09.424 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 04:34:10.569 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:13.516 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_2\empty3.wav
+Mon 13/08/2018 04:34:16.171 INFO - SERIAL Recognized! - Volume_Up
+Mon 13/08/2018 04:34:17.674 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:21.641 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_5\empty3.wav
+Mon 13/08/2018 04:34:24.163 INFO - SERIAL Recognized! - Volume_plus_Up
+Mon 13/08/2018 04:34:25.581 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:29.503 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6CHF7CVO7F2M5GF\empty3.wav
+Mon 13/08/2018 04:34:32.536 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:34:33.888 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:36.532 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7715_3\empty3.wav
+Mon 13/08/2018 04:34:39.529 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:34:41.213 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:45.165 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\79VD582QT864JYP\empty3.wav
+Mon 13/08/2018 04:34:48.298 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:34:49.782 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:52.247 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7QYQTFFQNR1YC3J\empty3.wav
+Mon 13/08/2018 04:34:55.243 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:34:56.730 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:34:59.286 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\8715_3\empty3.wav
+Mon 13/08/2018 04:35:02.151 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:04.322 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:07.282 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9JWF6EB9AJL72SL\empty3.wav
+Mon 13/08/2018 04:35:10.641 INFO - SERIAL Recognized! - Volume_plus_Down
+Mon 13/08/2018 04:35:12.230 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:14.709 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9L29BVBLF6R2GZW\empty3.wav
+Mon 13/08/2018 04:35:23.576 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9VLU9HWZ2WQYI2Z\empty3.wav
+Mon 13/08/2018 04:35:26.739 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:27.533 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:30.809 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASKYZ9QYJOCODH5\empty3.wav
+Mon 13/08/2018 04:35:33.141 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:35.436 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:38.233 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASVP48563CLR638\empty3.wav
+Mon 13/08/2018 04:35:41.089 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:42.197 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:45.203 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\C3N450UL9APOI33\empty3.wav
+Mon 13/08/2018 04:35:48.431 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:50.098 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:35:52.496 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\CFCMNDSO1NIE63V\empty3.wav
+Mon 13/08/2018 04:35:56.188 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:35:57.726 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:01.585 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DGDE6VMG3CP1HGQ\empty3.wav
+Mon 13/08/2018 04:36:03.954 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:36:05.594 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:09.010 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DK1DULER1A7OXL9\empty3.wav
+Mon 13/08/2018 04:36:16.917 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\EUU0XZZISVRWSK8\empty3.wav
+Mon 13/08/2018 04:36:20.365 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:36:21.005 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:24.453 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\GQBJTO3BAX3Z60O\empty3.wav
+Mon 13/08/2018 04:36:28.562 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:36:29.816 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:32.661 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HEMZTM4ARJ09DI1\empty3.wav
+Mon 13/08/2018 04:36:40.148 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HYWHSP3ZKM72MKX\empty3.wav
+Mon 13/08/2018 04:36:43.494 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:36:44.302 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:47.582 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\J7WNAFEIL1AQE4Y\empty3.wav
+Mon 13/08/2018 04:36:50.697 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:36:52.128 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:36:56.065 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\JUPJV2VZN3VJ08D\empty3.wav
+Mon 13/08/2018 04:36:58.946 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:37:00.095 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:04.180 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\K6P7EIDX1X804QN\empty3.wav
+Mon 13/08/2018 04:37:06.280 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:37:08.727 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:11.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\KHGIGA56BYS6QBQ\empty3.wav
+Mon 13/08/2018 04:37:15.361 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:37:16.489 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:19.480 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LFNZG0TNUOF7HAQ\empty3.wav
+Mon 13/08/2018 04:37:26.388 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LT69FP94BPQA8NO\empty3.wav
+Mon 13/08/2018 04:37:29.107 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:37:29.759 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:33.270 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M2JEKBICVAMSIZR\empty3.wav
+Mon 13/08/2018 04:37:36.645 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:37:37.726 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:40.517 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M98BAP715K4CDSZ\empty3.wav
+Mon 13/08/2018 04:37:47.730 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MEG9LNCGX9H7OWM\empty3.wav
+Mon 13/08/2018 04:37:50.650 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:37:52.039 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:37:54.688 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MSPU3W3Q775JQU0\empty3.wav
+Mon 13/08/2018 04:37:58.219 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:37:59.822 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:02.296 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\N0AO3UT4ZHHC5YX\empty3.wav
+Mon 13/08/2018 04:38:04.078 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:05.607 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:09.558 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NEXH0N9IJHJ9X3U\empty3.wav
+Mon 13/08/2018 04:38:12.381 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:13.515 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:16.345 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NI9MXO55KX0AM3I\empty3.wav
+Mon 13/08/2018 04:38:19.115 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:20.882 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:24.907 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NIECMZPZZPYTX0N\empty3.wav
+Mon 13/08/2018 04:38:27.364 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:28.081 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:31.369 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NJV9JG59GITSNQ6\empty3.wav
+Mon 13/08/2018 04:38:35.388 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:36.114 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:39.436 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NK13P6TRZCI9TNY\empty3.wav
+Mon 13/08/2018 04:38:42.210 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:43.951 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:47.707 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NNZTYYMPETLEDG0\empty3.wav
+Mon 13/08/2018 04:38:51.108 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:51.723 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:38:55.130 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\OYS5ZC0EORO0ZHZ\empty3.wav
+Mon 13/08/2018 04:38:58.644 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:38:59.499 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:02.717 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\PTZ0VW3EEGBTTY3\empty3.wav
+Mon 13/08/2018 04:39:05.108 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:07.313 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:10.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q3ASZ81D45SJ0BW\empty3.wav
+Mon 13/08/2018 04:39:12.963 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:15.046 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:18.157 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q8VWF6PIE5SE58Z\empty3.wav
+Mon 13/08/2018 04:39:20.250 INFO - SERIAL Recognized! - Volume_Down
+Mon 13/08/2018 04:39:22.062 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:26.028 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\QAT7UXQ3EDKGTXH\empty3.wav
+Mon 13/08/2018 04:39:28.789 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:29.684 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:32.868 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ROLWIA4OAZCN4N2\empty3.wav
+Mon 13/08/2018 04:39:35.516 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:36.266 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:39.571 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\RRCQAF5AJ8SQYF6\empty3.wav
+Mon 13/08/2018 04:39:42.736 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:43.961 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:46.753 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\SIPLNAA4U885R1S\empty3.wav
+Mon 13/08/2018 04:39:50.134 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:39:51.759 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:39:54.240 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\T18AMI29LIHF9X0\empty3.wav
+Mon 13/08/2018 04:40:01.756 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V21PGRX29NPRTNT\empty3.wav
+Mon 13/08/2018 04:40:04.796 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:40:07.122 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:40:09.811 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V9K82ANCWTNIZ5I\empty3.wav
+Mon 13/08/2018 04:40:17.674 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VGHLLMV98J2MQP2\empty3.wav
+Mon 13/08/2018 04:40:20.811 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:40:22.391 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:40:25.859 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VMGQVJ6IHGOMNXW\empty3.wav
+Mon 13/08/2018 04:40:34.059 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\W1CW3BDC7KEIYBN\empty3.wav
+Mon 13/08/2018 04:40:36.734 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:40:38.904 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:40:41.740 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Y7U1RPX24YB51TX\empty3.wav
+Mon 13/08/2018 04:40:45.108 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:40:46.736 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:40:50.178 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\YXMNK714JWDHFKC\empty3.wav
+Mon 13/08/2018 04:40:53.917 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:40:55.525 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:40:57.983 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZCSGCKBU03C71LQ\empty3.wav
+Mon 13/08/2018 04:41:01.565 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:02.236 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:05.651 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZNE2V47F5JVPHCA\empty3.wav
+Mon 13/08/2018 04:41:09.276 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:10.115 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:13.322 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZV9DTPQ3MVCZAIG\empty3.wav
+Mon 13/08/2018 04:41:16.734 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:17.759 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:20.747 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\00RTC3P0BAWR4K6\empty3.wav
+Mon 13/08/2018 04:41:24.423 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:25.604 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:28.476 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\12715_2\empty3.wav
+Mon 13/08/2018 04:41:31.517 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:33.362 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:36.530 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_2\empty3.wav
+Mon 13/08/2018 04:41:39.374 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:40.448 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:44.398 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_3\empty3.wav
+Mon 13/08/2018 04:41:47.875 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:49.253 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:41:53.161 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\15715_1\empty3.wav
+Mon 13/08/2018 04:41:56.154 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:41:57.891 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:01.227 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16715_1\empty3.wav
+Mon 13/08/2018 04:42:04.979 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:05.789 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:09.039 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16998UUD2NGCOIV\empty3.wav
+Mon 13/08/2018 04:42:13.483 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:14.802 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:17.551 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\1715_1\empty3.wav
+Mon 13/08/2018 04:42:20.438 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:21.625 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:25.615 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_1\empty3.wav
+Mon 13/08/2018 04:42:28.391 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:30.453 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:33.549 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_2\empty3.wav
+Mon 13/08/2018 04:42:36.926 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:39.427 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:41.989 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\23715_2\empty3.wav
+Mon 13/08/2018 04:42:44.687 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:45.993 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:49.862 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\24815_2\empty3.wav
+Mon 13/08/2018 04:42:53.186 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:42:55.061 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:42:58.232 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\26715_3\empty3.wav
+Mon 13/08/2018 04:43:01.201 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:03.888 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:06.351 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_3\empty3.wav
+Mon 13/08/2018 04:43:09.336 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:10.604 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:14.806 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_4\empty3.wav
+Mon 13/08/2018 04:43:17.736 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:19.503 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:23.069 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_1\empty3.wav
+Mon 13/08/2018 04:43:26.963 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:28.339 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:31.066 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_3\empty3.wav
+Mon 13/08/2018 04:43:34.848 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:36.250 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:38.928 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_5\empty3.wav
+Mon 13/08/2018 04:43:42.900 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:43.936 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:46.913 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_1\empty3.wav
+Mon 13/08/2018 04:43:49.878 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:43:51.042 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:43:55.038 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_3\empty3.wav
+Mon 13/08/2018 04:43:57.974 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:00.713 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:03.170 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_4\empty3.wav
+Mon 13/08/2018 04:44:06.321 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:07.611 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:11.494 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_2\empty3.wav
+Mon 13/08/2018 04:44:15.035 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:16.309 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:20.240 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_3\empty3.wav
+Mon 13/08/2018 04:44:22.831 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:24.322 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:28.236 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_5\empty3.wav
+Mon 13/08/2018 04:44:30.818 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:32.627 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:36.542 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\30715_2\empty3.wav
+Mon 13/08/2018 04:44:40.815 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:44:42.180 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:44:44.915 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\3U1REDQ717RBZ4N\empty3.wav
+Mon 13/08/2018 04:44:52.971 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\47HGTKPKCB1SBIG\empty3.wav
+Mon 13/08/2018 04:45:00.517 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\4NSFU0ATSVIERIO\empty3.wav
+Mon 13/08/2018 04:45:04.117 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:05.193 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:08.229 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_3\empty3.wav
+Mon 13/08/2018 04:45:11.703 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:13.151 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:16.994 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_4\empty3.wav
+Mon 13/08/2018 04:45:20.766 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:21.996 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:24.878 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5815_3\empty3.wav
+Mon 13/08/2018 04:45:29.058 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:29.756 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:33.115 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5EFZ7J0R7QNCY6L\empty3.wav
+Mon 13/08/2018 04:45:37.098 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:38.648 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:41.434 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5P8FBQKXQDQWFTI\empty3.wav
+Mon 13/08/2018 04:45:45.321 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:45:46.686 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:45:49.358 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\659IXSP07LY50N5\empty3.wav
+Mon 13/08/2018 04:45:56.073 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_3\empty3.wav
+Mon 13/08/2018 04:45:59.006 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:46:00.569 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:46:04.584 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_6\empty3.wav
+Mon 13/08/2018 04:46:07.532 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:46:08.971 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:46:13.107 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\67QRT481VBGZCGJ\empty3.wav
+Mon 13/08/2018 04:46:20.848 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7715_1\empty3.wav
+Mon 13/08/2018 04:46:24.690 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:46:25.959 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:46:29.888 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7K8QSNVTLX20HW6\empty3.wav
+Mon 13/08/2018 04:46:37.640 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7T6SH9QEKF7P2KG\empty3.wav
+Mon 13/08/2018 04:46:41.032 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:46:41.967 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:46:45.127 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7Y6KJ3VH8206ZNS\empty3.wav
+Mon 13/08/2018 04:46:52.369 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_1\empty3.wav
+Mon 13/08/2018 04:46:55.459 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:46:57.000 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:00.940 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_2\empty3.wav
+Mon 13/08/2018 04:47:04.885 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:06.148 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:08.937 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\94LCC6ABI3NG7AU\empty3.wav
+Mon 13/08/2018 04:47:16.099 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_1\empty3.wav
+Mon 13/08/2018 04:47:19.898 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:20.569 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:23.901 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_3\empty3.wav
+Mon 13/08/2018 04:47:31.571 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\A48PGHBOZR4XBFE\empty3.wav
+Mon 13/08/2018 04:47:34.552 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:35.789 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:38.539 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ADIDVQE61UG1LDC\empty3.wav
+Mon 13/08/2018 04:47:42.000 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:43.785 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:47.247 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\AGSQ7SJ24QL7NPA\empty3.wav
+Mon 13/08/2018 04:47:50.227 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:51.654 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:47:55.575 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\APWPG543B5RTJWM\empty3.wav
+Mon 13/08/2018 04:47:57.786 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:47:59.536 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:48:02.927 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BDAOJ0S5LIQ4JAW\empty3.wav
+Mon 13/08/2018 04:48:10.069 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BV44ZG6KMS2PPBL\empty3.wav
+Mon 13/08/2018 04:48:13.658 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:48:15.200 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:48:19.141 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\C7TRKIZMTMD2C8J\empty3.wav
+Mon 13/08/2018 04:48:23.227 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:48:24.736 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:48:27.206 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\D5O6H29KTNX5OSQ\empty3.wav
+Mon 13/08/2018 04:48:33.730 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\DAP1QNBZIB16EER\empty3.wav
+Mon 13/08/2018 04:48:36.040 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:48:37.750 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:48:41.720 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\E32HA5S6TOZGCFA\empty3.wav
+Mon 13/08/2018 04:48:45.303 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:48:46.842 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:48:49.319 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\F6T7MNOR0Z3B7B9\empty3.wav
+Mon 13/08/2018 04:48:58.849 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\FSF6Q055E6UHKIZ\empty3.wav
+Mon 13/08/2018 04:49:02.453 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:04.151 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:08.305 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G4HS7FX7O7MXLSJ\empty3.wav
+Mon 13/08/2018 04:49:11.102 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:11.957 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:15.092 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G9U4MV61X86XBC8\empty3.wav
+Mon 13/08/2018 04:49:17.921 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:18.700 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:22.000 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HKXEB1BGCLGQW45\empty3.wav
+Mon 13/08/2018 04:49:24.960 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:26.739 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:29.994 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQJRB7X4FX4WJT9\empty3.wav
+Mon 13/08/2018 04:49:32.668 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:34.594 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:37.681 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQP5BJ2Y0DE65SK\empty3.wav
+Mon 13/08/2018 04:49:40.428 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:42.421 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:45.502 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HVMQ5PDWYLNJBSO\empty3.wav
+Mon 13/08/2018 04:49:49.313 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:50.494 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:49:53.308 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JLFLDFXKEN5FDKB\empty3.wav
+Mon 13/08/2018 04:49:57.095 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:49:58.187 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:50:01.108 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JNZIFEEEW9XCHKM\empty3.wav
+Mon 13/08/2018 04:50:08.341 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JPCIGRXIH716CBI\empty3.wav
+Mon 13/08/2018 04:50:15.828 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\KOY7170I1NL44Y6\empty3.wav
+Mon 13/08/2018 04:50:19.321 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:50:20.094 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:50:23.302 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LT9KKPJX89JZ0OJ\empty3.wav
+Mon 13/08/2018 04:50:30.719 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LUDL9I9OSU0101W\empty3.wav
+Mon 13/08/2018 04:50:33.016 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:50:34.480 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:50:38.398 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MEMH1WMR8N69ER1\empty3.wav
+Mon 13/08/2018 04:50:42.226 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:50:43.390 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:50:46.322 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MINU41ZL6PB0HCD\empty3.wav
+Mon 13/08/2018 04:50:53.038 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N4AJPCHJWQ00D4J\empty3.wav
+Mon 13/08/2018 04:50:55.710 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:50:57.625 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:00.743 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N7T0YBPE26XLOX4\empty3.wav
+Mon 13/08/2018 04:51:04.372 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:05.492 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:08.447 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NCJ80HZ4PIQI4PB\empty3.wav
+Mon 13/08/2018 04:51:11.654 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:13.240 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:15.720 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NM1JQY8B0KL0XNX\empty3.wav
+Mon 13/08/2018 04:51:22.374 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NQXJNWYBVJGIBK0\empty3.wav
+Mon 13/08/2018 04:51:25.536 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:26.540 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:29.535 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NR0I5CA9DJ3S9Y3\empty3.wav
+Mon 13/08/2018 04:51:32.539 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:34.428 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:37.773 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OESRBJXI4FM980L\empty3.wav
+Mon 13/08/2018 04:51:41.130 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:42.249 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:45.198 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OG9NYLUYKVE2CVT\empty3.wav
+Mon 13/08/2018 04:51:49.039 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:51:50.135 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:51:53.059 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OOU9K0AG31J5PAZ\empty3.wav
+Mon 13/08/2018 04:52:00.894 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\QV1XDVZMVY35P8U\empty3.wav
+Mon 13/08/2018 04:52:04.536 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:52:05.305 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:52:08.572 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\S96UG6AEKNCFOU3\empty3.wav
+Mon 13/08/2018 04:52:15.977 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SDFANH3ON2YGY75\empty3.wav
+Mon 13/08/2018 04:52:19.836 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:52:20.625 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:52:23.849 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SP7X3EUJ58O461I\empty3.wav
+Mon 13/08/2018 04:52:30.746 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\VXCX218X6TBRRWA\empty3.wav
+Mon 13/08/2018 04:52:33.686 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:52:35.000 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:52:37.704 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WD8RSQERZ0UIU8B\empty3.wav
+Mon 13/08/2018 04:52:40.907 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:52:41.717 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:52:44.950 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WZ4M152H1KD9J80\empty3.wav
+Mon 13/08/2018 04:52:52.993 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X7RN0DS8034ZFZE\empty3.wav
+Mon 13/08/2018 04:52:55.894 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:52:57.256 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:01.335 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X9LZ08MYDP9BSUB\empty3.wav
+Mon 13/08/2018 04:53:04.017 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:05.447 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:09.338 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\XXTQIMN7BH47LE7\empty3.wav
+Mon 13/08/2018 04:53:11.723 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:13.517 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:17.523 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YES71BCYNJX349F\empty3.wav
+Mon 13/08/2018 04:53:20.348 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:21.805 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:25.897 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YNCF7236EH5WE35\empty3.wav
+Mon 13/08/2018 04:53:29.711 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:31.572 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:35.555 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YOSW584XC4UB7N7\empty3.wav
+Mon 13/08/2018 04:53:39.782 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:40.765 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:43.855 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YS5BBUS01OP24WO\empty3.wav
+Mon 13/08/2018 04:53:46.992 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:48.658 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:53:51.078 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\Z7DM7MOU1PTF0FC\empty3.wav
+Mon 13/08/2018 04:53:54.385 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:53:56.019 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:54:00.046 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZCWJVEBMTCPX3YR\empty3.wav
+Mon 13/08/2018 04:54:03.049 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:54:04.392 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:54:08.459 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZNX2NWOUCFJIB22\empty3.wav
+Mon 13/08/2018 04:54:12.686 INFO - SERIAL Recognized! - Next_Song
+Mon 13/08/2018 04:54:14.207 INFO - SERIAL Recognized! - A2DP KAP Loaded
+Mon 13/08/2018 04:54:16.779 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZR8OCZGJQQ1J88Q\empty3.wav
+Mon 13/08/2018 04:54:24.579 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_3\empty4.wav
+Mon 13/08/2018 04:54:29.183 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:54:33.305 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\11815_4\empty4.wav
+Mon 13/08/2018 04:54:35.081 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:54:40.894 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_3\empty4.wav
+Mon 13/08/2018 04:54:43.137 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:54:49.020 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\13715_4\empty4.wav
+Mon 13/08/2018 04:54:51.243 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:54:57.075 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\15715_2\empty4.wav
+Mon 13/08/2018 04:54:59.525 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:05.253 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\1W18I9GW5DHN8P9\empty4.wav
+Mon 13/08/2018 04:55:07.357 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:13.328 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\20Z4A6AATY5KIR9\empty4.wav
+Mon 13/08/2018 04:55:15.210 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:21.009 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_1\empty4.wav
+Mon 13/08/2018 04:55:23.219 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:29.003 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2715_5\empty4.wav
+Mon 13/08/2018 04:55:32.013 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:37.243 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\27715_2\empty4.wav
+Mon 13/08/2018 04:55:40.006 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:45.234 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\2FUUNBBIOTSLQEE\empty4.wav
+Mon 13/08/2018 04:55:46.974 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:55:52.792 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\30715_1\empty4.wav
+Mon 13/08/2018 04:55:55.017 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:00.910 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\32D1S9ZE52WL7NY\empty4.wav
+Mon 13/08/2018 04:56:02.756 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:08.447 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\39O6V0XRTC8QJZP\empty4.wav
+Mon 13/08/2018 04:56:10.128 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:15.598 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3AHJOR7FODJZ6S1\empty4.wav
+Mon 13/08/2018 04:56:17.769 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:22.821 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3ATZ7TECB7PLQ4V\empty4.wav
+Mon 13/08/2018 04:56:25.828 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:31.190 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\3UU428SYTAL85N9\empty4.wav
+Mon 13/08/2018 04:56:35.361 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:39.431 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\46971WETMWNVRYP\empty4.wav
+Mon 13/08/2018 04:56:41.289 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:46.591 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\52AFBNVMVPL82G5\empty4.wav
+Mon 13/08/2018 04:56:49.214 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:56:53.305 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_2\empty4.wav
+Mon 13/08/2018 04:56:56.206 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:01.289 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5715_5\empty4.wav
+Mon 13/08/2018 04:57:04.167 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:09.427 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5CN1XIZTLMY9RIT\empty4.wav
+Mon 13/08/2018 04:57:12.378 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:16.526 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\5VQO70CX16QY54S\empty4.wav
+Mon 13/08/2018 04:57:19.497 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:25.171 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_2\empty4.wav
+Mon 13/08/2018 04:57:27.398 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:33.338 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6715_5\empty4.wav
+Mon 13/08/2018 04:57:35.247 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:40.897 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\6CHF7CVO7F2M5GF\empty4.wav
+Mon 13/08/2018 04:57:43.082 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:48.829 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7715_3\empty4.wav
+Mon 13/08/2018 04:57:51.154 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:57:57.273 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\79VD582QT864JYP\empty4.wav
+Mon 13/08/2018 04:57:59.357 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:04.737 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\7QYQTFFQNR1YC3J\empty4.wav
+Mon 13/08/2018 04:58:06.933 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:12.671 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\8715_3\empty4.wav
+Mon 13/08/2018 04:58:15.342 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:20.859 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9JWF6EB9AJL72SL\empty4.wav
+Mon 13/08/2018 04:58:22.615 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:27.888 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9L29BVBLF6R2GZW\empty4.wav
+Mon 13/08/2018 04:58:31.698 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:36.950 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\9VLU9HWZ2WQYI2Z\empty4.wav
+Mon 13/08/2018 04:58:40.029 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:44.111 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASKYZ9QYJOCODH5\empty4.wav
+Mon 13/08/2018 04:58:46.740 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:50.887 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ASVP48563CLR638\empty4.wav
+Mon 13/08/2018 04:58:52.720 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:58:57.926 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\C3N450UL9APOI33\empty4.wav
+Mon 13/08/2018 04:59:00.362 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:05.737 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\CFCMNDSO1NIE63V\empty4.wav
+Mon 13/08/2018 04:59:09.618 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:13.588 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DGDE6VMG3CP1HGQ\empty4.wav
+Mon 13/08/2018 04:59:15.549 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:21.371 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\DK1DULER1A7OXL9\empty4.wav
+Mon 13/08/2018 04:59:29.619 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\EUU0XZZISVRWSK8\empty4.wav
+Mon 13/08/2018 04:59:31.430 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:36.842 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\GQBJTO3BAX3Z60O\empty4.wav
+Mon 13/08/2018 04:59:38.976 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:44.328 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HEMZTM4ARJ09DI1\empty4.wav
+Mon 13/08/2018 04:59:46.267 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:52.140 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\HYWHSP3ZKM72MKX\empty4.wav
+Mon 13/08/2018 04:59:53.540 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 04:59:59.302 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\J7WNAFEIL1AQE4Y\empty4.wav
+Mon 13/08/2018 05:00:01.790 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:06.910 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\JUPJV2VZN3VJ08D\empty4.wav
+Mon 13/08/2018 05:00:10.492 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:14.579 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\K6P7EIDX1X804QN\empty4.wav
+Mon 13/08/2018 05:00:17.431 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:21.536 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\KHGIGA56BYS6QBQ\empty4.wav
+Mon 13/08/2018 05:00:23.772 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:29.217 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LFNZG0TNUOF7HAQ\empty4.wav
+Mon 13/08/2018 05:00:30.994 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:36.693 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\LT69FP94BPQA8NO\empty4.wav
+Mon 13/08/2018 05:00:39.502 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:43.592 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M2JEKBICVAMSIZR\empty4.wav
+Mon 13/08/2018 05:00:44.937 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:50.621 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\M98BAP715K4CDSZ\empty4.wav
+Mon 13/08/2018 05:00:52.390 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:00:57.904 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MEG9LNCGX9H7OWM\empty4.wav
+Mon 13/08/2018 05:00:59.691 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:04.993 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\MSPU3W3Q775JQU0\empty4.wav
+Mon 13/08/2018 05:01:08.187 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:12.186 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\N0AO3UT4ZHHC5YX\empty4.wav
+Mon 13/08/2018 05:01:14.049 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:19.470 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NEXH0N9IJHJ9X3U\empty4.wav
+Mon 13/08/2018 05:01:21.085 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:26.368 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NI9MXO55KX0AM3I\empty4.wav
+Mon 13/08/2018 05:01:28.747 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:34.494 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NIECMZPZZPYTX0N\empty4.wav
+Mon 13/08/2018 05:01:35.918 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:41.463 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NJV9JG59GITSNQ6\empty4.wav
+Mon 13/08/2018 05:01:44.713 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:48.746 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NK13P6TRZCI9TNY\empty4.wav
+Mon 13/08/2018 05:01:51.520 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:01:56.994 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\NNZTYYMPETLEDG0\empty4.wav
+Mon 13/08/2018 05:01:58.750 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:04.157 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\OYS5ZC0EORO0ZHZ\empty4.wav
+Mon 13/08/2018 05:02:06.855 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:12.815 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\PTZ0VW3EEGBTTY3\empty4.wav
+Mon 13/08/2018 05:02:15.073 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:20.092 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q3ASZ81D45SJ0BW\empty4.wav
+Mon 13/08/2018 05:02:22.315 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:27.904 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Q8VWF6PIE5SE58Z\empty4.wav
+Mon 13/08/2018 05:02:29.496 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:35.128 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\QAT7UXQ3EDKGTXH\empty4.wav
+Mon 13/08/2018 05:02:37.076 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:42.928 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ROLWIA4OAZCN4N2\empty4.wav
+Mon 13/08/2018 05:02:45.773 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:49.888 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\RRCQAF5AJ8SQYF6\empty4.wav
+Mon 13/08/2018 05:02:52.155 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:02:57.180 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\SIPLNAA4U885R1S\empty4.wav
+Mon 13/08/2018 05:02:59.461 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:04.970 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\T18AMI29LIHF9X0\empty4.wav
+Mon 13/08/2018 05:03:07.086 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:12.651 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V21PGRX29NPRTNT\empty4.wav
+Mon 13/08/2018 05:03:15.098 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:20.381 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\V9K82ANCWTNIZ5I\empty4.wav
+Mon 13/08/2018 05:03:23.556 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:27.543 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VGHLLMV98J2MQP2\empty4.wav
+Mon 13/08/2018 05:03:30.734 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:35.984 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\VMGQVJ6IHGOMNXW\empty4.wav
+Mon 13/08/2018 05:03:37.740 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:43.086 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\W1CW3BDC7KEIYBN\empty4.wav
+Mon 13/08/2018 05:03:44.789 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:50.512 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\Y7U1RPX24YB51TX\empty4.wav
+Mon 13/08/2018 05:03:53.036 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:03:59.085 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\YXMNK714JWDHFKC\empty4.wav
+Mon 13/08/2018 05:04:01.305 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:06.744 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZCSGCKBU03C71LQ\empty4.wav
+Mon 13/08/2018 05:04:08.851 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:14.536 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZNE2V47F5JVPHCA\empty4.wav
+Mon 13/08/2018 05:04:18.072 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:22.134 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\MEN\ZV9DTPQ3MVCZAIG\empty4.wav
+Mon 13/08/2018 05:04:24.391 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:29.608 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\00RTC3P0BAWR4K6\empty4.wav
+Mon 13/08/2018 05:04:33.230 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:37.341 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\12715_2\empty4.wav
+Mon 13/08/2018 05:04:38.875 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:44.686 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_2\empty4.wav
+Mon 13/08/2018 05:04:46.709 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:04:52.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\13815_3\empty4.wav
+Mon 13/08/2018 05:04:55.101 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:00.857 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\15715_1\empty4.wav
+Mon 13/08/2018 05:05:03.242 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:09.095 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16715_1\empty4.wav
+Mon 13/08/2018 05:05:11.859 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:16.966 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\16998UUD2NGCOIV\empty4.wav
+Mon 13/08/2018 05:05:19.693 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:25.733 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\1715_1\empty4.wav
+Mon 13/08/2018 05:05:28.042 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:33.911 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_1\empty4.wav
+Mon 13/08/2018 05:05:36.180 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:41.895 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\21715_2\empty4.wav
+Mon 13/08/2018 05:05:44.220 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:49.881 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\23715_2\empty4.wav
+Mon 13/08/2018 05:05:52.982 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:05:58.167 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\24815_2\empty4.wav
+Mon 13/08/2018 05:06:01.121 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:06.559 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\26715_3\empty4.wav
+Mon 13/08/2018 05:06:09.003 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:14.990 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_3\empty4.wav
+Mon 13/08/2018 05:06:17.316 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:23.230 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\2715_4\empty4.wav
+Mon 13/08/2018 05:06:25.645 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:31.415 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_1\empty4.wav
+Mon 13/08/2018 05:06:33.398 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:39.219 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_3\empty4.wav
+Mon 13/08/2018 05:06:41.391 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:47.273 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\27715_5\empty4.wav
+Mon 13/08/2018 05:06:50.410 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:06:55.581 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_1\empty4.wav
+Mon 13/08/2018 05:06:57.859 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:03.759 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_3\empty4.wav
+Mon 13/08/2018 05:07:06.398 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:11.825 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\28715_4\empty4.wav
+Mon 13/08/2018 05:07:14.342 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:19.430 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_2\empty4.wav
+Mon 13/08/2018 05:07:22.467 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:27.816 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_3\empty4.wav
+Mon 13/08/2018 05:07:30.555 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:36.002 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\29715_5\empty4.wav
+Mon 13/08/2018 05:07:38.582 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:44.493 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\30715_2\empty4.wav
+Mon 13/08/2018 05:07:46.528 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:52.234 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\3U1REDQ717RBZ4N\empty4.wav
+Mon 13/08/2018 05:07:55.601 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:07:59.720 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\47HGTKPKCB1SBIG\empty4.wav
+Mon 13/08/2018 05:08:01.760 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:07.145 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\4NSFU0ATSVIERIO\empty4.wav
+Mon 13/08/2018 05:08:10.744 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:14.815 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_3\empty4.wav
+Mon 13/08/2018 05:08:17.157 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:23.005 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5715_4\empty4.wav
+Mon 13/08/2018 05:08:26.288 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:31.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5815_3\empty4.wav
+Mon 13/08/2018 05:08:34.345 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:39.490 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5EFZ7J0R7QNCY6L\empty4.wav
+Mon 13/08/2018 05:08:42.888 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:47.028 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\5P8FBQKXQDQWFTI\empty4.wav
+Mon 13/08/2018 05:08:50.572 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:08:54.565 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\659IXSP07LY50N5\empty4.wav
+Mon 13/08/2018 05:08:57.903 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:01.980 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_3\empty4.wav
+Mon 13/08/2018 05:09:03.858 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:09.842 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\6715_6\empty4.wav
+Mon 13/08/2018 05:09:12.348 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:18.153 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\67QRT481VBGZCGJ\empty4.wav
+Mon 13/08/2018 05:09:25.994 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7715_1\empty4.wav
+Mon 13/08/2018 05:09:27.911 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:33.734 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7K8QSNVTLX20HW6\empty4.wav
+Mon 13/08/2018 05:09:37.150 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:41.220 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7T6SH9QEKF7P2KG\empty4.wav
+Mon 13/08/2018 05:09:43.052 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:09:48.637 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\7Y6KJ3VH8206ZNS\empty4.wav
+Mon 13/08/2018 05:09:55.858 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_1\empty4.wav
+Mon 13/08/2018 05:09:58.410 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:04.433 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\8715_2\empty4.wav
+Mon 13/08/2018 05:10:06.789 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:12.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\94LCC6ABI3NG7AU\empty4.wav
+Mon 13/08/2018 05:10:15.009 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:20.888 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_1\empty4.wav
+Mon 13/08/2018 05:10:23.049 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:28.961 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\9715_3\empty4.wav
+Mon 13/08/2018 05:10:31.239 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:37.019 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\A48PGHBOZR4XBFE\empty4.wav
+Mon 13/08/2018 05:10:38.894 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:44.365 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ADIDVQE61UG1LDC\empty4.wav
+Mon 13/08/2018 05:10:47.420 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:10:52.877 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\AGSQ7SJ24QL7NPA\empty4.wav
+Mon 13/08/2018 05:10:54.950 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:00.618 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\APWPG543B5RTJWM\empty4.wav
+Mon 13/08/2018 05:11:02.815 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:08.358 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BDAOJ0S5LIQ4JAW\empty4.wav
+Mon 13/08/2018 05:11:10.696 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:15.832 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\BV44ZG6KMS2PPBL\empty4.wav
+Mon 13/08/2018 05:11:18.512 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:24.408 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\C7TRKIZMTMD2C8J\empty4.wav
+Mon 13/08/2018 05:11:26.746 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:32.473 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\D5O6H29KTNX5OSQ\empty4.wav
+Mon 13/08/2018 05:11:35.601 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:39.716 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\DAP1QNBZIB16EER\empty4.wav
+Mon 13/08/2018 05:11:42.142 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:47.252 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\E32HA5S6TOZGCFA\empty4.wav
+Mon 13/08/2018 05:11:49.654 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:11:55.247 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\F6T7MNOR0Z3B7B9\empty4.wav
+Mon 13/08/2018 05:11:58.033 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:03.375 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\FSF6Q055E6UHKIZ\empty4.wav
+Mon 13/08/2018 05:12:06.842 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:12.128 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G4HS7FX7O7MXLSJ\empty4.wav
+Mon 13/08/2018 05:12:15.094 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:19.163 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\G9U4MV61X86XBC8\empty4.wav
+Mon 13/08/2018 05:12:21.582 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:27.286 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HKXEB1BGCLGQW45\empty4.wav
+Mon 13/08/2018 05:12:29.561 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:35.220 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQJRB7X4FX4WJT9\empty4.wav
+Mon 13/08/2018 05:12:38.760 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:42.757 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HQP5BJ2Y0DE65SK\empty4.wav
+Mon 13/08/2018 05:12:44.875 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:50.589 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\HVMQ5PDWYLNJBSO\empty4.wav
+Mon 13/08/2018 05:12:53.476 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:12:58.582 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JLFLDFXKEN5FDKB\empty4.wav
+Mon 13/08/2018 05:13:01.358 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:13:07.246 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JNZIFEEEW9XCHKM\empty4.wav
+Mon 13/08/2018 05:13:09.046 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:13:14.440 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\JPCIGRXIH716CBI\empty4.wav
+Mon 13/08/2018 05:13:21.674 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\KOY7170I1NL44Y6\empty4.wav
+Mon 13/08/2018 05:13:28.907 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LT9KKPJX89JZ0OJ\empty4.wav
+Mon 13/08/2018 05:13:30.848 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:13:36.384 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\LUDL9I9OSU0101W\empty4.wav
+Mon 13/08/2018 05:13:39.979 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:13:45.453 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MEMH1WMR8N69ER1\empty4.wav
+Mon 13/08/2018 05:13:48.292 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:13:53.447 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\MINU41ZL6PB0HCD\empty4.wav
+Mon 13/08/2018 05:13:55.137 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:00.477 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N4AJPCHJWQ00D4J\empty4.wav
+Mon 13/08/2018 05:14:02.397 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:08.075 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\N7T0YBPE26XLOX4\empty4.wav
+Mon 13/08/2018 05:14:12.219 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:16.253 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NCJ80HZ4PIQI4PB\empty4.wav
+Mon 13/08/2018 05:14:18.479 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:24.431 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NM1JQY8B0KL0XNX\empty4.wav
+Mon 13/08/2018 05:14:26.201 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:31.469 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NQXJNWYBVJGIBK0\empty4.wav
+Mon 13/08/2018 05:14:33.424 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:39.414 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\NR0I5CA9DJ3S9Y3\empty4.wav
+Mon 13/08/2018 05:14:41.561 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:47.592 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OESRBJXI4FM980L\empty4.wav
+Mon 13/08/2018 05:14:51.200 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:14:55.200 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OG9NYLUYKVE2CVT\empty4.wav
+Mon 13/08/2018 05:14:57.453 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:03.002 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\OOU9K0AG31J5PAZ\empty4.wav
+Mon 13/08/2018 05:15:10.232 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\QV1XDVZMVY35P8U\empty4.wav
+Mon 13/08/2018 05:15:13.971 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:18.023 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\S96UG6AEKNCFOU3\empty4.wav
+Mon 13/08/2018 05:15:19.888 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:25.500 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SDFANH3ON2YGY75\empty4.wav
+Mon 13/08/2018 05:15:28.492 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:33.625 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\SP7X3EUJ58O461I\empty4.wav
+Mon 13/08/2018 05:15:35.910 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:41.388 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\VXCX218X6TBRRWA\empty4.wav
+Mon 13/08/2018 05:15:44.581 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:48.673 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WD8RSQERZ0UIU8B\empty4.wav
+Mon 13/08/2018 05:15:52.108 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:15:56.148 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\WZ4M152H1KD9J80\empty4.wav
+Mon 13/08/2018 05:15:58.243 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:03.848 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X7RN0DS8034ZFZE\empty4.wav
+Mon 13/08/2018 05:16:06.476 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:11.638 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\X9LZ08MYDP9BSUB\empty4.wav
+Mon 13/08/2018 05:16:15.486 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:19.546 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\XXTQIMN7BH47LE7\empty4.wav
+Mon 13/08/2018 05:16:21.765 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:27.476 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YES71BCYNJX349F\empty4.wav
+Mon 13/08/2018 05:16:29.500 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:35.470 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YNCF7236EH5WE35\empty4.wav
+Mon 13/08/2018 05:16:37.848 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:44.165 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YOSW584XC4UB7N7\empty4.wav
+Mon 13/08/2018 05:16:45.746 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:51.388 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\YS5BBUS01OP24WO\empty4.wav
+Mon 13/08/2018 05:16:53.276 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:16:58.681 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\Z7DM7MOU1PTF0FC\empty4.wav
+Mon 13/08/2018 05:17:00.742 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:17:06.483 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZCWJVEBMTCPX3YR\empty4.wav
+Mon 13/08/2018 05:17:09.216 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:17:15.230 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZNX2NWOUCFJIB22\empty4.wav
+Mon 13/08/2018 05:17:17.305 INFO - SERIAL Recognized! - Stop_Music
+Mon 13/08/2018 05:17:23.148 INFO - Playing trig file Z:\Multi_Trigger\ASR\Testing\Voice\Quiet\Nodes\Music\REC_16K_Normalized-23LUFS\WOMEN\ZR8OCZGJQQ1J88Q\empty4.wav
+Mon 13/08/2018 05:17:26.910 INFO - SERIAL Recognized! - Stop_Music

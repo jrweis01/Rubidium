@@ -1,0 +1,49 @@
+Sun 08/07/2018 10:26:17.187 INFO - connecting to LabJack for results
+Sun 08/07/2018 10:26:17.206 INFO - Starting to play wav files...
+Sun 08/07/2018 10:26:17.207 INFO - 
+===========================================
+Test_type: Trig
+Test description: None vol: 0
+list of wavs: C:\AutomationEnvironment\lists\FA_LongTalks1_Alexa_LEFT.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: Beringhem
+Counter 1 Name: SpeedLink
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\Trunk_rev-478_SBC_Alexa(10.02.10)_Gain16_BeringhemvsSpeedLink-Mic_3ft-from-each-speaker_M-audio-32.7_bering-using-mixer(Tone-23LUFS_4300_62dbSPL)LongTalks1_Sun07-08-2018@10-26-15.06.txt C:\AutomationEnvironment\lists\FA_LongTalks1_Alexa_LEFT.txt None 0 0 3 0 lj Trig "Alexa" "Long_Talks" "Beringhem" "SpeedLink" "" ""
+-------------------------------------------
+Sun 08/07/2018 10:26:17.263 INFO - LabJack will be checked every 0.5 seconds
+Sun 08/07/2018 10:26:20.193 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:26:22.414 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:22.417 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:25.013 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:26:27.552 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:27.555 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:29.686 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:26:32.187 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:32.190 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:34.346 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:26:36.828 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:36.832 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:39.005 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:26:41.470 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:41.474 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:26:43.651 INFO - Playing trig file C:\AutomationEnvironment\LongTalks_Left\L_0dB_STM32F7.wav
+Sun 08/07/2018 10:32:29.622 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:40:35.562 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:42:59.088 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:43:01.578 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:01.582 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:03.733 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:43:06.211 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:06.216 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:08.400 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:43:10.845 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:10.852 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:13.055 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:43:15.486 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:15.496 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:17.700 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sun 08/07/2018 10:43:20.125 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sun 08/07/2018 10:43:20.134 INFO - counter 1, Recognized! - LJ- Trigger - 2

@@ -1,0 +1,772 @@
+Thu 05/07/2018 19:09:25.447 INFO - connecting to LabJack for results
+Thu 05/07/2018 19:09:25.493 INFO - Starting to play wav files...
+Thu 05/07/2018 19:09:25.493 INFO - 
+===========================================
+Test_type: Trig/ASR
+Test description: Headset_Car80_Noise_-23LUFS.wav vol: -24
+list of wavs: C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted_Alexa_Trigger.txt
+signal db is:  0
+asr delay time is: 2s
+Counter 0 Name: None
+Counter 1 Name: Trig
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\Jukebox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\Trunk_rev-508_CSR8675_SBC_Alexa(10.02.10)_ASR_Fitness(10.01.00)_Gain12_QA4-PC_Vol-18(Tone-23LUFS_4100Energy)__Car80-24_Thu07-05-2018@19-09-22.77.txt C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted_Alexa_Trigger.txt C:\AutomationEnvironment\NoiseFiles\Noises_-23LUFS\Headset_Car80_Noise_-23LUFS.wav 0 -24 8 2 lj Trig/ASR "Jabra_old2" "SNR" "None" "Trig" "" ""
+-------------------------------------------
+Thu 05/07/2018 19:09:25.529 INFO - LabJack will be checked every 0.5 seconds
+Thu 05/07/2018 19:09:33.453 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:09:36.276 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:09:37.082 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty1.wav
+Thu 05/07/2018 19:09:39.907 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:09:48.517 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:09:51.128 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:09:52.107 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty1.wav
+Thu 05/07/2018 19:09:55.318 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:10:03.226 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:10:06.033 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:10:06.848 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty1.wav
+Thu 05/07/2018 19:10:09.661 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:10:17.905 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:10:20.388 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:10:21.533 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty1.wav
+Thu 05/07/2018 19:10:24.516 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:10:32.645 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:10:35.244 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:10:36.234 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty1.wav
+Thu 05/07/2018 19:10:38.868 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:10:47.365 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:10:50.183 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:10:50.943 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty1.wav
+Thu 05/07/2018 19:10:53.803 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:11:02.055 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:11:04.523 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:11:05.651 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty1.wav
+Thu 05/07/2018 19:11:08.674 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:11:16.579 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:11:18.877 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:11:20.170 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty1.wav
+Thu 05/07/2018 19:11:23.015 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:11:31.288 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:11:33.734 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:11:34.878 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty1.wav
+Thu 05/07/2018 19:11:37.871 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:11:45.997 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:11:48.591 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:11:49.586 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty1.wav
+Thu 05/07/2018 19:11:52.217 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:12:00.645 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:12:03.464 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:12:04.236 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty1.wav
+Thu 05/07/2018 19:12:07.088 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:12:15.538 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:12:18.361 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:12:19.117 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty1.wav
+Thu 05/07/2018 19:12:21.986 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:12:30.052 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:12:32.707 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:12:33.644 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty1.wav
+Thu 05/07/2018 19:12:36.336 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:12:44.595 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:12:47.053 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:12:48.200 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty1.wav
+Thu 05/07/2018 19:12:51.190 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:13:00.092 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:13:02.418 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:13:03.680 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty1.wav
+Thu 05/07/2018 19:13:06.546 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:13:15.186 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:13:17.770 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:13:18.775 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty1.wav
+Thu 05/07/2018 19:13:21.905 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:13:30.017 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:13:32.625 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:13:33.607 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty1.wav
+Thu 05/07/2018 19:13:36.769 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:13:44.990 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:13:47.506 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:13:48.578 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty1.wav
+Thu 05/07/2018 19:13:51.631 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:13:59.836 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:14:02.367 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:14:03.420 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty1.wav
+Thu 05/07/2018 19:14:06.496 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:14:14.673 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:14:17.219 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:14:18.272 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty1.wav
+Thu 05/07/2018 19:14:21.354 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:14:29.776 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:14:32.585 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:14:33.365 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty1.wav
+Thu 05/07/2018 19:14:36.213 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:14:44.556 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:14:46.930 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:14:48.145 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty1.wav
+Thu 05/07/2018 19:14:51.065 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:14:59.336 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:15:01.790 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:15:02.937 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty1.wav
+Thu 05/07/2018 19:15:05.924 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:15:13.926 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:15:16.684 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:15:17.503 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty1.wav
+Thu 05/07/2018 19:15:20.305 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:15:28.684 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:15:31.032 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:15:32.273 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty1.wav
+Thu 05/07/2018 19:15:35.733 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:15:43.637 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:15:45.959 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:15:47.236 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty1.wav
+Thu 05/07/2018 19:15:50.102 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:15:58.426 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:16:00.816 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:16:02.006 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty1.wav
+Thu 05/07/2018 19:16:04.983 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:16:12.811 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:16:15.190 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:16:16.400 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty1.wav
+Thu 05/07/2018 19:16:19.322 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:16:27.703 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:16:30.045 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:16:31.292 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty1.wav
+Thu 05/07/2018 19:16:34.184 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:16:42.532 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:16:44.904 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:16:46.122 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty1.wav
+Thu 05/07/2018 19:16:49.030 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:16:57.098 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:16:59.753 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:17:00.690 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty1.wav
+Thu 05/07/2018 19:17:03.907 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:17:11.875 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:17:14.648 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:17:15.499 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty1.wav
+Thu 05/07/2018 19:17:18.273 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:17:27.058 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:17:29.506 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:17:30.655 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty1.wav
+Thu 05/07/2018 19:17:33.638 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:17:41.845 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:17:44.357 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:17:45.436 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty1.wav
+Thu 05/07/2018 19:17:48.490 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:17:56.861 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:17:59.203 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:18:00.509 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty1.wav
+Thu 05/07/2018 19:18:03.341 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:18:11.885 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:18:14.568 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:18:15.473 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty1.wav
+Thu 05/07/2018 19:18:18.765 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:18:26.594 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:18:28.983 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:18:30.193 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty1.wav
+Thu 05/07/2018 19:18:33.109 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:18:41.565 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:18:44.342 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:18:45.155 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty1.wav
+Thu 05/07/2018 19:18:47.969 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:18:56.711 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:18:59.203 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:19:00.302 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty1.wav
+Thu 05/07/2018 19:19:03.332 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:19:11.482 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:19:14.052 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:19:15.072 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty1.wav
+Thu 05/07/2018 19:19:18.233 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:19:26.141 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:19:28.947 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:19:29.730 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty1.wav
+Thu 05/07/2018 19:19:32.582 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:19:40.789 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:19:43.299 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:19:44.410 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty1.wav
+Thu 05/07/2018 19:19:47.434 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:19:55.517 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:19:58.164 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:19:59.108 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty1.wav
+Thu 05/07/2018 19:20:02.375 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:20:10.288 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:20:13.056 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:20:13.911 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty1.wav
+Thu 05/07/2018 19:20:17.188 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:20:25.434 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:20:27.917 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:20:29.023 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty1.wav
+Thu 05/07/2018 19:20:32.052 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:20:40.345 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:20:42.775 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:20:43.934 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty1.wav
+Thu 05/07/2018 19:20:46.908 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:20:55.309 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:20:57.628 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:20:58.938 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty1.wav
+Thu 05/07/2018 19:21:01.763 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:21:10.119 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:21:12.477 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:21:13.707 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty1.wav
+Thu 05/07/2018 19:21:16.615 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:21:24.878 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:21:27.336 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:21:28.469 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty2.wav
+Thu 05/07/2018 19:21:31.470 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:21:39.535 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:21:42.194 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:21:43.115 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty2.wav
+Thu 05/07/2018 19:21:45.815 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:21:53.921 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:21:56.549 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:21:57.510 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty2.wav
+Thu 05/07/2018 19:22:00.171 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:22:08.295 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:22:10.967 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:22:11.904 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty2.wav
+Thu 05/07/2018 19:22:14.591 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:22:23.035 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:22:25.822 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:22:26.624 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty2.wav
+Thu 05/07/2018 19:22:29.528 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:22:37.358 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:22:39.736 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:22:40.947 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty2.wav
+Thu 05/07/2018 19:22:43.874 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:22:51.994 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:22:54.591 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:22:55.575 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty2.wav
+Thu 05/07/2018 19:22:58.230 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:23:06.319 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:23:08.966 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:23:09.917 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty2.wav
+Thu 05/07/2018 19:23:12.592 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:23:20.845 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:23:23.315 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:23:24.424 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty2.wav
+Thu 05/07/2018 19:23:26.947 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:23:34.782 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:23:37.164 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:23:38.371 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty2.wav
+Thu 05/07/2018 19:23:41.299 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:23:49.299 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:23:52.069 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:23:52.887 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty2.wav
+Thu 05/07/2018 19:23:55.694 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:24:04.006 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:24:06.410 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:24:07.585 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty2.wav
+Thu 05/07/2018 19:24:10.607 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:24:18.513 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:24:20.818 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:24:22.111 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty2.wav
+Thu 05/07/2018 19:24:24.946 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:24:33.028 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:24:35.677 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:24:36.617 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty2.wav
+Thu 05/07/2018 19:24:38.792 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:24:47.289 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:24:50.062 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:24:50.869 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty2.wav
+Thu 05/07/2018 19:24:54.210 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:25:02.040 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:25:04.426 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:25:05.631 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty2.wav
+Thu 05/07/2018 19:25:08.585 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:25:16.558 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:25:19.342 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:25:20.155 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty2.wav
+Thu 05/07/2018 19:25:23.476 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:25:31.265 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:25:33.678 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:25:34.854 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty2.wav
+Thu 05/07/2018 19:25:37.812 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:25:45.913 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:25:48.539 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:25:49.526 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty2.wav
+Thu 05/07/2018 19:25:52.158 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:26:00.398 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:26:02.897 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:26:03.987 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty2.wav
+Thu 05/07/2018 19:26:07.071 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:26:15.025 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:26:17.806 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:26:18.615 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty2.wav
+Thu 05/07/2018 19:26:21.428 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:26:29.989 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:26:32.658 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:26:33.588 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty2.wav
+Thu 05/07/2018 19:26:36.290 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:26:44.382 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:26:47.009 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:26:47.973 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty2.wav
+Thu 05/07/2018 19:26:51.144 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:26:58.838 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:27:01.348 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:27:02.417 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty2.wav
+Thu 05/07/2018 19:27:05.581 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 05/07/2018 19:27:13.476 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:27:16.255 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:27:17.065 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty2.wav
+Thu 05/07/2018 19:27:19.880 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:27:27.928 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:27:30.608 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:27:31.530 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty2.wav
+Thu 05/07/2018 19:27:34.733 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:27:42.454 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:27:44.959 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:27:46.085 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty2.wav
+Thu 05/07/2018 19:27:49.088 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:27:57.207 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:27:59.809 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:28:00.796 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty2.wav
+Thu 05/07/2018 19:28:02.937 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:28:11.094 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:28:13.651 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:28:14.681 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty2.wav
+Thu 05/07/2018 19:28:17.279 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:28:25.427 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:28:28.000 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:28:29.015 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty2.wav
+Thu 05/07/2018 19:28:31.628 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:28:39.930 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:28:42.351 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:28:43.522 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty2.wav
+Thu 05/07/2018 19:28:46.483 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:28:54.641 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:28:57.213 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:28:58.230 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty2.wav
+Thu 05/07/2018 19:29:01.336 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:29:09.148 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:29:11.556 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:29:12.736 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty2.wav
+Thu 05/07/2018 19:29:15.749 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:29:23.663 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:29:25.963 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:29:27.243 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty2.wav
+Thu 05/07/2018 19:29:30.098 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:29:38.351 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:29:40.819 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:29:41.941 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty2.wav
+Thu 05/07/2018 19:29:44.956 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:29:52.736 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:29:55.165 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:29:56.325 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty2.wav
+Thu 05/07/2018 19:29:59.301 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:30:07.319 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:30:10.092 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:30:10.911 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty2.wav
+Thu 05/07/2018 19:30:14.240 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:30:22.020 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:30:24.467 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:30:25.611 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty2.wav
+Thu 05/07/2018 19:30:28.665 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:30:36.486 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:30:38.888 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:30:40.075 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty2.wav
+Thu 05/07/2018 19:30:43.023 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:30:51.052 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:30:53.742 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:30:54.644 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty2.wav
+Thu 05/07/2018 19:30:57.371 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:31:05.447 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:31:08.092 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:31:09.036 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty2.wav
+Thu 05/07/2018 19:31:12.234 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:31:20.480 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:31:22.963 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:31:24.082 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty2.wav
+Thu 05/07/2018 19:31:26.598 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:31:35.069 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:31:37.884 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:31:38.658 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty2.wav
+Thu 05/07/2018 19:31:41.507 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:31:49.970 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:31:52.290 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:31:53.559 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty2.wav
+Thu 05/07/2018 19:31:56.417 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:32:04.934 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:32:07.707 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:32:08.523 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty2.wav
+Thu 05/07/2018 19:32:11.334 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:32:19.766 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:32:22.072 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:32:23.354 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty2.wav
+Thu 05/07/2018 19:32:26.227 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:32:34.046 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:32:36.440 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:32:37.694 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty2.wav
+Thu 05/07/2018 19:32:40.638 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 05/07/2018 19:32:48.542 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:32:50.855 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:32:52.217 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty3.wav
+Thu 05/07/2018 19:32:55.036 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:33:02.944 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:33:05.256 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:33:06.584 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty3.wav
+Thu 05/07/2018 19:33:09.401 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:33:17.441 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:33:20.193 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:33:21.032 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty3.wav
+Thu 05/07/2018 19:33:23.822 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:33:31.894 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:33:34.556 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:33:35.486 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty3.wav
+Thu 05/07/2018 19:33:38.200 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:33:46.411 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:33:48.903 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:33:50.003 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty3.wav
+Thu 05/07/2018 19:33:52.529 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:34:00.341 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:34:02.750 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:34:03.930 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty3.wav
+Thu 05/07/2018 19:34:06.897 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:34:14.724 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:34:17.131 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:34:18.313 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty3.wav
+Thu 05/07/2018 19:34:21.318 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:34:29.289 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:34:31.552 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:34:32.878 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty3.wav
+Thu 05/07/2018 19:34:35.704 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:34:43.878 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:34:46.424 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:34:47.477 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty3.wav
+Thu 05/07/2018 19:34:50.052 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:34:58.403 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:35:00.789 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:35:01.993 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty3.wav
+Thu 05/07/2018 19:35:04.937 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:35:13.040 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:35:15.657 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:35:16.631 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty3.wav
+Thu 05/07/2018 19:35:19.851 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:35:27.778 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:35:30.562 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:35:31.371 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty3.wav
+Thu 05/07/2018 19:35:34.193 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:35:42.244 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:35:45.010 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:35:45.826 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty3.wav
+Thu 05/07/2018 19:35:48.642 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:35:57.509 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:35:59.888 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:36:01.094 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty3.wav
+Thu 05/07/2018 19:36:03.509 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:36:11.765 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:36:14.243 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:36:15.357 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty3.wav
+Thu 05/07/2018 19:36:18.375 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:36:26.423 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:36:29.099 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:36:30.078 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty3.wav
+Thu 05/07/2018 19:36:32.726 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:36:40.996 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:36:43.466 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:36:44.581 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty3.wav
+Thu 05/07/2018 19:36:47.599 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:36:55.638 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:36:58.315 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:36:59.230 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty3.wav
+Thu 05/07/2018 19:37:01.944 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:37:10.276 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:37:12.658 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:37:13.868 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty3.wav
+Thu 05/07/2018 19:37:16.848 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:37:24.697 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:37:27.059 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:37:28.282 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty3.wav
+Thu 05/07/2018 19:37:31.197 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:37:39.338 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:37:41.915 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:37:42.920 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty3.wav
+Thu 05/07/2018 19:37:45.546 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:37:53.869 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:37:56.269 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:37:57.456 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty3.wav
+Thu 05/07/2018 19:38:00.403 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:38:08.595 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:38:11.125 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:38:12.194 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty3.wav
+Thu 05/07/2018 19:38:14.773 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:38:22.611 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:38:24.987 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:38:26.203 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty3.wav
+Thu 05/07/2018 19:38:29.134 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:38:37.635 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:38:40.414 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:38:41.229 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty3.wav
+Thu 05/07/2018 19:38:44.039 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:38:52.348 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:38:54.773 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:38:55.928 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty3.wav
+Thu 05/07/2018 19:38:58.904 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:39:07.204 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:39:09.631 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:39:10.792 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty3.wav
+Thu 05/07/2018 19:39:13.776 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:39:21.970 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:39:24.499 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:39:25.563 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty3.wav
+Thu 05/07/2018 19:39:28.124 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:39:36.286 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:39:38.855 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:39:39.878 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty3.wav
+Thu 05/07/2018 19:39:42.482 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:39:50.782 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:39:53.198 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:39:54.375 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty3.wav
+Thu 05/07/2018 19:39:57.348 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:40:05.354 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:40:08.131 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:40:08.943 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty3.wav
+Thu 05/07/2018 19:40:11.759 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:40:20.066 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:40:22.492 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:40:23.664 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty3.wav
+Thu 05/07/2018 19:40:26.608 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:40:34.792 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:40:37.341 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:40:38.454 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty3.wav
+Thu 05/07/2018 19:40:41.471 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:40:49.838 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:40:52.197 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:40:53.421 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty3.wav
+Thu 05/07/2018 19:40:56.867 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:41:04.782 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:41:07.592 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:41:08.364 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty3.wav
+Thu 05/07/2018 19:41:11.224 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:41:19.349 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:41:21.946 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:41:22.933 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty3.wav
+Thu 05/07/2018 19:41:26.076 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:41:34.253 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:41:36.799 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:41:37.845 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty3.wav
+Thu 05/07/2018 19:41:40.934 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:41:49.219 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:41:51.661 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:41:52.811 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty3.wav
+Thu 05/07/2018 19:41:55.798 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:42:04.273 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:42:07.079 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:42:07.855 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty3.wav
+Thu 05/07/2018 19:42:10.808 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:42:18.721 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:42:21.529 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:42:22.368 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty3.wav
+Thu 05/07/2018 19:42:25.154 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:42:33.217 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:42:35.878 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:42:36.809 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty3.wav
+Thu 05/07/2018 19:42:39.513 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:42:48.351 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:42:50.746 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:42:51.947 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty3.wav
+Thu 05/07/2018 19:42:54.881 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:43:03.111 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:43:05.602 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:43:06.697 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty3.wav
+Thu 05/07/2018 19:43:09.753 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:43:18.323 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:43:20.976 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:43:21.960 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty3.wav
+Thu 05/07/2018 19:43:25.121 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:43:33.614 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:43:35.885 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:43:37.207 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty3.wav
+Thu 05/07/2018 19:43:40.028 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:43:48.191 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:43:50.746 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:43:51.775 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty3.wav
+Thu 05/07/2018 19:43:54.871 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:44:02.194 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:44:04.592 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:44:05.785 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty3.wav
+Thu 05/07/2018 19:44:08.750 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:44:16.457 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:44:18.976 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:44:20.036 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty4.wav
+Thu 05/07/2018 19:44:22.605 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:44:30.782 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:44:33.323 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:44:34.381 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty4.wav
+Thu 05/07/2018 19:44:36.950 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:44:45.115 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:44:47.676 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:44:48.716 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty4.wav
+Thu 05/07/2018 19:44:51.299 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:44:59.502 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:45:02.025 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:45:03.092 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty4.wav
+Thu 05/07/2018 19:45:05.648 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:45:13.815 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:45:16.384 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:45:17.398 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty4.wav
+Thu 05/07/2018 19:45:20.038 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:45:28.007 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:45:30.270 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:45:31.638 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty4.wav
+Thu 05/07/2018 19:45:34.421 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:45:42.230 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:45:44.711 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:45:45.811 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty4.wav
+Thu 05/07/2018 19:45:48.342 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:45:56.677 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:45:59.065 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:46:00.278 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty4.wav
+Thu 05/07/2018 19:46:02.691 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:46:11.010 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:46:13.426 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:46:14.592 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty4.wav
+Thu 05/07/2018 19:46:17.049 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:46:25.388 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:46:27.792 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:46:28.986 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty4.wav
+Thu 05/07/2018 19:46:31.417 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:46:39.782 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:46:42.144 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:46:43.372 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty4.wav
+Thu 05/07/2018 19:46:46.279 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:46:54.036 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:46:56.496 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:46:57.625 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty4.wav
+Thu 05/07/2018 19:47:00.132 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:47:08.349 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:47:10.852 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:47:11.940 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty4.wav
+Thu 05/07/2018 19:47:14.477 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:47:22.724 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:47:25.204 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:47:26.315 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty4.wav
+Thu 05/07/2018 19:47:28.829 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:47:37.111 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:47:39.558 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:47:40.701 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty4.wav
+Thu 05/07/2018 19:47:43.687 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 05/07/2018 19:47:51.697 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:47:54.460 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:47:55.279 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty4.wav
+Thu 05/07/2018 19:47:58.085 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:48:06.267 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:48:08.819 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:48:09.868 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty4.wav
+Thu 05/07/2018 19:48:12.446 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:48:20.723 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:48:23.177 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:48:24.303 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty4.wav
+Thu 05/07/2018 19:48:26.803 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:48:35.088 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:48:37.523 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:48:38.677 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty4.wav
+Thu 05/07/2018 19:48:41.658 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:48:49.723 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:48:52.377 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:48:53.315 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty4.wav
+Thu 05/07/2018 19:48:56.000 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:49:04.098 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:49:06.723 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:49:07.688 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty4.wav
+Thu 05/07/2018 19:49:10.352 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:49:18.483 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:49:21.079 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:49:22.073 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty4.wav
+Thu 05/07/2018 19:49:24.704 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:49:32.796 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:49:35.421 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:49:36.397 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty4.wav
+Thu 05/07/2018 19:49:39.555 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:49:47.131 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:49:49.766 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:49:50.719 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty4.wav
+Thu 05/07/2018 19:49:53.391 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:50:01.576 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:50:04.109 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:50:05.164 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty4.wav
+Thu 05/07/2018 19:50:07.736 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:50:15.898 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:50:18.471 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:50:19.497 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty4.wav
+Thu 05/07/2018 19:50:22.094 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:50:30.168 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:50:32.832 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:50:33.789 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty4.wav
+Thu 05/07/2018 19:50:36.454 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:50:44.585 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:50:47.180 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:50:48.174 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty4.wav
+Thu 05/07/2018 19:50:50.825 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:50:58.917 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:51:01.552 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:51:02.506 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty4.wav
+Thu 05/07/2018 19:51:05.184 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:51:13.209 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:51:15.473 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:51:16.799 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty4.wav
+Thu 05/07/2018 19:51:19.611 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:51:27.614 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:51:29.874 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:51:31.194 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty4.wav
+Thu 05/07/2018 19:51:34.086 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:51:41.999 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:51:44.776 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:51:45.598 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty4.wav
+Thu 05/07/2018 19:51:48.401 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:51:56.453 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:51:59.128 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:52:00.052 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty4.wav
+Thu 05/07/2018 19:52:02.750 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:52:10.917 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:52:13.476 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:52:14.578 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty4.wav
+Thu 05/07/2018 19:52:17.111 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:52:25.506 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:52:28.332 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:52:29.095 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty4.wav
+Thu 05/07/2018 19:52:31.987 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:52:39.845 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:52:42.198 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:52:43.427 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty4.wav
+Thu 05/07/2018 19:52:46.392 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:52:54.305 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:52:57.115 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:52:57.892 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty4.wav
+Thu 05/07/2018 19:53:00.736 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:53:08.828 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:53:11.474 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:53:12.420 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty4.wav
+Thu 05/07/2018 19:53:15.098 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:53:23.151 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:53:25.828 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:53:26.733 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty4.wav
+Thu 05/07/2018 19:53:29.503 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:53:37.405 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:53:39.716 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:53:41.048 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty4.wav
+Thu 05/07/2018 19:53:43.904 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:53:51.727 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:53:54.111 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:53:55.318 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty4.wav
+Thu 05/07/2018 19:53:58.342 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:54:06.243 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:54:09.032 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:54:09.835 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty4.wav
+Thu 05/07/2018 19:54:12.733 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:54:20.628 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:54:23.026 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:54:24.207 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty4.wav
+Thu 05/07/2018 19:54:26.648 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:54:35.002 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:54:37.372 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:54:38.634 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty4.wav
+Thu 05/07/2018 19:54:41.584 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:54:49.543 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:54:52.315 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:54:53.128 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty4.wav
+Thu 05/07/2018 19:54:55.944 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:55:03.996 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:55:06.663 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:55:07.582 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty4.wav
+Thu 05/07/2018 19:55:10.345 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 05/07/2018 19:55:18.253 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Thu 05/07/2018 19:55:21.069 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Thu 05/07/2018 19:55:21.834 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty4.wav
+Thu 05/07/2018 19:55:24.698 INFO - counter 1, Recognized! - LJ- Pause - 12

@@ -1,0 +1,612 @@
+Fri 06/07/2018 19:44:04.694 INFO - connecting to LabJack for results
+Fri 06/07/2018 19:44:04.726 INFO - Starting to play wav files...
+Fri 06/07/2018 19:44:04.726 INFO - 
+===========================================
+Test_type: TRIG
+Test description: None vol: 0
+list of wavs: C:\AutomationEnvironment\lists\24Hr_Amazon_FA_separated_1hour_wavs_LEFT.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: Beringhem
+Counter 1 Name: SpeedLink
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\Trunk_rev-478_SBC_Alexa(10.02.10)_Gain16_BeringhemvsSpeedLink-Mic_3ft-from-each-speaker_M-audio-32.7_bering-using-mixer(Tone-23LUFS_4300_62dbSPL)_FA_24hr_with_verification_Thu07-05-2018@14-44-46.43.txt C:\AutomationEnvironment\lists\24Hr_Amazon_FA_separated_1hour_wavs_LEFT.txt None 0 0 3 0 lj TRIG "Alexa" "Long_Talks" "Beringhem" "SpeedLink" "" ""
+-------------------------------------------
+Fri 06/07/2018 19:44:04.775 INFO - LabJack will be checked every 0.5 seconds
+Fri 06/07/2018 19:44:07.703 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 19:44:10.423 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:10.427 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:12.461 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 19:44:15.059 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:15.062 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:17.122 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 19:44:19.700 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:19.704 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:21.795 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 19:44:24.342 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:24.345 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:26.451 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 19:44:28.973 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:28.977 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:44:31.118 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_0-1.wav
+Fri 06/07/2018 19:45:08.565 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:45:08.569 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:48:40.436 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:52:12.306 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 19:52:13.907 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:09:37.884 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:30:52.703 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:36:44.944 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:36:45.529 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:40:17.378 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:30.834 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 20:44:33.349 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:33.358 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:35.535 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 20:44:37.987 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:37.996 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:40.203 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 20:44:42.632 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:42.641 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:44.862 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 20:44:47.276 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:49.523 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 20:44:51.907 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:51.915 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 20:44:54.184 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_1-2.wav
+Fri 06/07/2018 20:51:55.585 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:02:40.641 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:02:40.654 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:10:06.128 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:10:31.030 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:13:00.161 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:13:00.174 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:13:51.408 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:13:53.520 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:19:48.319 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:19:48.329 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:21:56.585 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:25:40.119 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:25:40.131 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:34:57.040 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:37:29.621 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:37:33.247 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:42:13.529 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:42:13.540 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:46:55.448 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 21:46:57.986 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:46:58.000 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:00.114 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 21:47:02.627 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:02.644 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:04.762 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 21:47:07.269 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:07.280 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:09.403 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 21:47:11.910 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:11.923 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:14.042 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 21:47:16.543 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:16.555 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:47:18.713 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_2-3.wav
+Fri 06/07/2018 21:56:11.766 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 21:56:11.779 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:04:52.128 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:12:56.561 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:14:25.799 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:14:26.382 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:16:58.440 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:20:53.586 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:35:55.029 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:35:56.625 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:37:20.292 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:22.153 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 22:47:24.756 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:24.769 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:26.835 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 22:47:29.407 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:29.421 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:31.484 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 22:47:34.049 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:34.063 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:36.127 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 22:47:38.684 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:38.697 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:40.775 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 22:47:43.323 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:43.336 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 22:47:45.447 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_3-4.wav
+Fri 06/07/2018 22:59:57.496 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:04:05.305 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:06:35.354 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:10:41.187 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:12:23.092 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:14:50.609 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:14:51.701 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:20:51.480 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:33:29.598 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:33:30.184 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:35:59.214 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:45:52.084 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:46:30.665 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:46:30.687 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:47:50.999 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 23:47:53.349 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:47:53.367 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:47:55.658 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 23:47:58.000 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:47:58.016 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:00.303 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 23:48:02.654 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:02.671 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:04.963 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 23:48:07.318 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:07.905 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:09.631 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Fri 06/07/2018 23:48:12.134 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:12.153 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Fri 06/07/2018 23:48:14.285 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_4-5.wav
+Fri 06/07/2018 23:50:29.711 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:25:12.733 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:29:28.696 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:21.253 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 00:48:23.782 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:23.799 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:25.936 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 00:48:28.417 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:28.436 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:30.609 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 00:48:33.137 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:33.154 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:35.267 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 00:48:37.778 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:37.795 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:39.927 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 00:48:42.413 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:42.430 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:48:44.601 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_5-6.wav
+Sat 07/07/2018 00:52:09.723 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:52:09.742 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:54:42.852 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 00:58:51.696 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:08:39.493 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:12:38.210 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:23:36.058 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:23:36.078 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:31:48.628 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:44.940 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 01:48:47.644 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:47.663 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:49.612 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 01:48:52.280 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:52.298 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:54.269 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 01:48:56.921 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:56.944 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:48:58.924 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 01:49:01.568 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:49:01.585 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:49:03.562 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 01:49:06.201 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:49:06.220 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 01:49:08.203 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_6-7.wav
+Sat 07/07/2018 01:54:46.252 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:01:12.446 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:01:13.030 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:07:08.733 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:40:23.088 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:08.977 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 02:49:11.704 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:11.721 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:13.638 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 02:49:16.351 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:16.368 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:18.276 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 02:49:21.000 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:21.016 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:22.917 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 02:49:25.210 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:25.227 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:27.563 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 02:49:30.355 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:30.372 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:49:32.206 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_7-8.wav
+Sat 07/07/2018 02:55:42.811 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 02:55:46.437 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:15:28.016 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:20:23.479 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:20:48.385 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:35.990 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 03:49:38.321 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:38.338 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:40.648 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 03:49:42.963 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:42.980 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:45.289 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 03:49:47.598 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:47.617 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:49.944 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 03:49:52.236 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:52.255 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:54.592 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 03:49:56.878 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:56.894 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 03:49:59.227 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_8-9.wav
+Sat 07/07/2018 04:00:14.671 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:16:16.903 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:32:30.832 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:32:31.417 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:38:15.063 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:01.259 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 04:50:03.556 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:03.575 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:05.930 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 04:50:08.197 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:08.217 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:10.572 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 04:50:12.834 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:12.851 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:15.210 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 04:50:17.555 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:17.573 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:19.868 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 04:50:22.197 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:22.782 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 04:50:24.510 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_9-10.wav
+Sat 07/07/2018 04:57:04.183 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:02:12.805 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:04:11.477 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:13:27.963 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:18:14.785 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:45:12.721 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:28.134 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 05:50:30.506 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:30.523 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:32.812 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 05:50:35.141 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:35.157 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:37.471 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 05:50:39.779 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:39.798 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:42.142 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 05:50:44.428 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:44.447 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:46.799 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 05:50:49.069 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:49.086 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 05:50:51.459 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_10-11.wav
+Sat 07/07/2018 05:58:32.226 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:00:42.530 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:05:20.250 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:08:14.092 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:08:15.690 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:08:59.328 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:09:00.418 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:18:28.444 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:18:29.029 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:19:15.282 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:19:15.302 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:41:36.536 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:41:49.792 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:44:47.726 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:44:52.358 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:44:55.480 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:49:33.750 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:13.864 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 06:51:16.184 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:16.203 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:18.519 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 06:51:20.903 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:20.921 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:23.194 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 06:51:25.625 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:25.641 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:27.862 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 06:51:30.263 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:30.289 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:32.561 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 06:51:34.895 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:34.914 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:51:37.220 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_11-12.wav
+Sat 07/07/2018 06:53:38.081 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:53:39.680 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 06:55:58.084 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:06:04.655 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:08:43.834 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:08:44.417 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:21:58.921 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:39:14.714 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:45:51.729 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:40.562 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 07:51:43.471 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:43.493 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:45.233 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 07:51:47.605 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:47.641 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:49.895 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 07:51:52.279 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:52.299 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:54.555 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 07:51:56.914 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:56.933 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:51:59.240 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 07:52:01.553 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:52:02.137 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 07:52:03.930 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_12-13.wav
+Sat 07/07/2018 08:15:18.971 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:16:53.313 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:18:03.836 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:20:12.124 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:34:17.444 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:34:18.538 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:44.046 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 08:51:46.573 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:46.592 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:48.726 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 08:51:51.217 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:51.236 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:53.388 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 08:51:55.861 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:55.881 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:51:58.068 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 08:52:00.494 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:52:00.526 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:52:02.755 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 08:52:05.151 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:52:05.171 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 08:52:07.459 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_13-14.wav
+Sat 07/07/2018 09:01:13.986 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:02:52.355 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:02:52.375 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:20:00.082 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:35:43.801 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:47:28.232 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:13.703 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 09:52:16.121 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:16.138 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:18.345 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 09:52:20.756 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:20.775 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:22.986 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 09:52:25.391 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:27.634 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 09:52:30.042 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:30.625 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:32.275 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 09:52:34.759 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:34.778 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 09:52:36.914 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_14-15.wav
+Sat 07/07/2018 10:06:27.813 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:07:33.252 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:08:34.640 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:09:11.701 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:18:38.276 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:31:23.520 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:32:50.246 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:36:11.996 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:36:12.016 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:37:58.461 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:38:59.868 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:41:21.321 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:51:15.767 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:44.016 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 10:52:46.546 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:46.565 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:48.673 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 10:52:51.184 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:51.203 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:53.306 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 10:52:55.826 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:55.845 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:52:57.946 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 10:53:00.463 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:53:00.482 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:53:02.585 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 10:53:05.102 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:53:05.121 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 10:53:07.226 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_15-16.wav
+Sat 07/07/2018 11:02:05.823 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:06:25.289 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:08:03.127 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:10.638 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 11:53:13.315 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:13.334 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:15.309 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 11:53:17.959 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:17.979 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:19.948 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 11:53:22.595 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:22.615 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:24.609 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 11:53:27.237 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:27.259 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:29.283 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 11:53:31.875 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:31.894 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:53:33.957 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_16-17.wav
+Sat 07/07/2018 11:56:31.430 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 11:56:31.450 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:02:48.961 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:06:07.648 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:08:15.388 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:10:20.117 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:17:53.686 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:26:01.194 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:31:26.519 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:32:02.569 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:37.341 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 12:53:39.772 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:39.790 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:42.002 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 12:53:44.408 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:44.427 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:46.641 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 12:53:49.042 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:49.062 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:51.308 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 12:53:53.760 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:53.782 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:55.950 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 12:53:58.404 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:53:58.423 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 12:54:00.591 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_17-18.wav
+Sat 07/07/2018 13:05:49.494 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:05:49.516 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:12:28.846 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:15:14.082 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:24:01.589 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:24:02.174 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:25:52.687 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:38:13.523 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:38:13.545 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:04.924 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 13:54:07.154 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:07.173 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:09.589 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 13:54:12.290 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:12.309 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:14.233 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 13:54:16.506 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:16.526 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:18.872 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 13:54:21.148 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:21.167 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:23.523 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 13:54:25.862 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:25.882 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 13:54:28.164 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_18-19.wav
+Sat 07/07/2018 14:06:53.351 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:14:34.460 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:23:13.885 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:23:14.470 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:24:06.753 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:24:41.801 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:35:54.196 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:41.907 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 14:54:44.200 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:44.785 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:46.631 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 14:54:48.914 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:48.936 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:51.283 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 14:54:53.551 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:53.571 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:55.930 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 14:54:58.203 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:54:58.223 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:55:00.585 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 14:55:02.920 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:55:02.940 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 14:55:05.226 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_19-20.wav
+Sat 07/07/2018 14:56:02.780 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:11:14.785 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:11:14.806 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:23:17.911 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:23:18.494 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:25:56.184 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:29:29.066 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:38:09.535 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:41:10.007 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:41:10.029 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:53:00.444 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:08.619 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 15:55:11.255 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:11.275 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:13.289 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 15:55:15.895 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:15.915 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:17.937 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 15:55:20.539 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:20.559 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:22.578 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 15:55:25.178 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:25.198 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:27.216 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 15:55:29.815 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:29.835 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 15:55:31.858 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_20-21.wav
+Sat 07/07/2018 16:01:38.779 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:12:31.436 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:18:00.335 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:39.562 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 16:55:42.115 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:42.134 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:44.220 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 16:55:46.759 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:46.779 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:48.869 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 16:55:51.395 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:51.415 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:53.510 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 16:55:56.030 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:56.051 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:55:58.173 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 16:56:00.674 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:56:00.694 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 16:56:02.822 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_21-22.wav
+Sat 07/07/2018 17:08:39.198 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:08:39.220 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:09:52.233 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:12:20.742 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:14:23.461 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:14:25.059 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:21:35.286 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:25:56.302 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:27:46.858 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:43:37.523 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:06.467 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 17:56:08.441 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:09.026 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:11.122 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 17:56:13.660 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:13.678 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:15.763 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 17:56:18.290 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:18.309 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:20.403 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 17:56:22.934 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:22.953 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:25.042 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 17:56:27.575 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:27.595 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 17:56:29.687 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_22-23.wav
+Sat 07/07/2018 18:03:01.319 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:17:47.572 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:25:08.486 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:25:08.509 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:30:55.635 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:53:06.634 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:33.447 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 18:56:35.951 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:35.970 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:38.085 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 18:56:40.585 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:40.605 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:42.724 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 18:56:45.229 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:45.247 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:47.365 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 18:56:49.871 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:49.891 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:52.012 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 18:56:54.505 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:54.526 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 18:56:56.645 INFO - Playing trig file C:\AutomationEnvironment\24-Hours_Left\L_0dB_23-24.wav
+Sat 07/07/2018 19:08:24.167 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:21:45.342 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:54:52.720 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 19:54:55.292 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:54:55.312 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:54:57.413 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 19:54:59.928 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:54:59.948 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:02.052 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 19:55:04.569 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:04.589 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:06.713 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 19:55:09.210 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:09.795 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:11.371 INFO - Playing trig file C:\AutomationEnvironment\Alexa_419_-23LUFS\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 07/07/2018 19:55:13.924 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Sat 07/07/2018 19:55:14.509 INFO - counter 0, Recognized! - LJ- Trigger - 2

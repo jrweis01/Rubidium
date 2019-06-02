@@ -1,0 +1,47 @@
+Sat 16/06/2018 00:09:01.085 INFO - connecting to LabJack for results
+Sat 16/06/2018 00:09:01.088 INFO - Connecting to UART for results
+Sat 16/06/2018 00:09:01.200 INFO - Starting to play wav files...
+Sat 16/06/2018 00:09:01.201 INFO - 
+===========================================
+Test_type: Trig
+Test description: None vol: 0
+list of wavs: C:\AutomationEnvironment\lists\FA_LongTalks2_Alexa_LEFT.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: Com14
+Counter 1 Name: None
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\st_Alexa_V50.3.20_UART_50.3.21_counter0_Confrence-Room_3Ft_M-audio-26.7(PinkNoise-62db@3FT)_RT210_LongTalks2_Wed06-13-2018@15-20-36.87.txt C:\AutomationEnvironment\lists\FA_LongTalks2_Alexa_LEFT.txt None 0 0 3 0 uart Trig "Alexa" "Long_Talks" "Com14" "None" "" ""
+-------------------------------------------
+Sat 16/06/2018 00:09:01.204 INFO - LabJack will be checked every 0.5 seconds
+Sat 16/06/2018 00:09:04.161 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 00:09:06.354 INFO - UART Recognized! - Trigger found, recognition counter : 18912
+Sat 16/06/2018 00:09:08.878 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 00:09:11.072 INFO - UART Recognized! - Trigger found, recognition counter : 18913
+Sat 16/06/2018 00:09:13.555 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 00:09:15.792 INFO - UART Recognized! - Trigger found, recognition counter : 18914
+Sat 16/06/2018 00:09:18.226 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 00:09:20.671 INFO - UART Recognized! - Trigger found, recognition counter : 18915
+Sat 16/06/2018 00:09:22.897 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 00:09:25.342 INFO - UART Recognized! - Trigger found, recognition counter : 18916
+Sat 16/06/2018 00:09:27.562 INFO - Playing trig file C:\AutomationEnvironment\LongTalks_Left\L_0dB_conversation.wav
+Sat 16/06/2018 00:41:08.078 INFO - UART Recognized! - Trigger found, recognition counter : 18917
+Sat 16/06/2018 00:46:39.217 INFO - UART Recognized! - Trigger found, recognition counter : 18918
+Sat 16/06/2018 00:50:10.749 INFO - UART Recognized! - Trigger found, recognition counter : 18919
+Sat 16/06/2018 00:52:37.915 INFO - UART Recognized! - Trigger found, recognition counter : 18920
+Sat 16/06/2018 01:08:32.138 INFO - UART Recognized! - Trigger found, recognition counter : 18921
+Sat 16/06/2018 01:22:04.552 INFO - UART Recognized! - Trigger found, recognition counter : 18922
+Sat 16/06/2018 01:39:14.249 INFO - UART Recognized! - Trigger found, recognition counter : 18923
+Sat 16/06/2018 01:48:42.819 INFO - UART Recognized! - Trigger found, recognition counter : 18924
+Sat 16/06/2018 02:17:13.377 INFO - UART Recognized! - Trigger found, recognition counter : 18925
+Sat 16/06/2018 02:26:20.894 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 02:26:23.009 INFO - UART Recognized! - Trigger found, recognition counter : 18926
+Sat 16/06/2018 02:26:25.622 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 02:26:27.937 INFO - UART Recognized! - Trigger found, recognition counter : 18927
+Sat 16/06/2018 02:26:30.309 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 02:26:32.752 INFO - UART Recognized! - Trigger found, recognition counter : 18928
+Sat 16/06/2018 02:26:34.990 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 02:26:37.459 INFO - UART Recognized! - Trigger found, recognition counter : 18929
+Sat 16/06/2018 02:26:39.674 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\07c8a754868e96372bb77214c79f579b\7058c8d561d5d6c4d1e79d4d078d2750.wav
+Sat 16/06/2018 02:26:41.790 INFO - UART Recognized! - Trigger found, recognition counter : 18930

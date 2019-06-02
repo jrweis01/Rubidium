@@ -1,0 +1,771 @@
+Thu 31/05/2018 17:50:49.947 INFO - Connecting to SERIAL for results
+Thu 31/05/2018 17:50:50.230 INFO - Starting to play wav files...
+Thu 31/05/2018 17:50:50.230 INFO - 
+===========================================
+Test_type: Trig/ASR
+Test description: Headset_Car80_Noise_-23LUFS.wav vol: -24
+list of wavs: C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_Hello-Bluedio-Trigger_sorted_list.txt
+signal db is:  0
+asr delay time is: 1s
+Counter 0 Name: COM13
+Counter 1 Name: None
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\Jukebox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\Bluedio_(Trunk_rev-438)_Hello-Bluedio_(V11.05.01)_Gain12_ASR_Fitness_(V10.01.00)_aptX_QA3-PC_Volume-18(Tone-23LUFS_4100Energy)__Car80-24_Thu31-05-2018@17-50-47.40.txt C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_Hello-Bluedio-Trigger_sorted_list.txt C:\AutomationEnvironment\NoiseFiles\Noises_-23LUFS\Headset_Car80_Noise_-23LUFS.wav 0 -24 8 1 serial Trig/ASR "Jabra_old2" "SNR" "COM13" "None" "" ""
+-------------------------------------------
+Thu 31/05/2018 17:50:58.219 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:51:02.003 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:51:03.173 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty1.wav
+Thu 31/05/2018 17:51:05.973 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:51:14.586 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:51:18.315 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:51:19.517 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty1.wav
+Thu 31/05/2018 17:51:22.092 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:51:30.611 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:51:34.240 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:51:35.551 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty1.wav
+Thu 31/05/2018 17:51:38.382 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:51:46.589 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:51:50.226 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:51:51.520 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty1.wav
+Thu 31/05/2018 17:51:54.102 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:52:02.631 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:52:06.282 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:52:07.561 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty1.wav
+Thu 31/05/2018 17:52:10.026 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:52:18.655 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:52:22.282 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:52:23.594 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty1.wav
+Thu 31/05/2018 17:52:26.091 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:52:34.687 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:52:38.339 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:52:39.627 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty1.wav
+Thu 31/05/2018 17:52:42.559 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:52:50.533 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:52:54.177 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:52:55.464 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty1.wav
+Thu 31/05/2018 17:52:58.358 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:53:06.612 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:53:10.233 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:53:11.543 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty1.wav
+Thu 31/05/2018 17:53:14.407 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:53:22.661 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:53:26.335 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:53:27.599 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty1.wav
+Thu 31/05/2018 17:53:30.401 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:53:38.671 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:53:42.290 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:53:43.601 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty1.wav
+Thu 31/05/2018 17:53:46.440 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:53:54.891 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:53:58.526 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:53:59.822 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty1.wav
+Thu 31/05/2018 17:54:02.763 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:54:10.720 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:54:14.411 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:54:15.658 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty1.wav
+Thu 31/05/2018 17:54:18.460 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:54:26.565 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:54:30.210 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:54:31.505 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty1.wav
+Thu 31/05/2018 17:54:34.282 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:54:43.371 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:54:47.015 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:54:48.302 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty1.wav
+Thu 31/05/2018 17:54:51.063 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:54:59.802 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:55:03.453 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:55:04.733 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty1.wav
+Thu 31/05/2018 17:55:07.642 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:55:15.951 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:55:19.602 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:55:20.881 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty1.wav
+Thu 31/05/2018 17:55:23.667 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:55:32.233 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:55:35.861 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:55:37.164 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty1.wav
+Thu 31/05/2018 17:55:39.894 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:55:48.384 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:55:52.010 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:55:53.313 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty1.wav
+Thu 31/05/2018 17:55:56.006 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:56:04.532 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:56:08.177 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:56:09.463 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty1.wav
+Thu 31/05/2018 17:56:12.335 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:56:20.947 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:56:24.645 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:56:25.878 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty1.wav
+Thu 31/05/2018 17:56:28.414 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:56:37.059 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:56:40.694 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:56:41.990 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty1.wav
+Thu 31/05/2018 17:56:44.641 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:56:53.145 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:56:56.789 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:56:58.076 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty1.wav
+Thu 31/05/2018 17:57:00.573 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:57:09.039 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:57:12.690 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:57:13.976 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty1.wav
+Thu 31/05/2018 17:57:16.911 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:57:25.141 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:57:28.792 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:57:30.072 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty1.wav
+Thu 31/05/2018 17:57:32.881 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:57:41.424 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:57:45.052 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:57:46.355 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty1.wav
+Thu 31/05/2018 17:57:49.092 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:57:57.510 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:58:01.131 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:58:02.441 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty1.wav
+Thu 31/05/2018 17:58:05.335 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:58:13.216 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:58:16.867 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:58:18.147 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty1.wav
+Thu 31/05/2018 17:58:20.792 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:58:29.436 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:58:33.063 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:58:34.367 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty1.wav
+Thu 31/05/2018 17:58:37.112 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:58:45.585 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:58:49.253 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:58:50.516 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty1.wav
+Thu 31/05/2018 17:58:52.982 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:59:01.493 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:59:05.137 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:59:06.424 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty1.wav
+Thu 31/05/2018 17:59:09.194 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:59:17.519 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:59:21.174 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:59:22.460 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty1.wav
+Thu 31/05/2018 17:59:25.335 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:59:34.016 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:59:37.664 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:59:38.957 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty1.wav
+Thu 31/05/2018 17:59:41.957 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 17:59:50.124 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 17:59:53.773 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 17:59:55.065 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty1.wav
+Thu 31/05/2018 17:59:57.823 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:00:06.484 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:00:10.125 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:00:11.427 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty1.wav
+Thu 31/05/2018 18:00:14.263 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:00:22.809 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:00:26.457 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:00:27.759 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty1.wav
+Thu 31/05/2018 18:00:30.371 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:00:38.892 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:00:42.542 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:00:43.825 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty1.wav
+Thu 31/05/2018 18:00:46.806 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:00:55.140 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:00:58.898 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:01:00.085 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty1.wav
+Thu 31/05/2018 18:01:02.970 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:01:11.644 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:01:15.378 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:01:16.598 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty1.wav
+Thu 31/05/2018 18:01:19.267 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:01:27.782 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:01:31.431 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:01:32.753 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty1.wav
+Thu 31/05/2018 18:01:35.444 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:01:43.805 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:01:47.447 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:01:48.747 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty1.wav
+Thu 31/05/2018 18:01:51.553 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:01:59.838 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:02:03.489 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:02:04.802 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty1.wav
+Thu 31/05/2018 18:02:07.700 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:02:15.986 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:02:19.660 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:02:20.936 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty1.wav
+Thu 31/05/2018 18:02:23.601 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:02:32.121 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:02:35.872 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:02:37.078 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty1.wav
+Thu 31/05/2018 18:02:39.956 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:02:48.595 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:02:52.255 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:02:53.549 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty1.wav
+Thu 31/05/2018 18:02:56.334 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:03:04.867 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:03:08.525 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:03:09.811 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty1.wav
+Thu 31/05/2018 18:03:12.697 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:03:21.203 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:03:24.831 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:03:26.148 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty1.wav
+Thu 31/05/2018 18:03:28.822 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:03:37.326 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:03:40.963 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:03:42.273 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty1.wav
+Thu 31/05/2018 18:03:44.910 INFO - SERIAL Recognized! - Volume_Down
+Thu 31/05/2018 18:03:53.440 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:03:57.068 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:03:58.391 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty2.wav
+Thu 31/05/2018 18:04:00.973 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:04:09.443 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:04:13.095 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:04:14.388 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty2.wav
+Thu 31/05/2018 18:04:16.861 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:04:25.176 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:04:28.966 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:04:30.121 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty2.wav
+Thu 31/05/2018 18:04:32.667 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:04:40.930 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:04:44.572 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:04:45.874 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty2.wav
+Thu 31/05/2018 18:04:48.404 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:04:56.926 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:05:00.576 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:05:01.875 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty2.wav
+Thu 31/05/2018 18:05:04.318 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:05:12.609 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:05:16.246 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:05:17.555 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty2.wav
+Thu 31/05/2018 18:05:20.551 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:05:28.648 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:05:32.309 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:05:33.594 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty2.wav
+Thu 31/05/2018 18:05:36.403 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:05:44.335 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:05:48.003 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:05:49.282 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty2.wav
+Thu 31/05/2018 18:05:52.079 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:06:00.204 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:06:03.881 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:06:05.176 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty2.wav
+Thu 31/05/2018 18:06:06.469 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:06:15.539 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:06:19.191 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:06:20.493 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty2.wav
+Thu 31/05/2018 18:06:22.947 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:06:31.450 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:06:35.119 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:06:36.417 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty2.wav
+Thu 31/05/2018 18:06:39.335 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:06:47.549 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:06:51.219 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:06:52.513 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty2.wav
+Thu 31/05/2018 18:06:55.415 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:07:03.453 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:07:07.124 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:07:08.407 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty2.wav
+Thu 31/05/2018 18:07:11.411 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:07:19.346 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:07:23.055 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:07:24.315 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty2.wav
+Thu 31/05/2018 18:07:26.213 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:07:35.026 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:07:38.680 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:07:39.989 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty2.wav
+Thu 31/05/2018 18:07:42.828 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:07:51.190 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:07:54.884 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:07:56.150 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty2.wav
+Thu 31/05/2018 18:07:58.747 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:08:07.032 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:08:10.703 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:08:12.016 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty2.wav
+Thu 31/05/2018 18:08:14.903 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:08:23.187 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:08:26.851 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:08:28.157 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty2.wav
+Thu 31/05/2018 18:08:30.950 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:08:39.221 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:08:42.901 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:08:44.188 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty2.wav
+Thu 31/05/2018 18:08:46.779 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:08:55.075 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:08:58.756 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:09:00.042 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty2.wav
+Thu 31/05/2018 18:09:02.828 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:09:11.036 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:09:14.684 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:09:15.996 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty2.wav
+Thu 31/05/2018 18:09:18.618 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:09:27.394 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:09:31.059 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:09:32.355 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty2.wav
+Thu 31/05/2018 18:09:34.907 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:09:43.173 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:09:46.822 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:09:48.128 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty2.wav
+Thu 31/05/2018 18:09:51.042 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:09:59.016 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:10:02.687 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:10:03.977 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty2.wav
+Thu 31/05/2018 18:10:06.733 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:10:15.066 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:10:18.716 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:10:20.023 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty2.wav
+Thu 31/05/2018 18:10:22.411 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:10:30.880 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:10:34.710 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:10:35.838 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty2.wav
+Thu 31/05/2018 18:10:38.446 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:10:46.770 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:10:50.428 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:10:51.726 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty2.wav
+Thu 31/05/2018 18:10:54.372 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:11:02.852 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:11:06.507 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:11:07.796 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty2.wav
+Thu 31/05/2018 18:11:10.427 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:11:18.075 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:11:21.742 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:11:23.023 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty2.wav
+Thu 31/05/2018 18:11:25.279 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:11:33.747 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:11:37.381 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:11:38.711 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty2.wav
+Thu 31/05/2018 18:11:41.150 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:11:49.628 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:11:53.301 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:11:54.615 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty2.wav
+Thu 31/05/2018 18:11:57.444 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:12:05.734 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:12:09.407 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:12:10.687 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty2.wav
+Thu 31/05/2018 18:12:13.265 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:12:21.601 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:12:25.256 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:12:26.552 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty2.wav
+Thu 31/05/2018 18:12:29.145 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:12:37.469 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:12:41.102 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:12:42.417 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty2.wav
+Thu 31/05/2018 18:12:45.076 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:12:53.523 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:12:57.211 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:12:58.473 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty2.wav
+Thu 31/05/2018 18:13:00.950 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:13:09.269 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:13:12.928 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:13:14.220 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty2.wav
+Thu 31/05/2018 18:13:16.861 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:13:25.207 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:13:28.872 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:13:30.157 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty2.wav
+Thu 31/05/2018 18:13:32.956 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:13:41.282 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:13:44.938 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:13:46.236 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty2.wav
+Thu 31/05/2018 18:13:48.769 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:13:57.108 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:14:00.743 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:14:02.046 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty2.wav
+Thu 31/05/2018 18:14:04.555 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:14:13.035 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:14:16.756 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:14:17.983 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty2.wav
+Thu 31/05/2018 18:14:20.424 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:14:28.776 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:14:32.436 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:14:33.727 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty2.wav
+Thu 31/05/2018 18:14:36.364 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:14:45.161 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:14:48.835 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:14:50.138 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty2.wav
+Thu 31/05/2018 18:14:52.548 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:15:01.131 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:15:04.766 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:15:06.076 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty2.wav
+Thu 31/05/2018 18:15:08.687 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:15:17.417 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:15:21.062 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:15:22.368 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty2.wav
+Thu 31/05/2018 18:15:25.134 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:15:33.762 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:15:37.411 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:15:38.724 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty2.wav
+Thu 31/05/2018 18:15:41.609 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:15:49.954 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:15:53.615 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:15:54.903 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty2.wav
+Thu 31/05/2018 18:15:57.430 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:16:05.572 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:16:09.220 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:16:10.529 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty2.wav
+Thu 31/05/2018 18:16:13.161 INFO - SERIAL Recognized! - Volume_Up
+Thu 31/05/2018 18:16:21.398 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:16:25.039 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:16:26.358 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty3.wav
+Thu 31/05/2018 18:16:28.507 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:16:37.081 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:16:40.720 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:16:42.035 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty3.wav
+Thu 31/05/2018 18:16:44.394 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:16:52.892 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:16:56.542 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:16:57.838 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty3.wav
+Thu 31/05/2018 18:17:00.190 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:17:08.701 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:17:12.342 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:17:13.641 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty3.wav
+Thu 31/05/2018 18:17:15.947 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:17:24.562 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:17:28.217 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:17:29.516 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty3.wav
+Thu 31/05/2018 18:17:31.494 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:17:39.852 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:17:43.509 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:17:44.806 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty3.wav
+Thu 31/05/2018 18:17:47.753 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:17:55.588 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:17:59.253 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:18:00.555 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty3.wav
+Thu 31/05/2018 18:18:02.954 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:18:11.476 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:18:15.127 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:18:16.427 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty3.wav
+Thu 31/05/2018 18:18:19.085 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:18:27.417 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:18:31.059 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:18:32.401 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty3.wav
+Thu 31/05/2018 18:18:35.137 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:18:43.326 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:18:46.986 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:18:48.280 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty3.wav
+Thu 31/05/2018 18:18:50.829 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:18:59.325 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:19:03.029 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:19:04.276 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty3.wav
+Thu 31/05/2018 18:19:06.927 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:19:15.394 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:19:19.030 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:19:20.338 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty3.wav
+Thu 31/05/2018 18:19:23.223 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:19:31.186 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:19:34.823 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:19:36.137 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty3.wav
+Thu 31/05/2018 18:19:38.976 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:19:47.750 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:19:51.385 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:19:52.697 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty3.wav
+Thu 31/05/2018 18:19:54.923 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:20:03.364 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:20:07.013 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:20:08.308 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty3.wav
+Thu 31/05/2018 18:20:10.960 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:20:19.375 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:20:23.036 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:20:24.334 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty3.wav
+Thu 31/05/2018 18:20:26.710 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:20:35.203 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:20:38.848 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:20:40.153 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty3.wav
+Thu 31/05/2018 18:20:42.869 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:20:51.200 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:20:54.842 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:20:56.155 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty3.wav
+Thu 31/05/2018 18:20:58.924 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:21:07.223 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:21:10.858 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:21:12.173 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty3.wav
+Thu 31/05/2018 18:21:14.996 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:21:22.959 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:21:26.614 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:21:27.920 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty3.wav
+Thu 31/05/2018 18:21:30.345 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:21:38.979 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:21:42.664 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:21:43.960 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty3.wav
+Thu 31/05/2018 18:21:46.434 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:21:54.878 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:21:58.529 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:21:59.826 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty3.wav
+Thu 31/05/2018 18:22:02.329 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:22:10.884 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:22:14.542 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:22:15.831 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty3.wav
+Thu 31/05/2018 18:22:17.826 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:22:26.250 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:22:29.907 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:22:31.207 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty3.wav
+Thu 31/05/2018 18:22:34.062 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:22:42.614 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:22:46.256 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:22:47.562 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty3.wav
+Thu 31/05/2018 18:22:50.153 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:22:58.683 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:23:02.334 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:23:03.631 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty3.wav
+Thu 31/05/2018 18:23:06.400 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:23:14.904 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:23:18.657 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:23:19.851 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty3.wav
+Thu 31/05/2018 18:23:22.598 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:23:31.055 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:23:34.700 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:23:36.002 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty3.wav
+Thu 31/05/2018 18:23:38.380 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:23:46.773 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:23:50.424 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:23:51.710 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty3.wav
+Thu 31/05/2018 18:23:54.619 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:24:02.571 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:24:06.239 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:24:07.526 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty3.wav
+Thu 31/05/2018 18:24:10.108 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:24:18.519 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:24:22.171 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:24:23.470 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty3.wav
+Thu 31/05/2018 18:24:26.170 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:24:34.602 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:24:38.263 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:24:39.555 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty3.wav
+Thu 31/05/2018 18:24:42.153 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:24:50.696 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:24:54.332 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:24:55.650 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty3.wav
+Thu 31/05/2018 18:24:58.615 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:25:06.966 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:25:10.651 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:25:11.920 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty3.wav
+Thu 31/05/2018 18:25:14.721 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:25:23.342 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:25:26.973 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:25:28.282 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty3.wav
+Thu 31/05/2018 18:25:30.742 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:25:39.298 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:25:42.967 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:25:44.246 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty3.wav
+Thu 31/05/2018 18:25:47.038 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:25:55.556 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:25:59.216 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:26:00.509 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty3.wav
+Thu 31/05/2018 18:26:03.443 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:26:11.894 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:26:15.548 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:26:16.858 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty3.wav
+Thu 31/05/2018 18:26:19.657 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:26:28.311 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:26:31.971 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:26:33.256 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty3.wav
+Thu 31/05/2018 18:26:35.739 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:26:44.128 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:26:47.776 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:26:49.091 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty3.wav
+Thu 31/05/2018 18:26:51.424 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:26:59.963 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:27:03.627 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:27:04.904 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty3.wav
+Thu 31/05/2018 18:27:07.533 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:27:16.427 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:27:20.052 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:27:21.371 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty3.wav
+Thu 31/05/2018 18:27:23.986 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:27:32.512 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:27:36.167 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:27:37.466 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty3.wav
+Thu 31/05/2018 18:27:40.293 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:27:49.099 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:27:52.744 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:27:54.048 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty3.wav
+Thu 31/05/2018 18:27:56.819 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:28:05.668 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:28:09.339 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:28:10.621 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty3.wav
+Thu 31/05/2018 18:28:13.486 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:28:21.653 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:28:25.316 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:28:26.614 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty3.wav
+Thu 31/05/2018 18:28:29.161 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:28:37.039 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:28:40.678 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:28:41.973 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty3.wav
+Thu 31/05/2018 18:28:44.966 INFO - SERIAL Recognized! - Next_Song
+Thu 31/05/2018 18:28:52.654 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:28:56.302 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:28:57.624 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty4.wav
+Thu 31/05/2018 18:29:00.569 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:29:08.352 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:29:12.000 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:29:13.305 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty4.wav
+Thu 31/05/2018 18:29:15.582 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:29:24.086 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:29:27.743 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:29:29.039 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty4.wav
+Thu 31/05/2018 18:29:31.358 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:29:39.835 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:29:43.483 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:29:44.779 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty4.wav
+Thu 31/05/2018 18:29:47.615 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:29:55.532 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:29:59.187 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:30:00.523 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty4.wav
+Thu 31/05/2018 18:30:02.947 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:30:11.076 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:30:14.762 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:30:16.055 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty4.wav
+Thu 31/05/2018 18:30:18.992 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:30:26.700 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:30:30.355 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:30:31.648 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty4.wav
+Thu 31/05/2018 18:30:34.424 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:30:42.516 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:30:46.142 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:30:47.460 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty4.wav
+Thu 31/05/2018 18:30:49.743 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:30:58.188 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:31:01.868 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:31:03.130 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty4.wav
+Thu 31/05/2018 18:31:05.437 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:31:13.917 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:31:17.566 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:31:18.857 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty4.wav
+Thu 31/05/2018 18:31:21.188 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:31:29.648 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:31:33.290 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:31:34.601 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty4.wav
+Thu 31/05/2018 18:31:37.302 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:31:45.267 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:31:48.921 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:31:50.214 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty4.wav
+Thu 31/05/2018 18:31:53.051 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:32:00.947 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:32:04.667 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:32:05.892 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty4.wav
+Thu 31/05/2018 18:32:08.732 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:32:16.677 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:32:20.338 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:32:21.622 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty4.wav
+Thu 31/05/2018 18:32:23.953 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:32:32.407 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:32:36.065 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:32:37.358 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty4.wav
+Thu 31/05/2018 18:32:39.861 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:32:48.361 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:32:52.013 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:32:53.319 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty4.wav
+Thu 31/05/2018 18:32:55.736 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:33:04.305 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:33:07.973 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:33:09.260 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty4.wav
+Thu 31/05/2018 18:33:12.085 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:33:20.105 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:33:23.759 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:33:25.062 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty4.wav
+Thu 31/05/2018 18:33:27.410 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:33:35.842 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:33:39.490 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:33:40.786 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty4.wav
+Thu 31/05/2018 18:33:43.377 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:33:51.842 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:33:55.505 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:33:56.790 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty4.wav
+Thu 31/05/2018 18:33:59.101 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:34:07.608 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:34:11.250 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:34:12.543 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty4.wav
+Thu 31/05/2018 18:34:14.967 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:34:23.374 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:34:27.121 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:34:28.325 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty4.wav
+Thu 31/05/2018 18:34:30.676 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:34:39.078 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:34:42.703 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:34:44.016 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty4.wav
+Thu 31/05/2018 18:34:46.798 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:34:54.752 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:34:58.390 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:34:59.701 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty4.wav
+Thu 31/05/2018 18:35:02.232 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:35:10.573 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:35:14.217 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:35:15.523 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty4.wav
+Thu 31/05/2018 18:35:17.846 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:35:26.263 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:35:29.901 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:35:31.210 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty4.wav
+Thu 31/05/2018 18:35:33.464 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:35:41.894 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:35:45.553 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:35:46.841 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty4.wav
+Thu 31/05/2018 18:35:49.187 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:35:57.661 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:36:01.321 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:36:02.608 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty4.wav
+Thu 31/05/2018 18:36:04.920 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:36:13.361 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:36:17.007 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:36:18.313 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty4.wav
+Thu 31/05/2018 18:36:20.589 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:36:29.012 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:36:32.779 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:36:33.959 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty4.wav
+Thu 31/05/2018 18:36:36.846 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:36:44.769 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:36:48.405 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:36:49.740 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty4.wav
+Thu 31/05/2018 18:36:52.061 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:37:00.553 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:37:04.184 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:37:05.512 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty4.wav
+Thu 31/05/2018 18:37:07.907 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:37:16.377 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:37:20.023 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:37:21.315 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty4.wav
+Thu 31/05/2018 18:37:23.749 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:37:32.211 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:37:35.871 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:37:37.157 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty4.wav
+Thu 31/05/2018 18:37:39.563 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:37:48.155 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:37:51.809 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:37:53.098 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty4.wav
+Thu 31/05/2018 18:37:55.421 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:38:03.869 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:38:07.519 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:38:08.831 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty4.wav
+Thu 31/05/2018 18:38:11.227 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:38:19.703 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:38:23.348 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:38:24.647 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty4.wav
+Thu 31/05/2018 18:38:27.533 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:38:35.569 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:38:39.239 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:38:40.546 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty4.wav
+Thu 31/05/2018 18:38:42.848 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:38:51.270 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:38:54.911 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:38:56.211 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty4.wav
+Thu 31/05/2018 18:38:58.431 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:39:06.907 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:39:10.591 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:39:11.858 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty4.wav
+Thu 31/05/2018 18:39:14.148 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:39:22.529 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:39:26.173 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:39:27.482 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty4.wav
+Thu 31/05/2018 18:39:29.931 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:39:38.454 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:39:42.115 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:39:43.414 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty4.wav
+Thu 31/05/2018 18:39:45.805 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:39:54.255 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:39:57.910 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:39:59.250 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty4.wav
+Thu 31/05/2018 18:40:01.584 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:40:10.081 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:40:13.740 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:40:15.085 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty4.wav
+Thu 31/05/2018 18:40:18.012 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:40:26.010 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:40:29.667 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:40:30.974 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty4.wav
+Thu 31/05/2018 18:40:33.542 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:40:41.959 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:40:45.608 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:40:46.904 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty4.wav
+Thu 31/05/2018 18:40:49.210 INFO - SERIAL Recognized! - Pause
+Thu 31/05/2018 18:40:57.615 INFO - Playing trig file C:\AutomationEnvironment\Hello_Bluedio_TestingList_All_-23LUFS-Normalized\0F34KKZCMR2NUE2_10-Hello BlueDio_-23LUFS.wav
+Thu 31/05/2018 18:41:01.256 INFO - SERIAL Recognized! - Trigger
+Thu 31/05/2018 18:41:02.571 INFO - Playing ASR file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty4.wav
+Thu 31/05/2018 18:41:05.338 INFO - SERIAL Recognized! - Pause

@@ -1,0 +1,390 @@
+Thu 21/06/2018 15:02:04.815 INFO - connecting to LabJack for results
+Thu 21/06/2018 15:02:04.838 INFO - Starting to play wav files...
+Thu 21/06/2018 15:02:04.838 INFO - 
+===========================================
+Test_type: M-Trig
+Test description: Headset_Car80_Noise_-23LUFS.wav vol: -24
+list of wavs: C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted_list.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: None
+Counter 1 Name: Trig
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\Jukebox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\M-Trig_(Trunk_rev-478)_A2DP(Fitness_V10.01.00)_Gama11_Gain12_Sensetivity0_QA3-PC_Volume-18(Tone-23LUFS_4100Energy)_Car80-24_Thu21-06-2018@12-43-40.12.txt C:\AutomationEnvironment\lists\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted_list.txt C:\AutomationEnvironment\NoiseFiles\Noises_-23LUFS\Headset_Car80_Noise_-23LUFS.wav 0 -24 5 0 lj M-Trig "Jabra_old2" "SNR" "None" "Trig" "" ""
+-------------------------------------------
+Thu 21/06/2018 15:02:04.891 INFO - LabJack will be checked every 0.5 seconds
+Thu 21/06/2018 15:02:09.822 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty1.wav
+Thu 21/06/2018 15:02:13.081 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:18.266 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty1.wav
+Thu 21/06/2018 15:02:21.266 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:26.364 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty1.wav
+Thu 21/06/2018 15:02:29.963 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:34.404 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty1.wav
+Thu 21/06/2018 15:02:37.645 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:42.515 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty1.wav
+Thu 21/06/2018 15:02:45.834 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:50.614 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty1.wav
+Thu 21/06/2018 15:02:53.516 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:02:58.713 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty1.wav
+Thu 21/06/2018 15:03:02.226 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:06.621 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty1.wav
+Thu 21/06/2018 15:03:09.913 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:14.720 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty1.wav
+Thu 21/06/2018 15:03:18.101 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:22.821 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty1.wav
+Thu 21/06/2018 15:03:26.290 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:30.861 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty1.wav
+Thu 21/06/2018 15:03:33.970 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:39.161 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty1.wav
+Thu 21/06/2018 15:03:42.674 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:47.084 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty1.wav
+Thu 21/06/2018 15:03:50.355 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:03:54.996 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty1.wav
+Thu 21/06/2018 15:03:58.039 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:03.871 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty1.wav
+Thu 21/06/2018 15:04:07.240 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:12.365 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty1.wav
+Thu 21/06/2018 15:04:15.940 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:20.596 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty1.wav
+Thu 21/06/2018 15:04:24.131 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:28.950 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty1.wav
+Thu 21/06/2018 15:04:32.316 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:37.173 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty1.wav
+Thu 21/06/2018 15:04:40.505 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:45.404 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty1.wav
+Thu 21/06/2018 15:04:48.691 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:04:53.901 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty1.wav
+Thu 21/06/2018 15:04:56.881 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:02.059 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty1.wav
+Thu 21/06/2018 15:05:05.071 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:10.230 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty1.wav
+Thu 21/06/2018 15:05:13.263 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:18.226 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty1.wav
+Thu 21/06/2018 15:05:21.453 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:26.391 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty1.wav
+Thu 21/06/2018 15:05:29.641 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:34.759 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty1.wav
+Thu 21/06/2018 15:05:37.829 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:42.927 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty1.wav
+Thu 21/06/2018 15:05:46.095 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:50.700 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty1.wav
+Thu 21/06/2018 15:05:53.775 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:05:59.012 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty1.wav
+Thu 21/06/2018 15:06:02.471 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:07.234 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty1.wav
+Thu 21/06/2018 15:06:10.658 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:15.203 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty1.wav
+Thu 21/06/2018 15:06:18.339 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:23.302 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty1.wav
+Thu 21/06/2018 15:06:27.036 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:31.848 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty1.wav
+Thu 21/06/2018 15:06:35.227 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:40.020 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty1.wav
+Thu 21/06/2018 15:06:43.924 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:48.454 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty1.wav
+Thu 21/06/2018 15:06:51.608 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:06:56.806 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty1.wav
+Thu 21/06/2018 15:06:59.793 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:04.907 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty1.wav
+Thu 21/06/2018 15:07:07.982 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:13.197 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty1.wav
+Thu 21/06/2018 15:07:17.180 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:21.755 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty1.wav
+Thu 21/06/2018 15:07:24.862 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:29.920 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty1.wav
+Thu 21/06/2018 15:07:33.055 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:37.956 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty1.wav
+Thu 21/06/2018 15:07:41.240 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:46.002 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty1.wav
+Thu 21/06/2018 15:07:48.920 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:07:54.101 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty1.wav
+Thu 21/06/2018 15:07:57.104 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:02.257 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty1.wav
+Thu 21/06/2018 15:08:05.798 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:10.742 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty1.wav
+Thu 21/06/2018 15:08:13.986 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:19.032 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty1.wav
+Thu 21/06/2018 15:08:22.171 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:27.382 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty1.wav
+Thu 21/06/2018 15:08:30.865 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:35.540 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty1.wav
+Thu 21/06/2018 15:08:39.049 INFO - counter 1, Recognized! - LJ- Volume Down - 8
+Thu 21/06/2018 15:08:43.698 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty2.wav
+Thu 21/06/2018 15:08:47.233 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:08:51.746 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty2.wav
+Thu 21/06/2018 15:08:54.913 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:08:59.519 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty2.wav
+Thu 21/06/2018 15:09:02.592 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:07.290 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty2.wav
+Thu 21/06/2018 15:09:10.776 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:15.326 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty2.wav
+Thu 21/06/2018 15:09:18.456 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:23.038 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty2.wav
+Thu 21/06/2018 15:09:26.644 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:31.073 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty2.wav
+Thu 21/06/2018 15:09:34.325 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:38.795 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty2.wav
+Thu 21/06/2018 15:09:42.006 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:09:46.713 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty2.wav
+Thu 21/06/2018 15:09:54.046 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty2.wav
+Thu 21/06/2018 15:09:57.286 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:01.960 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty2.wav
+Thu 21/06/2018 15:10:05.474 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:10.058 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty2.wav
+Thu 21/06/2018 15:10:13.154 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:17.961 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty2.wav
+Thu 21/06/2018 15:10:21.338 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:25.865 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty2.wav
+Thu 21/06/2018 15:10:28.510 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:33.516 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty2.wav
+Thu 21/06/2018 15:10:37.203 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:41.707 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty2.wav
+Thu 21/06/2018 15:10:44.882 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:49.559 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty2.wav
+Thu 21/06/2018 15:10:53.071 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:10:57.667 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty2.wav
+Thu 21/06/2018 15:11:01.259 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:05.700 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty2.wav
+Thu 21/06/2018 15:11:08.938 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:13.562 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty2.wav
+Thu 21/06/2018 15:11:17.137 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:21.530 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty2.wav
+Thu 21/06/2018 15:11:24.825 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:29.882 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty2.wav
+Thu 21/06/2018 15:11:33.091 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:37.654 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty2.wav
+Thu 21/06/2018 15:11:40.766 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:45.499 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty2.wav
+Thu 21/06/2018 15:11:48.953 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:11:53.535 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty2.wav
+Thu 21/06/2018 15:11:56.638 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:01.387 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty2.wav
+Thu 21/06/2018 15:12:04.825 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:09.302 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty2.wav
+Thu 21/06/2018 15:12:13.013 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:17.405 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty2.wav
+Thu 21/06/2018 15:12:20.186 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:24.671 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty2.wav
+Thu 21/06/2018 15:12:27.864 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:32.381 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty2.wav
+Thu 21/06/2018 15:12:35.542 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:40.296 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty2.wav
+Thu 21/06/2018 15:12:43.730 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:48.408 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty2.wav
+Thu 21/06/2018 15:12:51.924 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:12:56.318 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty2.wav
+Thu 21/06/2018 15:12:59.601 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:04.230 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty2.wav
+Thu 21/06/2018 15:13:07.786 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:12.326 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty2.wav
+Thu 21/06/2018 15:13:15.470 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:20.121 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty2.wav
+Thu 21/06/2018 15:13:23.657 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:28.092 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty2.wav
+Thu 21/06/2018 15:13:31.845 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:36.187 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty2.wav
+Thu 21/06/2018 15:13:39.522 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:44.040 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty2.wav
+Thu 21/06/2018 15:13:47.200 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:52.016 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty2.wav
+Thu 21/06/2018 15:13:55.397 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:13:59.798 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty2.wav
+Thu 21/06/2018 15:14:03.076 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:08.236 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty2.wav
+Thu 21/06/2018 15:14:11.269 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:16.224 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty2.wav
+Thu 21/06/2018 15:14:19.450 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:24.533 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty2.wav
+Thu 21/06/2018 15:14:28.145 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:32.904 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty2.wav
+Thu 21/06/2018 15:14:36.328 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:41.132 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty2.wav
+Thu 21/06/2018 15:14:44.509 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:48.838 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty2.wav
+Thu 21/06/2018 15:14:52.187 INFO - counter 1, Recognized! - LJ- Volume Up - 6
+Thu 21/06/2018 15:14:56.717 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty3.wav
+Thu 21/06/2018 15:15:04.507 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty3.wav
+Thu 21/06/2018 15:15:07.987 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:12.381 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty3.wav
+Thu 21/06/2018 15:15:15.664 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:20.321 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty3.wav
+Thu 21/06/2018 15:15:23.345 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:28.236 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_1\empty3.wav
+Thu 21/06/2018 15:15:31.029 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:35.573 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty3.wav
+Thu 21/06/2018 15:15:43.369 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty3.wav
+Thu 21/06/2018 15:15:46.816 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:51.312 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty3.wav
+Thu 21/06/2018 15:15:54.496 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:15:59.298 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty3.wav
+Thu 21/06/2018 15:16:02.681 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:07.244 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty3.wav
+Thu 21/06/2018 15:16:10.361 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:15.296 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty3.wav
+Thu 21/06/2018 15:16:18.549 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:23.427 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty3.wav
+Thu 21/06/2018 15:16:26.743 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:31.282 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty3.wav
+Thu 21/06/2018 15:16:34.433 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:39.946 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty3.wav
+Thu 21/06/2018 15:16:43.161 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:47.631 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty3.wav
+Thu 21/06/2018 15:16:50.842 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:16:55.694 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty3.wav
+Thu 21/06/2018 15:16:59.026 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:03.578 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty3.wav
+Thu 21/06/2018 15:17:06.707 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:11.628 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty3.wav
+Thu 21/06/2018 15:17:14.888 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:19.696 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty3.wav
+Thu 21/06/2018 15:17:23.586 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:27.483 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty3.wav
+Thu 21/06/2018 15:17:30.757 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:35.543 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty3.wav
+Thu 21/06/2018 15:17:38.940 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:43.469 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty3.wav
+Thu 21/06/2018 15:17:46.622 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:51.522 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty3.wav
+Thu 21/06/2018 15:17:54.311 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:17:58.927 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty3.wav
+Thu 21/06/2018 15:18:02.484 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:07.283 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty3.wav
+Thu 21/06/2018 15:18:10.678 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:15.413 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty3.wav
+Thu 21/06/2018 15:18:18.851 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:23.696 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty3.wav
+Thu 21/06/2018 15:18:27.039 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:31.927 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty3.wav
+Thu 21/06/2018 15:18:35.237 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:39.647 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty3.wav
+Thu 21/06/2018 15:18:42.918 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:47.503 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty3.wav
+Thu 21/06/2018 15:18:50.598 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:18:55.490 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty3.wav
+Thu 21/06/2018 15:18:58.782 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:03.608 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty3.wav
+Thu 21/06/2018 15:19:06.967 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:11.717 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty3.wav
+Thu 21/06/2018 15:19:15.153 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:20.030 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty3.wav
+Thu 21/06/2018 15:19:23.841 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:28.394 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty3.wav
+Thu 21/06/2018 15:19:31.522 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:36.387 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty3.wav
+Thu 21/06/2018 15:19:39.720 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:44.694 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty3.wav
+Thu 21/06/2018 15:19:48.408 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:19:53.071 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty3.wav
+Thu 21/06/2018 15:19:56.667 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:01.493 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty3.wav
+Thu 21/06/2018 15:20:04.855 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:09.344 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty3.wav
+Thu 21/06/2018 15:20:12.532 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:17.229 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty3.wav
+Thu 21/06/2018 15:20:20.723 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:25.736 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty3.wav
+Thu 21/06/2018 15:20:28.904 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:33.851 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty3.wav
+Thu 21/06/2018 15:20:37.592 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:42.466 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty3.wav
+Thu 21/06/2018 15:20:46.282 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:51.023 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty3.wav
+Thu 21/06/2018 15:20:54.466 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:20:59.002 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty3.wav
+Thu 21/06/2018 15:21:02.141 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:21:06.415 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty3.wav
+Thu 21/06/2018 15:21:09.821 INFO - counter 1, Recognized! - LJ- Next Song - 10
+Thu 21/06/2018 15:21:14.088 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_3\empty4.wav
+Thu 21/06/2018 15:21:16.990 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:21:21.819 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\11815_4\empty4.wav
+Thu 21/06/2018 15:21:24.671 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:21:29.548 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_3\empty4.wav
+Thu 21/06/2018 15:21:32.852 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:21:37.351 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\13715_4\empty4.wav
+Thu 21/06/2018 15:21:40.528 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:21:45.115 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\15715_2\empty4.wav
+Thu 21/06/2018 15:21:52.663 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\2715_5\empty4.wav
+Thu 21/06/2018 15:21:55.808 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:00.257 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\27715_2\empty4.wav
+Thu 21/06/2018 15:22:03.490 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:08.108 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\30715_1\empty4.wav
+Thu 21/06/2018 15:22:11.171 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:15.828 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_2\empty4.wav
+Thu 21/06/2018 15:22:18.848 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:23.619 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\5715_5\empty4.wav
+Thu 21/06/2018 15:22:27.032 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:31.482 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_2\empty4.wav
+Thu 21/06/2018 15:22:34.713 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:39.140 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\6715_5\empty4.wav
+Thu 21/06/2018 15:22:42.388 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:46.858 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\7715_3\empty4.wav
+Thu 21/06/2018 15:22:50.069 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:22:54.650 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\MEN\8715_3\empty4.wav
+Thu 21/06/2018 15:22:57.746 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:02.448 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\12715_2\empty4.wav
+Thu 21/06/2018 15:23:05.430 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:10.454 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_2\empty4.wav
+Thu 21/06/2018 15:23:13.615 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:18.440 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\13815_3\empty4.wav
+Thu 21/06/2018 15:23:21.802 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:26.306 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\15715_1\empty4.wav
+Thu 21/06/2018 15:23:29.484 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:34.104 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\16715_1\empty4.wav
+Thu 21/06/2018 15:23:37.670 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:42.167 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\1715_1\empty4.wav
+Thu 21/06/2018 15:23:45.344 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:49.948 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_1\empty4.wav
+Thu 21/06/2018 15:23:53.023 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:23:57.729 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\21715_2\empty4.wav
+Thu 21/06/2018 15:24:00.706 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:05.447 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\23715_2\empty4.wav
+Thu 21/06/2018 15:24:08.387 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:13.170 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\24815_2\empty4.wav
+Thu 21/06/2018 15:24:16.575 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:21.045 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\26715_3\empty4.wav
+Thu 21/06/2018 15:24:24.253 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:28.780 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_3\empty4.wav
+Thu 21/06/2018 15:24:31.934 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:36.464 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\2715_4\empty4.wav
+Thu 21/06/2018 15:24:39.611 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:44.260 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_1\empty4.wav
+Thu 21/06/2018 15:24:47.290 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:52.009 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_3\empty4.wav
+Thu 21/06/2018 15:24:54.970 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:24:59.678 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\27715_5\empty4.wav
+Thu 21/06/2018 15:25:02.648 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:07.482 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_1\empty4.wav
+Thu 21/06/2018 15:25:10.832 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:15.282 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_3\empty4.wav
+Thu 21/06/2018 15:25:18.507 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:23.147 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\28715_4\empty4.wav
+Thu 21/06/2018 15:25:26.186 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:31.007 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_2\empty4.wav
+Thu 21/06/2018 15:25:34.369 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:38.948 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_3\empty4.wav
+Thu 21/06/2018 15:25:42.046 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:46.706 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\29715_5\empty4.wav
+Thu 21/06/2018 15:25:49.802 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:25:54.563 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\30715_2\empty4.wav
+Thu 21/06/2018 15:25:57.983 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:02.474 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_3\empty4.wav
+Thu 21/06/2018 15:26:05.664 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:10.213 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5715_4\empty4.wav
+Thu 21/06/2018 15:26:13.342 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:17.875 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\5815_3\empty4.wav
+Thu 21/06/2018 15:26:21.023 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:25.546 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_3\empty4.wav
+Thu 21/06/2018 15:26:28.700 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:33.476 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\6715_6\empty4.wav
+Thu 21/06/2018 15:26:36.381 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:41.269 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\7715_1\empty4.wav
+Thu 21/06/2018 15:26:44.563 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:49.049 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_1\empty4.wav
+Thu 21/06/2018 15:26:52.243 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:26:56.911 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\8715_2\empty4.wav
+Thu 21/06/2018 15:26:59.917 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:27:04.763 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_1\empty4.wav
+Thu 21/06/2018 15:27:07.595 INFO - counter 1, Recognized! - LJ- Pause - 12
+Thu 21/06/2018 15:27:12.434 INFO - Playing trig file C:\AutomationEnvironment\FITNNESS_Without_Resume_and_Distance_-23LUFS_sorted\WOMEN\9715_3\empty4.wav
+Thu 21/06/2018 15:27:15.779 INFO - counter 1, Recognized! - LJ- Pause - 12

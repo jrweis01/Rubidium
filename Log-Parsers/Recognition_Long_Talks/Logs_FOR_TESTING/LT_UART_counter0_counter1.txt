@@ -1,0 +1,66 @@
+Wed 16/05/2018 15:51:50.647 INFO - connecting to LabJack for results
+Wed 16/05/2018 15:51:50.647 INFO - Connecting to UART for results
+Wed 16/05/2018 15:51:50.740 INFO - Starting to play wav files...
+Wed 16/05/2018 15:51:50.740 INFO - 
+===========================================
+Test_type: TRIG
+Test description: None vol: 0
+list of wavs: C:\AutomationEnvironment\lists\FA_LongTalks12_Alexa.txt
+signal db is:  0
+asr delay time is: 0s
+Counter 0 Name: COM13
+Counter 1 Name: Trig
+Trigger Recognition phrase: 
+ASR Recognition phrase(s): 
+Command line: python C:\AutomationEnvironment\JukeBox\JukeBox_main.py C:\AUTOMATIONENVIRONMENT\logs\st_Alexa_V50.3.19_UART_50.3.2_Counter0_50.3.7_Counter1_Confrence-Room_M-audio-26.7(3Ft_PinkNoise-62dbSPL)LongTalks-Friends_Wed05-16-2018@15-51-48.85.txt C:\AutomationEnvironment\lists\FA_LongTalks12_Alexa.txt None 0 0 3 0 lj-uart TRIG "Alexa" "Long_Talks" "COM13" "Trig" "" ""
+-------------------------------------------
+Wed 16/05/2018 15:51:50.740 INFO - LabJack will be checked every 0.5 seconds
+Wed 16/05/2018 15:51:53.720 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 15:51:56.292 INFO - UART Recognized! - Trigger found, recognition counter : 1
+Wed 16/05/2018 15:51:56.447 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:51:56.447 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:51:58.601 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 15:52:01.154 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:01.154 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:01.232 INFO - UART Recognized! - Trigger found, recognition counter : 2
+Wed 16/05/2018 15:52:03.306 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 15:52:05.917 INFO - UART Recognized! - Trigger found, recognition counter : 3
+Wed 16/05/2018 15:52:06.355 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:06.355 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:08.009 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 15:52:10.526 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:10.605 INFO - UART Recognized! - Trigger found, recognition counter : 4
+Wed 16/05/2018 15:52:11.118 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:12.694 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 15:52:15.282 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:15.282 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:52:15.298 INFO - UART Recognized! - Trigger found, recognition counter : 5
+Wed 16/05/2018 15:52:17.420 INFO - Playing trig file Z:\FA\FA_long_talks\Friends.wav
+Wed 16/05/2018 15:53:31.904 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:54:26.721 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 15:57:53.095 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:07:38.940 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:07:38.956 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:10:17.648 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:10:54.730 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:12:04.743 INFO - counter 1, undefined value - LJ- - 11
+Wed 16/05/2018 16:14:34.237 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 16:14:36.696 INFO - UART Recognized! - Trigger found, recognition counter : 6
+Wed 16/05/2018 16:14:36.976 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:36.992 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:38.941 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 16:14:41.509 INFO - UART Recognized! - Trigger found, recognition counter : 7
+Wed 16/05/2018 16:14:41.648 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:41.664 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:43.661 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 16:14:46.213 INFO - UART Recognized! - Trigger found, recognition counter : 8
+Wed 16/05/2018 16:14:46.322 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:46.338 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:48.381 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 16:14:50.914 INFO - UART Recognized! - Trigger found, recognition counter : 9
+Wed 16/05/2018 16:14:51.007 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:51.023 INFO - counter 1, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:53.112 INFO - Playing trig file Z:\Alexa\Amazon_recording\good\Fully_Cleaned\00f888064f09fbe2fa07576090eab1a9\0f86a1d4b2624ca014fafd9d3f5418e9.wav
+Wed 16/05/2018 16:14:55.637 INFO - UART Recognized! - Trigger found, recognition counter : 10
+Wed 16/05/2018 16:14:55.684 INFO - counter 0, Recognized! - LJ- Trigger - 2
+Wed 16/05/2018 16:14:55.700 INFO - counter 1, Recognized! - LJ- Trigger - 2
