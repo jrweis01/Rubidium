@@ -1,0 +1,1 @@
+PYTHON C:\AutomationEnvironment\JukeBox\JukeboxAuto.py C:\AUTOMATIONENVIRONMENT\logs\JukeBox_logs_r7s5.txt C:\AutomationEnvironment\lists\OK_GOOGLE_Trigger_Devs_list.txt C:\AutomationEnvironment\NoiseFiles\Headset_Car80_Noise.wav 0 -20 2 2 EB TRIG Google

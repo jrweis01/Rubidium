@@ -1,0 +1,1 @@
+PYTHON C:\AutomationEnvironment\JukeBox\JukeboxAuto.py C:\AUTOMATIONENVIRONMENT\logs\JukeBox_Jabra_47_logs_1.txt C:\AutomationEnvironment\lists\Hey_Jabra_47files.txt C:\AutomationEnvironment\NoiseFiles\Headset_Car80_Noise.wav 0 -20 2 2 EB TRIG Google

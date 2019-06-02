@@ -1,0 +1,1 @@
+"C:\AutomationEnvironment\WinAutomation_Executables\Run_Long_Files_With_Listener_CSV.exe" C:\\AutomationEnvironment\\lists\\FA_LongTalks_with_Times.csv "Time per wav in the list (csv)" Google 10
